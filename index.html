@@ -218,15 +218,15 @@ preserveViewport: true
         });
     }
 
-
+    $("#button").on("click", function () {
+        $("#mapDiv").show();
+        $("#frontPage").hide();
+    });
 
     $(document).on("mobileinit", function(){
         $("#mapDiv").hide();
+        $("#mapDiv").show();
 
-        $("#button").on("click", function () {
-            $("#mapDiv").show();
-            $("#frontPage").hide();
-        });
     });
 
 
