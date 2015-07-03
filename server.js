@@ -31,7 +31,7 @@ app.use(cors());
 
 
 //get API
-app.get('/quote/random', function(req, res) {
+app.get('/getData', function(req, res) {
 
     var results = [];
 
@@ -54,6 +54,8 @@ app.get('/quote/random', function(req, res) {
         //    }
         //    return res.send(JSON.stringify(results));
         //});
+
+        return res.send(JSON.stringify({"hello":"it works"}));
 
         // Handle Errors
         if(err) {

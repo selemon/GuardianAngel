@@ -80,7 +80,7 @@
             alert('89 crimes committed in this area');
             //displayInfo(circle);
         });
-
+        getData();
 
     }
 
@@ -203,10 +203,10 @@ preserveViewport: true
         $.ajax({
             dataType: 'json',
             method: 'GET',
-            url: "https://crime-rate.herokuapp.com/"
+            url: "https://crime-rate.herokuapp.com/getData"
         }).done(function(data){
         //to do when successful
-
+            alert(data.hello);
         }).fail(function(jgXHR, textStatus, errorThrown){
             alert('Server Connection Error');			//let user know something is wrong.
             console.log('ERROR: '+textStatus+ errorThrown);
