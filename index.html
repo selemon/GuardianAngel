@@ -195,6 +195,29 @@ preserveViewport: true
     }
     **/
 
+
+    //ajax to communicate with the server
+    //method for retreving data about crime
+    function getData(){
+        //call server with ajax call.
+        $.ajax({
+            dataType: 'json',
+            method: 'GET',
+            url: "https://crime-rate.herokuapp.com/"
+        }).done(function(data){
+        //to do when successful
+
+        }).fail(function(jgXHR, textStatus, errorThrown){
+            alert('Server Connection Error');			//let user know something is wrong.
+            console.log('ERROR: '+textStatus+ errorThrown);
+        });
+    }
+
+
+
+
+
+
 </script>
 </body>
 </html>
