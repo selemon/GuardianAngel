@@ -1,5 +1,13 @@
-html,body,#mapDiv {
+body {
+    /*background-color: #E7853C;*/
+    margin: 0;
+    font-family: Arial;
     width: 100%;
-    height: 100%;
-    margin: 0px;
+    background-color: #f1ede7;
+
+    /*width: 768px;*/
+
+    /*max-width: 768px;*/
+
+    position: relative;
 }
