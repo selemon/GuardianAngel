@@ -9,13 +9,17 @@
     <script src="https://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js"></script>
 </head>
 <body>
-<h1>Crime Rate Finder</h1>
-<p>
-    Find out the crime rate where you are.
-</p>
-<p>
-    <button onclick="GetMap()">Show Crime Rate</button>
-</p>
+
+<div id="frontPage" style="position: relative; width: 800px; height: 600px;">
+    <h1>Crime Rate Finder</h1>
+    <p>
+        Find out the crime rate where you are.
+    </p>
+    <p>
+        <button id="button" onclick="GetMap()">Show Crime Rate</button>
+    </p>
+
+</div>
 <div id="mapDiv" style="position: relative; width: 800px; height: 600px;"></div>
 <script type="text/javascript">
     var map = null;
@@ -216,7 +220,14 @@ preserveViewport: true
 
 
 
+    $(document).on("mobileinit", function(){
+        $("#mapDiv").hide();
 
+        $("#button").on("click", function () {
+            $("#frontPage").hide();
+            $("#mapDiv").show();
+        })
+    });
 
 
 </script>
