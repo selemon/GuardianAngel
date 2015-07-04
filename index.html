@@ -147,7 +147,8 @@
                 if(city != '' && state != '') {
                     alert("Hello to you out there in "+city+", "+state+"!"+", "+street);
                 }
-                getData();
+//                getData();
+                getDataByLocation();
             }
         });
     }
@@ -303,7 +304,7 @@ preserveViewport: true
             Assaults = Assaults*100/count;
             alert(count);
         }).fail(function(jgXHR, textStatus, errorThrown){
-            alert('Server Connection Error');			//let user know something is wrong.
+            alert('Crime Free');			//let user know something is wrong.
             console.log('ERROR: '+textStatus+ errorThrown);
         });
     }
@@ -348,7 +349,7 @@ preserveViewport: true
 
             alert(count);
         }).fail(function(jgXHR, textStatus, errorThrown){
-            alert('Server Connection Error');			//let user know something is wrong.
+            alert('Crime Free');			//let user know something is wrong.
             console.log('ERROR: '+textStatus+ errorThrown);
         });
     }
