@@ -1,4 +1,4 @@
-Event ID ,Code ,Event Type ,Category ,Status ,Location ,Suburb ,City ,Published
+Event_ID ,Code ,Event_Type ,Category ,Status ,Location ,Suburb ,City ,Published
 P021737271 ,3530,Disorder ,Disorder ,Cancelled ,PARAMOUNT PDE ,TIKIPUNGA ,WHANGAREI DISTRICT ,Sat 1:50 AM
 P021737263 ,3530,Disorder ,Disorder ,Closed ,PARAMOUNT PDE ,TIKIPUNGA ,WHANGAREI DISTRICT ,Sat 1:50 AM
 P021737248 ,3530,Disorder ,Disorder ,Cancelled ,ARAWA ST ,ROTORUA ,ROTORUA DISTRICT ,Sat 1:50 AM
