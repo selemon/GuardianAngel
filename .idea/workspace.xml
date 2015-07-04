@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c739601-3db3-4f6f-8c5a-8beea3c43cd8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/populateTable.js" afterPath="$PROJECT_DIR$/populateTable.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CrimeDataNzCurrent.txt" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/CrimeDataNzCurrent.txt" afterPath="$PROJECT_DIR$/CrimeDataNzCurrent.csv" />
     </list>
     <ignored path="GuardianAngel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,8 +78,8 @@
           <file leaf-file-name="populateTable.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/populateTable.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.22099447" vertical-offset="0" max-vertical-offset="543">
-                  <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+                <state vertical-scroll-proportion="0.24861878" vertical-offset="0" max-vertical-offset="543">
+                  <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
                   <folding>
                     <element signature="e#0#41#0" expanded="false" />
                   </folding>
@@ -120,11 +121,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="CrimeDataNzCurrent.txt" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/CrimeDataNzCurrent.txt">
+          <file leaf-file-name="CrimeDataNzCurrent.csv" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/CrimeDataNzCurrent.csv">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.027624309" vertical-offset="0" max-vertical-offset="19095">
-                  <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+                <state vertical-scroll-proportion="0.24861878" vertical-offset="0" max-vertical-offset="19095">
+                  <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
                   <folding />
                 </state>
               </provider>
@@ -485,21 +486,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CrimeDataNzCurrent.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.027624309" vertical-offset="0" max-vertical-offset="19095">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/populateTable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22099447" vertical-offset="0" max-vertical-offset="543">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.24861878" vertical-offset="0" max-vertical-offset="543">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CrimeDataNzCurrent.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24861878" vertical-offset="0" max-vertical-offset="19095">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
