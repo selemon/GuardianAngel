@@ -261,31 +261,31 @@ preserveViewport: true
             data.forEach(function(d){
 //                alert(d.Event_Type);
                 InterferenceWithCars = d;
-                if(d.Event_Type=="Disorder"){
+                if(d.event_type=="Disorder"){
                     Disorder++;
                     count++;
-                }else if(d.Category=="Liquor"){
+                }else if(d.category=="Liquor"){
                     Liquor++;
                     count++;
-                }else if(d.Event_Type=="Traffic Offending"){
+                }else if(d.event_type=="Traffic Offending"){
                     TrafficOffending++;
                     count++;
-                }else if(d.Event_Type=="AMB2POL"){
+                }else if(d.event_type=="AMB2POL"){
                     AMB2POL++;
                     count++;
-                }else if(d.Event_Type=="Domestic Dispute"){
+                }else if(d.event_type=="Domestic Dispute"){
                     DomesticDispute++;
                     count++;
-                }else if(d.Event_Type=="Robbery"){
+                }else if(d.event_type=="Robbery"){
                     Robbery++;
                     count++;
-                }else if(d.Event_Type=="Drugs (Cannabis Only)"){
+                }else if(d.event_type=="Drugs (Cannabis Only)"){
                     Drugs++;
                     count++;
-                }else if(d.Event_Type=="Burglary"){
+                }else if(d.event_type=="Burglary"){
                     Burglary++;
                     count++;
-                }else if(d.Event_Type=="Serious Assaults"||d.Event_Type=="Minor Assaults"){
+                }else if(d.event_type=="Serious Assaults"||d.event_type=="Minor Assaults"){
                     Assaults++;
                     count++;
                 }
