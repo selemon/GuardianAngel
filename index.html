@@ -252,7 +252,7 @@ preserveViewport: true
     var qu;
     var o = "";
     function read(){
-        function parse(){
+
             d3.csv("CrimeDataNzCurrent.csv", function(error, data) {
                 qu = data;
                 o = 'INSERT INTO data (Event_ID, Code, Event_Type, Category, Status, Location, Suburb, City, Published)';
@@ -263,7 +263,7 @@ preserveViewport: true
                 });
                 postData();
             });
-        }
+        
     }
 
 
