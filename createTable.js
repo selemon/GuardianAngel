@@ -1,5 +1,5 @@
 /**
- * Created by selemon on 22/05/15.
+ * Created by selemon on 4/07/15.
  */
 var pg = require('pg').native
     , connectionString = process.env.DATABASE_URL

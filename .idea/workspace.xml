@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c739601-3db3-4f6f-8c5a-8beea3c43cd8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/createTable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/populateTable.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/populate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/register.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/schema.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/schema2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/schema3.js" afterPath="" />
     </list>
     <ignored path="GuardianAngel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,10 +32,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.42196533" vertical-offset="3096" max-vertical-offset="3615">
+            <state vertical-scroll-proportion="-9.125" vertical-offset="3096" max-vertical-offset="3615">
               <caret line="221" column="14" selection-start-line="221" selection-start-column="14" selection-end-line="221" selection-end-column="14" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -75,12 +81,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="schema.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/schema.js">
+      <file leaf-file-name="createTable.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/createTable.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#41#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="populateTable.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/populateTable.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.24861878" vertical-offset="0" max-vertical-offset="543">
+              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#41#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -127,6 +147,8 @@
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/createTable.js" />
+        <option value="$PROJECT_DIR$/populateTable.js" />
       </list>
     </option>
   </component>
@@ -413,14 +435,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/schema.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="543">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1185">
@@ -457,7 +471,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42196533" vertical-offset="3096" max-vertical-offset="3615">
+        <state vertical-scroll-proportion="-9.125" vertical-offset="3096" max-vertical-offset="3615">
           <caret line="221" column="14" selection-start-line="221" selection-start-column="14" selection-end-line="221" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -466,6 +480,26 @@
             <element signature="n#style#0;n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/createTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/populateTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24861878" vertical-offset="0" max-vertical-offset="543">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
           </folding>
         </state>
       </provider>
