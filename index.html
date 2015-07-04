@@ -258,31 +258,31 @@ preserveViewport: true
             Burglary = 0;
             Assaults = 0;
             data.forEach(function(d){
-                if(d.Event_Type==="Disorder"){
+                if(d.Event_Type=="Disorder"){
                     Disorder++;
                     count++;
-                }else if(d.Category==="Liquor"){
+                }else if(d.Category=="Liquor"){
                     Liquor++;
                     count++;
-                }else if(d.Event_Type==="Traffic Offending"){
+                }else if(d.Event_Type=="Traffic Offending"){
                     TrafficOffending++;
                     count++;
-                }else if(d.Event_Type==="AMB2POL"){
+                }else if(d.Event_Type=="AMB2POL"){
                     AMB2POL++;
                     count++;
-                }else if(d.Event_type==="Domestic Dispute"){
+                }else if(d.Event_Type=="Domestic Dispute"){
                     DomesticDispute++;
                     count++;
-                }else if(d.Event_type==="Robbery"){
+                }else if(d.Event_Type=="Robbery"){
                     Robbery++;
                     count++;
-                }else if(d.Event_Type==="Drugs (Cannabis Only)"){
+                }else if(d.Event_Type=="Drugs (Cannabis Only)"){
                     Drugs++;
                     count++;
-                }else if(d.Event_Type==="Burglary"){
+                }else if(d.Event_Type=="Burglary"){
                     Burglary++;
                     count++;
-                }else if(d.Event_Type==="Serious Assaults"||d.Event_Type==="Minor Assaults"){
+                }else if(d.Event_Type=="Serious Assaults"||d.Event_Type=="Minor Assaults"){
                     Assaults++;
                     count++;
                 }
@@ -297,7 +297,7 @@ preserveViewport: true
             Drugs = Drugs*100/count;
             Burglary = Burglary*100/count;
             Assaults = Assaults*100/count;
-
+            alert(count);
         }).fail(function(jgXHR, textStatus, errorThrown){
             alert('Server Connection Error');			//let user know something is wrong.
             console.log('ERROR: '+textStatus+ errorThrown);
