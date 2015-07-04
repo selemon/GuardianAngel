@@ -8,6 +8,7 @@
     <!--<link rel="stylesheet" href="style.css"/>-->
     <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
     <script src="https://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js"></script>
+    <script type="text/javascript" src="http://d3js.org/d3.v2.js"></script>
 </head>
 <body>
 
@@ -219,6 +220,24 @@ preserveViewport: true
         });
     }
 
+    function postData(){
+        //call server with ajax call.
+        $.ajax({
+            dataType: 'json',
+            method: 'POST',
+            data: {
+                data: o
+            },
+            url: "http://crime-rate.herokuapp.com/PostData"
+        }).done(function(data){
+            //to do when successful
+            alert(data.hello);
+        }).fail(function(jgXHR, textStatus, errorThrown){
+            alert('Server Connection Error');			//let user know something is wrong.
+            console.log('ERROR: '+textStatus+ errorThrown);
+        });
+    }
+
     $("#button").on("click", function () {
         $("#mapDiv").show();
         $("#frontPage").hide();
@@ -229,6 +248,23 @@ preserveViewport: true
 //        $("#mapDiv").show();
 
     });
+
+    var qu;
+    var o = "";
+    function read(){
+        function parse(){
+            d3.csv("CrimeDataNzCurrent.csv", function(error, data) {
+                qu = data;
+                o = 'INSERT INTO data (Event_ID, Code, Event_Type, Category, Status, Location, Suburb, City, Published)';
+                qu.forEach(function(d){
+                    o+= ' VALUES ($$'+ d.Event_ID+'$$, $$'+ d.Code+'$$, $$'+ d.Event_Type+'$$, $$'+ d.Category+'$$, $$'+ d.Status+'$$, $$'+ d.Location+'$$, $$'+ d.Suburb+'$$, $$'+ d.City+'$$, $$'+ d.Published+'$$);';
+                    o+= ' INSERT INTO data (Event_ID, Code, Event_Type, Category, Status, Location, Suburb, City, Published)';
+
+                });
+                postData();
+            });
+        }
+    }
 
 
 </script>
