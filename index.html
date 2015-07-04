@@ -118,7 +118,7 @@
 //        map.fitBounds(circle.getBounds());
 
         map.setCenter(userLocation);
-        map.setZoom(15);
+        map.setZoom(16);
 
         //add an event listener to circle
         google.maps.event.addListener(circle, 'click', function()
@@ -131,9 +131,7 @@
             }
             if(TrafficOffending===undefined){
                 TrafficOffending = 0;
-            }if(AMB2POL===undefined){
-            AMB2POL = 0;
-        }if(DomesticDispute===undefined){
+            }if(DomesticDispute===undefined){
             DomesticDispute = 0;
         }if(Robbery===undefined){
             Robbery = 0;
@@ -150,7 +148,6 @@
             Disorder+"%\n Liquor: "+
             Liquor+"%\n Traffic Offending: "+
             TrafficOffending+"%\n AMB2POL: "+
-            AMB2POL+"%\n Domestic Dispute: "+
             DomesticDispute+"%\n Robbery: "+
             Robbery+"%\n Drugs: "+
             Drugs+"%\n Burglary: "+
@@ -342,10 +339,12 @@ preserveViewport: true
 
                 bounds.extend(place.geometry.location);
                 listener(circle);
+//                mouseListener(place);
             }
 
             map.fitBounds(bounds);
             map.setZoom(17);
+            alert(place.name);
         });
         // [END region_getplaces]
 
@@ -359,6 +358,36 @@ preserveViewport: true
 
 //    google.maps.event.addDomListener(window, 'load', initialize);
 
+    function mouseListener(place){
+        //reverse geocoder to get the physical name of the locations
+        geocoder.geocode({'latLng': userLocation}, function(results, status) {
+            if (status == google.maps.GeocoderStatus.OK) {
+                //we'll do cool crap here
+                //Check result 0
+                var result = results[0];
+                //look for locality tag and administrative_area_level_1
+
+
+                var street = "";
+                for(var i=0, len=result.address_components.length; i<len; i++) {
+                    var ac = result.address_components[i];
+                    if(ac.types.indexOf("locality") >= 0) city = ac.long_name;
+                    if(ac.types.indexOf("sublocality") >= 0) state = ac.long_name;
+                    if(ac.types.indexOf("street_number") >= 0) street = ac.long_name;
+                    if(ac.types.indexOf("route") >= 0) street +=" "+ ac.long_name;
+                    if(ac.types.indexOf("route") >= 0) stAddr = ac.long_name;
+                    if(ac.types.indexOf("locality") >= 0) street +=" "+ ac.long_name;
+                }
+                //only report if we got Good Stuff
+                if(city != '' && state != '') {
+                    alert("Hello to you out there in "+city+", "+state+"!"+", "+street);
+                }
+                getData();
+//                getDataBySuburb();
+//                getDataByLocation();
+            }
+        });
+    }
 
 
     function listener(circle){
@@ -374,9 +403,7 @@ preserveViewport: true
             }
             if(TrafficOffending===undefined){
                 TrafficOffending = 0;
-            }if(AMB2POL===undefined){
-            AMB2POL = 0;
-        }if(DomesticDispute===undefined){
+            }if(DomesticDispute===undefined){
             DomesticDispute = 0;
         }if(Robbery===undefined){
             Robbery = 0;
@@ -393,7 +420,6 @@ preserveViewport: true
             Disorder+"%\n Liquor: "+
             Liquor+"%\n Traffic Offending: "+
             TrafficOffending+"%\n AMB2POL: "+
-            AMB2POL+"%\n Domestic Dispute: "+
             DomesticDispute+"%\n Robbery: "+
             Robbery+"%\n Drugs: "+
             Drugs+"%\n Burglary: "+
@@ -456,9 +482,6 @@ preserveViewport: true
                 }else if(d.event_type=="Traffic Offending"){
                     TrafficOffending++;
                     count++;
-                }else if(d.event_type=="AMB2POL"){
-                    AMB2POL++;
-                    count++;
                 }else if(d.event_type=="Domestic Dispute"){
                     DomesticDispute++;
                     count++;
@@ -480,7 +503,6 @@ preserveViewport: true
             Disorder = Disorder*100/count;
             Liquor = Liquor*100/count;
             TrafficOffending = TrafficOffending*100/count;
-            AMB2POL = AMB2POL*100/count;
             DomesticDispute = DomesticDispute*100/count;
             Robbery = Robbery*100/count;
             Drugs = Drugs*100/count;
@@ -529,9 +551,6 @@ preserveViewport: true
                 }else if(d.event_type=="Traffic Offending"){
                     TrafficOffending++;
                     count++;
-                }else if(d.event_type=="AMB2POL"){
-                    AMB2POL++;
-                    count++;
                 }else if(d.event_type=="Domestic Dispute"){
                     DomesticDispute++;
                     count++;
@@ -553,7 +572,6 @@ preserveViewport: true
             Disorder = Disorder*100/count;
             Liquor = Liquor*100/count;
             TrafficOffending = TrafficOffending*100/count;
-            AMB2POL = AMB2POL*100/count;
             DomesticDispute = DomesticDispute*100/count;
             Robbery = Robbery*100/count;
             Drugs = Drugs*100/count;
@@ -601,9 +619,6 @@ preserveViewport: true
                 }else if(d.event_type=="Traffic Offending"){
                     TrafficOffending++;
                     count++;
-                }else if(d.event_type=="AMB2POL"){
-                    AMB2POL++;
-                    count++;
                 }else if(d.event_type=="Domestic Dispute"){
                     DomesticDispute++;
                     count++;
@@ -625,7 +640,6 @@ preserveViewport: true
             Disorder = Disorder*100/count;
             Liquor = Liquor*100/count;
             TrafficOffending = TrafficOffending*100/count;
-            AMB2POL = AMB2POL*100/count;
             DomesticDispute = DomesticDispute*100/count;
             Robbery = Robbery*100/count;
             Drugs = Drugs*100/count;
