@@ -39,7 +39,7 @@ app.get('/getData/:city', function(req, res) {
     pg.connect(connectionString, function(err, client, done) {
 
         // SQL Query > Select Data
-        var query = client.query('SELECT * FROM data WHERE City = $1',[req.param.city]);
+        var query = client.query('SELECT * FROM data WHERE City = $1',[req.params.city]);
         //
         //// Stream results back one row at a time
         query.on('row', function(row) {
