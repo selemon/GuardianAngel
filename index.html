@@ -327,7 +327,7 @@ preserveViewport: true
 //                });
 
                 var circle = new google.maps.Circle({
-                    center: userLocation,
+                    center: place.geometry.location,
                     radius: carLatLng.accuracy,
                     map: map,
                     title:place.name,
