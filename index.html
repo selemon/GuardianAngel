@@ -341,6 +341,7 @@ preserveViewport: true
                 markers.push(circle);
 
                 bounds.extend(place.geometry.location);
+                listener(circle);
             }
 
             map.fitBounds(bounds);
@@ -360,6 +361,49 @@ preserveViewport: true
 
 
 
+    function listener(circle){
+
+        //add an event listener to circle
+        google.maps.event.addListener(circle, 'click', function()
+        {
+            if(Disorder===undefined){
+                Disorder = 0;
+            }
+            if(Liquor===undefined){
+                Liquor = 0;
+            }
+            if(TrafficOffending===undefined){
+                TrafficOffending = 0;
+            }if(AMB2POL===undefined){
+            AMB2POL = 0;
+        }if(DomesticDispute===undefined){
+            DomesticDispute = 0;
+        }if(Robbery===undefined){
+            Robbery = 0;
+        }if(Drugs===undefined){
+            Drugs = 0;
+        }if(Burglary===undefined){
+            Burglary = 0;
+        }if(Assaults===undefined){
+            Assaults = 0;
+        }
+
+
+            alert("Total of "+count+" crimes in "+name+":\n\n Disorder: "+
+            Disorder+"%\n Liquor: "+
+            Liquor+"%\n Traffic Offending: "+
+            TrafficOffending+"%\n AMB2POL: "+
+            AMB2POL+"%\n Domestic Dispute: "+
+            DomesticDispute+"%\n Robbery: "+
+            Robbery+"%\n Drugs: "+
+            Drugs+"%\n Burglary: "+
+            Burglary+"%\n Assaults: "+
+            Assaults+"%");
+            //displayInfo(circle);
+        });
+
+
+    }
 
 
 
