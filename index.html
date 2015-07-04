@@ -344,11 +344,59 @@ preserveViewport: true
             url: "https://crime-rate.herokuapp.com/getData/"+city.toUpperCase()
         }).done(function(data){
             //to do when successful
-            var count = 0;
+            Suspiciously = data;
+            count = 0;
+            Disorder = 0;
+            Liquor = 0;
+            TrafficOffending = 0;
+            AMB2POL = 0;
+            DomesticDispute = 0;
+            Robbery = 0;
+            Drugs = 0;
+            Burglary = 0;
+            Assaults = 0;
             data.forEach(function(d){
-                count++;
+//                alert(d.Event_Type);
+                InterferenceWithCars = d;
+                if(d.event_type=="Disorder"){
+                    Disorder++;
+                    count++;
+                }else if(d.category=="Liquor"){
+                    Liquor++;
+                    count++;
+                }else if(d.event_type=="Traffic Offending"){
+                    TrafficOffending++;
+                    count++;
+                }else if(d.event_type=="AMB2POL"){
+                    AMB2POL++;
+                    count++;
+                }else if(d.event_type=="Domestic Dispute"){
+                    DomesticDispute++;
+                    count++;
+                }else if(d.event_type=="Robbery"){
+                    Robbery++;
+                    count++;
+                }else if(d.event_type=="Drugs (Cannabis Only)"){
+                    Drugs++;
+                    count++;
+                }else if(d.event_type=="Burglary"){
+                    Burglary++;
+                    count++;
+                }else if(d.event_type=="Serious Assaults"||d.event_type=="Minor Assaults"){
+                    Assaults++;
+                    count++;
+                }
             });
-
+            alert(DomesticDispute);
+            Disorder = Disorder*100/count;
+            Liquor = Liquor*100/count;
+            TrafficOffending = TrafficOffending*100/count;
+            AMB2POL = AMB2POL*100/count;
+            DomesticDispute = DomesticDispute*100/count;
+            Robbery = Robbery*100/count;
+            Drugs = Drugs*100/count;
+            Burglary = Burglary*100/count;
+            Assaults = Assaults*100/count;
             alert(count);
         }).fail(function(jgXHR, textStatus, errorThrown){
             alert('Server Connection Error');			//let user know something is wrong.
@@ -366,11 +414,59 @@ preserveViewport: true
             url: "https://crime-rate.herokuapp.com/getLocation/"+stAddr.toUpperCase()
         }).done(function(data){
             //to do when successful
-            var count = 0;
+            Suspiciously = data;
+            count = 0;
+            Disorder = 0;
+            Liquor = 0;
+            TrafficOffending = 0;
+            AMB2POL = 0;
+            DomesticDispute = 0;
+            Robbery = 0;
+            Drugs = 0;
+            Burglary = 0;
+            Assaults = 0;
             data.forEach(function(d){
-                count++;
+//                alert(d.Event_Type);
+                InterferenceWithCars = d;
+                if(d.event_type=="Disorder"){
+                    Disorder++;
+                    count++;
+                }else if(d.category=="Liquor"){
+                    Liquor++;
+                    count++;
+                }else if(d.event_type=="Traffic Offending"){
+                    TrafficOffending++;
+                    count++;
+                }else if(d.event_type=="AMB2POL"){
+                    AMB2POL++;
+                    count++;
+                }else if(d.event_type=="Domestic Dispute"){
+                    DomesticDispute++;
+                    count++;
+                }else if(d.event_type=="Robbery"){
+                    Robbery++;
+                    count++;
+                }else if(d.event_type=="Drugs (Cannabis Only)"){
+                    Drugs++;
+                    count++;
+                }else if(d.event_type=="Burglary"){
+                    Burglary++;
+                    count++;
+                }else if(d.event_type=="Serious Assaults"||d.event_type=="Minor Assaults"){
+                    Assaults++;
+                    count++;
+                }
             });
-
+            alert(DomesticDispute);
+            Disorder = Disorder*100/count;
+            Liquor = Liquor*100/count;
+            TrafficOffending = TrafficOffending*100/count;
+            AMB2POL = AMB2POL*100/count;
+            DomesticDispute = DomesticDispute*100/count;
+            Robbery = Robbery*100/count;
+            Drugs = Drugs*100/count;
+            Burglary = Burglary*100/count;
+            Assaults = Assaults*100/count;
             alert(count);
         }).fail(function(jgXHR, textStatus, errorThrown){
             alert('Crime Free');			//let user know something is wrong.
