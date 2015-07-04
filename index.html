@@ -112,7 +112,7 @@
                 var result = results[0];
                 //look for locality tag and administrative_area_level_1
 
-                var state = "";
+
                 var street = "";
                 for(var i=0, len=result.address_components.length; i<len; i++) {
                     var ac = result.address_components[i];
@@ -134,7 +134,7 @@
     function locateFail(geoPositionError) {
         alert("error son");
     }
-
+    var state = "";
     var city = "";
     /**
      *
@@ -211,7 +211,7 @@ preserveViewport: true
         $.ajax({
             dataType: 'json',
             method: 'GET',
-            url: "http://crime-rate.herokuapp.com/getData/"+city
+            url: "http://crime-rate.herokuapp.com/getData/"+state
         }).done(function(data){
         //to do when successful
             alert(data[0].Location);
