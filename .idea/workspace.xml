@@ -78,7 +78,7 @@
             <entry file="file://$PROJECT_DIR$/populateTable.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state vertical-scroll-proportion="0.22099447" vertical-offset="0" max-vertical-offset="543">
-                  <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+                  <caret line="10" column="112" selection-start-line="10" selection-start-column="112" selection-end-line="10" selection-end-column="112" />
                   <folding>
                     <element signature="e#0#41#0" expanded="false" />
                   </folding>
@@ -123,8 +123,8 @@
           <file leaf-file-name="CrimeDataNzCurrent.csv" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/CrimeDataNzCurrent.csv">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="19095">
-                  <caret line="0" column="79" selection-start-line="0" selection-start-column="70" selection-end-line="0" selection-end-column="79" />
+                <state vertical-scroll-proportion="0.22099447" vertical-offset="15" max-vertical-offset="19095">
+                  <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
                   <folding />
                 </state>
               </provider>
@@ -475,14 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CrimeDataNzCurrent.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="19095">
-          <caret line="0" column="79" selection-start-line="0" selection-start-column="70" selection-end-line="0" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/createTable.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
@@ -493,10 +485,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CrimeDataNzCurrent.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22099447" vertical-offset="15" max-vertical-offset="19095">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/populateTable.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22099447" vertical-offset="0" max-vertical-offset="543">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <caret line="10" column="112" selection-start-line="10" selection-start-column="112" selection-end-line="10" selection-end-column="112" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
