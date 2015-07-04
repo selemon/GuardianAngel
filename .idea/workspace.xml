@@ -97,8 +97,8 @@
           <file leaf-file-name="populateTable.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/populateTable.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6961326" vertical-offset="27" max-vertical-offset="570">
-                  <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+                <state vertical-scroll-proportion="0.74585634" vertical-offset="0" max-vertical-offset="543">
+                  <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
                   <folding>
                     <element signature="e#0#41#0" expanded="false" />
                   </folding>
@@ -524,8 +524,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/populateTable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6961326" vertical-offset="27" max-vertical-offset="570">
-          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.74585634" vertical-offset="0" max-vertical-offset="543">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
