@@ -268,6 +268,7 @@ preserveViewport: true
     //method for retreving data about crime
     function getData(){
         //call server with ajax call.
+        name = state;
         $.ajax({
             dataType: 'json',
             method: 'GET',
@@ -275,7 +276,7 @@ preserveViewport: true
         }).done(function(data){
         //to do when successful
             Suspiciously = data;
-            name = state;
+//            name = state;
             count = 0;
             Disorder = 0;
             Liquor = 0;
@@ -340,6 +341,7 @@ preserveViewport: true
     //method for retreving data about crime
     function getDataBySuburb(){
         //call server with ajax call.
+        name = city;
         $.ajax({
             dataType: 'json',
             method: 'GET',
@@ -347,7 +349,7 @@ preserveViewport: true
         }).done(function(data){
             //to do when successful
             Suspiciously = data;
-            name = city;
+
             count = 0;
             Disorder = 0;
             Liquor = 0;
@@ -411,6 +413,7 @@ preserveViewport: true
     //method for retreving data about crime
     function getDataByLocation(){
         //call server with ajax call.
+        name = stAddr;
         $.ajax({
             dataType: 'json',
             method: 'GET',
@@ -418,7 +421,7 @@ preserveViewport: true
         }).done(function(data){
             //to do when successful
             Suspiciously = data;
-            name = stAddr;
+
             count = 0;
             Disorder = 0;
             Liquor = 0;
