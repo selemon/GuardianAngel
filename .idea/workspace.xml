@@ -31,8 +31,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.7398844" vertical-offset="1836" max-vertical-offset="5910">
-                  <caret line="148" column="31" selection-start-line="148" selection-start-column="31" selection-end-line="148" selection-end-column="31" />
+                <state vertical-scroll-proportion="0.47976878" vertical-offset="4851" max-vertical-offset="5940">
+                  <caret line="340" column="67" selection-start-line="340" selection-start-column="67" selection-end-line="340" selection-end-column="67" />
                   <folding>
                     <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
@@ -63,7 +63,7 @@
           <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/server.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="942" max-vertical-offset="2295">
+                <state vertical-scroll-proportion="0.0" vertical-offset="297" max-vertical-offset="2295">
                   <caret line="70" column="29" selection-start-line="70" selection-start-column="29" selection-end-line="70" selection-end-column="29" />
                   <folding />
                 </state>
@@ -129,7 +129,7 @@
           <file leaf-file-name="CrimeDataNzCurrent.csv" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/CrimeDataNzCurrent.csv">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.3038674" vertical-offset="15" max-vertical-offset="19095">
+                <state vertical-scroll-proportion="0.3314917" vertical-offset="0" max-vertical-offset="19095">
                   <caret line="12" column="85" selection-start-line="12" selection-start-column="85" selection-end-line="12" selection-end-column="85" />
                   <folding />
                 </state>
@@ -703,7 +703,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CrimeDataNzCurrent.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3038674" vertical-offset="15" max-vertical-offset="19095">
+        <state vertical-scroll-proportion="0.3314917" vertical-offset="0" max-vertical-offset="19095">
           <caret line="12" column="85" selection-start-line="12" selection-start-column="85" selection-end-line="12" selection-end-column="85" />
           <folding />
         </state>
@@ -719,8 +719,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7398844" vertical-offset="1836" max-vertical-offset="5910">
-          <caret line="148" column="31" selection-start-line="148" selection-start-column="31" selection-end-line="148" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.47976878" vertical-offset="4851" max-vertical-offset="5940">
+          <caret line="340" column="67" selection-start-line="340" selection-start-column="67" selection-end-line="340" selection-end-column="67" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>

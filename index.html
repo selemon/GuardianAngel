@@ -140,13 +140,14 @@
                     if(ac.types.indexOf("sublocality") >= 0) state = ac.long_name;
                     if(ac.types.indexOf("street_number") >= 0) street = ac.long_name;
                     if(ac.types.indexOf("route") >= 0) street +=" "+ ac.long_name;
+                    if(ac.types.indexOf("route") >= 0) stAddr = ac.long_name;
                     if(ac.types.indexOf("locality") >= 0) street +=" "+ ac.long_name;
                 }
                 //only report if we got Good Stuff
                 if(city != '' && state != '') {
                     alert("Hello to you out there in "+city+", "+state+"!"+", "+street);
                 }
-                getDataBySuburb();
+                getData();
             }
         });
     }
@@ -155,6 +156,7 @@
         alert("error son");
     }
     var state = "";
+    var stAddr = "";
     var city = "";
     /**
      *
@@ -238,7 +240,7 @@ preserveViewport: true
 
     //ajax to communicate with the server
     //method for retreving data about crime
-    function getDataBySuburb(){
+    function getData(){
         //call server with ajax call.
         $.ajax({
             dataType: 'json',
@@ -336,7 +338,7 @@ preserveViewport: true
         $.ajax({
             dataType: 'json',
             method: 'GET',
-            url: "https://crime-rate.herokuapp.com/getData/"+location
+            url: "https://crime-rate.herokuapp.com/getData/"+stAddr.toUpperCase()
         }).done(function(data){
             //to do when successful
             var count = 0;
