@@ -319,26 +319,15 @@ preserveViewport: true
                 };
 
                 // Create a marker for each place.
-//                var marker = new google.maps.Marker({
-//                    map: map,
-//                    icon: image,
-//                    title: place.name,
-//                    position: place.geometry.location
-//                });
-
-                var circle = new google.maps.Circle({
-                    center: place.geometry.location,
-                    radius: carLatLng.accuracy,
+                var marker = new google.maps.Marker({
                     map: map,
-                    title:place.name,
-                    fillColor: '#70E7FF',
-                    fillOpacity: 0.2,
-                    strokeColor: '#0000FF',
-                    strokeOpacity: 1.0,
-                    clickable: true
+                    icon: image,
+                    title: place.name,
+                    position: place.geometry.location
                 });
 
-                markers.push(circle);
+
+                markers.push(marker);
 
                 bounds.extend(place.geometry.location);
             }
