@@ -243,7 +243,7 @@ preserveViewport: true
         $.ajax({
             dataType: 'json',
             method: 'GET',
-            url: "https://crime-rate.herokuapp.com/getSuburb/"+state.toString()
+            url: "https://crime-rate.herokuapp.com/getSuburb/"+state+""
         }).done(function(data){
         //to do when successful
             Suspiciously = data;
