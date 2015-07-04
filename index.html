@@ -8,7 +8,7 @@
     <!--<link rel="stylesheet" href="style.css"/>-->
     <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
     <script src="https://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js"></script>
-    <script type="text/javascript" src="http://d3js.org/d3.v2.js"></script>
+    <script src="jquery-csv.js"></script>
 </head>
 <body>
 
@@ -251,19 +251,32 @@ preserveViewport: true
 
     var qu;
     var o = "";
+    var result = [];
+    var file = "CrimeDataNzCurrent.csv";
     function read(){
 
-            d3.csv("CrimeDataNzCurrent.csv", function(error, data) {
-                qu = data;
-                o = 'INSERT INTO data (Event_ID, Code, Event_Type, Category, Status, Location, Suburb, City, Published)';
-                qu.forEach(function(d){
-                    o+= ' VALUES ($$'+ d.Event_ID+'$$, $$'+ d.Code+'$$, $$'+ d.Event_Type+'$$, $$'+ d.Category+'$$, $$'+ d.Status+'$$, $$'+ d.Location+'$$, $$'+ d.Suburb+'$$, $$'+ d.City+'$$, $$'+ d.Published+'$$);';
-                    o+= ' INSERT INTO data (Event_ID, Code, Event_Type, Category, Status, Location, Suburb, City, Published)';
+        var lines=file.split("\n");
 
-                });
-                postData();
-            });
-        
+
+
+        var headers=lines[0].split(",");
+
+        for(var i=1;i<lines.length;i++){
+
+            var obj = {};
+            var currentline=lines[i].split(",");
+
+            for(var j=0;j<headers.length;j++){
+                obj[headers[j]] = currentline[j];
+            }
+
+            result.push(obj);
+
+        }
+        alert(headers.length);
+        //return result; //JavaScript object
+//        return JSON.stringify(result); //JSON
+
     }
 
 
