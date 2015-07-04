@@ -258,36 +258,39 @@ preserveViewport: true
             Drugs = 0;
             Burglary = 0;
             Assaults = 0;
-            data.forEach(function(d){
-                alert(d.Event_Type);
-                if(d.Event_Type=="Disorder"){
-                    Disorder++;
-                    count++;
-                }else if(d.Category=="Liquor"){
-                    Liquor++;
-                    count++;
-                }else if(d.Event_Type=="Traffic Offending"){
-                    TrafficOffending++;
-                    count++;
-                }else if(d.Event_Type=="AMB2POL"){
-                    AMB2POL++;
-                    count++;
-                }else if(d.Event_Type=="Domestic Dispute"){
-                    DomesticDispute++;
-                    count++;
-                }else if(d.Event_Type=="Robbery"){
-                    Robbery++;
-                    count++;
-                }else if(d.Event_Type=="Drugs (Cannabis Only)"){
-                    Drugs++;
-                    count++;
-                }else if(d.Event_Type=="Burglary"){
-                    Burglary++;
-                    count++;
-                }else if(d.Event_Type=="Serious Assaults"||d.Event_Type=="Minor Assaults"){
-                    Assaults++;
-                    count++;
-                }
+            data.forEach(function(dd){
+//                alert(d.Event_Type);
+                dd.forEach(function(d){
+                    if(d.Event_Type=="Disorder"){
+                        Disorder++;
+                        count++;
+                    }else if(d.Category=="Liquor"){
+                        Liquor++;
+                        count++;
+                    }else if(d.Event_Type=="Traffic Offending"){
+                        TrafficOffending++;
+                        count++;
+                    }else if(d.Event_Type=="AMB2POL"){
+                        AMB2POL++;
+                        count++;
+                    }else if(d.Event_Type=="Domestic Dispute"){
+                        DomesticDispute++;
+                        count++;
+                    }else if(d.Event_Type=="Robbery"){
+                        Robbery++;
+                        count++;
+                    }else if(d.Event_Type=="Drugs (Cannabis Only)"){
+                        Drugs++;
+                        count++;
+                    }else if(d.Event_Type=="Burglary"){
+                        Burglary++;
+                        count++;
+                    }else if(d.Event_Type=="Serious Assaults"||d.Event_Type=="Minor Assaults"){
+                        Assaults++;
+                        count++;
+                    }
+                });
+
             });
             alert(DomesticDispute);
             Disorder = Disorder*100/count;
