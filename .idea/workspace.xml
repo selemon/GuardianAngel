@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c739601-3db3-4f6f-8c5a-8beea3c43cd8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CrimeDataNzCurrent.csv" afterPath="$PROJECT_DIR$/CrimeDataNzCurrent.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/createTable.js" afterPath="$PROJECT_DIR$/createTable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/populateTable.js" afterPath="$PROJECT_DIR$/populateTable.js" />
     </list>
     <ignored path="GuardianAngel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -64,10 +62,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="createTable.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="createTable.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/createTable.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.22099447" vertical-offset="0" max-vertical-offset="543">
+                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
                   <caret line="10" column="241" selection-start-line="10" selection-start-column="241" selection-end-line="10" selection-end-column="241" />
                   <folding>
                     <element signature="e#0#41#0" expanded="false" />
@@ -76,11 +74,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="populateTable.js" pinned="false" current-in-tab="false">
+          <file leaf-file-name="populateTable.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/populateTable.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-                  <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+                <state vertical-scroll-proportion="0.22099447" vertical-offset="0" max-vertical-offset="543">
+                  <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
                   <folding>
                     <element signature="e#0#41#0" expanded="false" />
                   </folding>
@@ -145,10 +143,10 @@
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/server.js" />
         <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/populateTable.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/CrimeDataNzCurrent.csv" />
         <option value="$PROJECT_DIR$/createTable.js" />
+        <option value="$PROJECT_DIR$/populateTable.js" />
       </list>
     </option>
   </component>
@@ -443,16 +441,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/populateTable.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../NWEN304/team23-project/css/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.3259668" vertical-offset="1020" max-vertical-offset="28770">
@@ -497,8 +485,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/createTable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22099447" vertical-offset="0" max-vertical-offset="543">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
           <caret line="10" column="241" selection-start-line="10" selection-start-column="241" selection-end-line="10" selection-end-column="241" />
+          <folding>
+            <element signature="e#0#41#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/populateTable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.22099447" vertical-offset="0" max-vertical-offset="543">
+          <caret line="10" column="65" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>

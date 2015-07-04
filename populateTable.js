@@ -8,5 +8,5 @@ var pg = require('pg').native
 
 client = new pg.Client(connectionString);
 client.connect();
-query = client.query('CREATE TABLE quotes (quote_id BIGSERIAL PRIMARY KEY, author varchar(255) UNIQUE, quote varchar(255) NOT NULL)');
+query = client.query("COPY zip_codes FROM 'CrimeDataNzCurrent.csv' DELIMITER ',' CSV;");
 query.on('end', function() { client.end(); });
