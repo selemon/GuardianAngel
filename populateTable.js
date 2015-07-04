@@ -27,9 +27,8 @@ function parse(){
 parse();
 
 function addToDatabase(data){
-    var cl = new pg.Client(connectionString);
-   var query = cl.query(data);
-    query.on('end', function() { cl.end(); });
+    query = client.query(data);
+    query.on('end', function() { client.end(); });
 }
 
 
