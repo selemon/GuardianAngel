@@ -363,7 +363,7 @@ preserveViewport: true
         $.ajax({
             dataType: 'json',
             method: 'GET',
-            url: "https://crime-rate.herokuapp.com/getData/"+stAddr.toUpperCase()
+            url: "https://crime-rate.herokuapp.com/getLocation/"+stAddr.toUpperCase()
         }).done(function(data){
             //to do when successful
             var count = 0;
