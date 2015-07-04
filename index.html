@@ -118,7 +118,7 @@
         }
 
 
-            alert("Total of "+count+" crimes Disorder "+
+            alert("Total of "+count+" crimes in "+name+" Disorder "+
             Disorder+"% Liquor "+
             Liquor+"% Traffic Offending "+
             TrafficOffending+"% AMB2POL "+
@@ -261,6 +261,7 @@ preserveViewport: true
     var Drugs;
     var Burglary;
     var Assaults;
+    var name;
     var count = 0;
 
     //ajax to communicate with the server
@@ -274,6 +275,7 @@ preserveViewport: true
         }).done(function(data){
         //to do when successful
             Suspiciously = data;
+            name = state;
             count = 0;
             Disorder = 0;
             Liquor = 0;
@@ -345,6 +347,7 @@ preserveViewport: true
         }).done(function(data){
             //to do when successful
             Suspiciously = data;
+            name = city;
             count = 0;
             Disorder = 0;
             Liquor = 0;
@@ -415,6 +418,7 @@ preserveViewport: true
         }).done(function(data){
             //to do when successful
             Suspiciously = data;
+            name = stAddr;
             count = 0;
             Disorder = 0;
             Liquor = 0;
