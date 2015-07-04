@@ -1288,5 +1288,5 @@ var sql = "INSERT INTO mytable(Event_ID,Code,Event_Type,Category,Status,Location
 
 
 
-query = client.query();
+query = client.query(sql);
 query.on('end', function() { client.end(); });

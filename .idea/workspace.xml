@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c739601-3db3-4f6f-8c5a-8beea3c43cd8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/populateTable.js" afterPath="$PROJECT_DIR$/populateTable.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GuardianAngel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -107,8 +105,8 @@
           <file leaf-file-name="populateTable.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/populateTable.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6685083" vertical-offset="18882" max-vertical-offset="19425">
-                  <caret line="1285" column="0" selection-start-line="1285" selection-start-column="0" selection-end-line="1285" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.80662984" vertical-offset="18882" max-vertical-offset="19425">
+                  <caret line="1290" column="24" selection-start-line="1290" selection-start-column="24" selection-end-line="1290" selection-end-column="24" />
                   <folding>
                     <element signature="e#0#41#0" expanded="false" />
                   </folding>
@@ -710,8 +708,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/populateTable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6685083" vertical-offset="18882" max-vertical-offset="19425">
-          <caret line="1285" column="0" selection-start-line="1285" selection-start-column="0" selection-end-line="1285" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.80662984" vertical-offset="18882" max-vertical-offset="19425">
+          <caret line="1290" column="24" selection-start-line="1290" selection-start-column="24" selection-end-line="1290" selection-end-column="24" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
