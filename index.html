@@ -211,10 +211,15 @@ preserveViewport: true
         $.ajax({
             dataType: 'json',
             method: 'GET',
-            url: "http://crime-rate.herokuapp.com/getData/"+state
+            url: "http://crime-rate.herokuapp.com/getData/AUCKLAND"
         }).done(function(data){
         //to do when successful
-            alert(data[0].Location);
+            var count = 0;
+            data.forEach(function(d){
+                count++;
+            });
+
+            alert(count);
         }).fail(function(jgXHR, textStatus, errorThrown){
             alert('Server Connection Error');			//let user know something is wrong.
             console.log('ERROR: '+textStatus+ errorThrown);
