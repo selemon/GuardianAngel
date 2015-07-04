@@ -8,5 +8,5 @@ var pg = require('pg').native
 
 client = new pg.Client(connectionString);
 client.connect();
-query = client.query("COPY data FROM $1 DELIMITER $2 CSV", ['CrimeDataNzCurrent.csv', ',']);
+query = client.query("COPY data FROM 'CrimeDataNzCurrent.csv' DELIMITER ',' CSV");
 query.on('end', function() { client.end(); });
