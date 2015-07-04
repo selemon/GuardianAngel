@@ -364,13 +364,14 @@ preserveViewport: true
 //    google.maps.event.addDomListener(window, 'load', initialize);
 
     function mouseListener(){
+        alert("im in mouse listener");
         var address = document.getElementById("pac-input").value;
         //reverse geocoder to get the physical name of the locations
         geocoder.geocode({'latLng': address}, function(results, status) {
             if (status == google.maps.GeocoderStatus.OK) {
                 //we'll do cool crap here
                 //Check result 0
-
+                alert("im calling loc");
                 var lat = results[0].geometry.location.lat();
                 var lng = results[0].geometry.location.lng();
                 getLoc(lat, lng);
