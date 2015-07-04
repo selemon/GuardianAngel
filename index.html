@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title></title>
     <script src="http://maps.google.com/maps/api/js?sensor=true"></script>
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=places"></script>
+    <!--<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=places"></script>-->
     <!--<link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.css" />-->
     <!--<link rel="stylesheet" href="style.css"/>-->
     <script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
@@ -96,7 +96,16 @@
         //add an event listener to circle
         google.maps.event.addListener(circle, 'click', function()
         {
-            alert('89 crimes committed in this area');
+            alert("Total of "+count+" crimes-"+count+" "+
+            Disorder+"% "+
+            Liquor+"% "+
+            TrafficOffending+"% "+
+            AMB2POL+"% "+
+            DomesticDispute+"% "+
+            Robbery+"% "+
+            Drugs+"% "+
+            Burglary+"% "+
+            Assaults+"%");
             //displayInfo(circle);
         });
 //        getData();
@@ -215,6 +224,18 @@ preserveViewport: true
     }
     **/
 
+    var Disorder;
+    var Liquor;
+//    var InterferenceWithCars;
+    var TrafficOffending;
+    var AMB2POL;
+    var DomesticDispute;
+    var Robbery;
+//    var Suspiciously;
+    var Drugs;
+    var Burglary;
+    var Assaults;
+    var count = 0;
 
     //ajax to communicate with the server
     //method for retreving data about crime
@@ -226,6 +247,73 @@ preserveViewport: true
             url: "https://crime-rate.herokuapp.com/getData/WELLINGTON CITY"
         }).done(function(data){
         //to do when successful
+            count = 0;
+            Disorder = 0;
+            Liquor = 0;
+            TrafficOffending = 0;
+            AMB2POL = 0;
+            DomesticDispute = 0;
+            Robbery = 0;
+            Drugs = 0;
+            Burglary = 0;
+            Assaults = 0;
+            data.forEach(function(d){
+                if(d.Event_Type==="Disorder"){
+                    Disorder++;
+                    count++;
+                }else if(d.Category==="Liquor"){
+                    Liquor++;
+                    count++;
+                }else if(d.Event_Type==="Traffic Offending"){
+                    TrafficOffending++;
+                    count++;
+                }else if(d.Event_Type==="AMB2POL"){
+                    AMB2POL++;
+                    count++;
+                }else if(d.Event_type==="Domestic Dispute"){
+                    DomesticDispute++;
+                    count++;
+                }else if(d.Event_type==="Robbery"){
+                    Robbery++;
+                    count++;
+                }else if(d.Event_Type==="Drugs (Cannabis Only)"){
+                    Drugs++;
+                    count++;
+                }else if(d.Event_Type==="Burglary"){
+                    Burglary++;
+                    count++;
+                }else if(d.Event_Type==="Serious Assaults"||d.Event_Type==="Minor Assaults"){
+                    Assaults++;
+                    count++;
+                }
+            });
+            Disorder = Disorder*100/count;
+            Liquor = Liquor*100/count;
+            TrafficOffending = TrafficOffending*100/count;
+            AMB2POL = AMB2POL*100/count;
+            DomesticDispute = DomesticDispute*100/count;
+            Robbery = Robbery*100/count;
+            Drugs = Drugs*100/count;
+            Burglary = Burglary*100/count;
+            Assaults = Assaults*100/count;
+//            alert(count);
+        }).fail(function(jgXHR, textStatus, errorThrown){
+            alert('Server Connection Error');			//let user know something is wrong.
+            console.log('ERROR: '+textStatus+ errorThrown);
+        });
+    }
+
+
+    //ajax to communicate with the server
+    //method for retreving data about crime
+    function getDataBySuburb(){
+        //call server with ajax call.
+        $.ajax({
+            dataType: 'json',
+            method: 'GET',
+            url: "https://crime-rate.herokuapp.com/getData/"+suburb
+        }).done(function(data){
+            //to do when successful
             var count = 0;
             data.forEach(function(d){
                 count++;
@@ -237,6 +325,29 @@ preserveViewport: true
             console.log('ERROR: '+textStatus+ errorThrown);
         });
     }
+
+    //ajax to communicate with the server
+    //method for retreving data about crime
+    function getDataByLocation(){
+        //call server with ajax call.
+        $.ajax({
+            dataType: 'json',
+            method: 'GET',
+            url: "https://crime-rate.herokuapp.com/getData/"+location
+        }).done(function(data){
+            //to do when successful
+            var count = 0;
+            data.forEach(function(d){
+                count++;
+            });
+
+            alert(count);
+        }).fail(function(jgXHR, textStatus, errorThrown){
+            alert('Server Connection Error');			//let user know something is wrong.
+            console.log('ERROR: '+textStatus+ errorThrown);
+        });
+    }
+
 
 //    function postData(){
 //        //call server with ajax call.
