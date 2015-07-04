@@ -226,7 +226,7 @@ preserveViewport: true
 
     var Disorder;
     var Liquor;
-//    var InterferenceWithCars;
+    var InterferenceWithCars;
     var TrafficOffending;
     var AMB2POL;
     var DomesticDispute;
@@ -248,49 +248,47 @@ preserveViewport: true
         }).done(function(data){
         //to do when successful
             Suspiciously = data;
-//            count = 0;
-//            Disorder = 0;
-//            Liquor = 0;
-//            TrafficOffending = 0;
-//            AMB2POL = 0;
-//            DomesticDispute = 0;
-//            Robbery = 0;
-//            Drugs = 0;
-//            Burglary = 0;
-//            Assaults = 0;
-            data.forEach(function(dd){
+            count = 0;
+            Disorder = 0;
+            Liquor = 0;
+            TrafficOffending = 0;
+            AMB2POL = 0;
+            DomesticDispute = 0;
+            Robbery = 0;
+            Drugs = 0;
+            Burglary = 0;
+            Assaults = 0;
+            data.forEach(function(d){
 //                alert(d.Event_Type);
-                dd.forEach(function(d){
-                    if(d.Event_Type=="Disorder"){
-                        Disorder++;
-                        count++;
-                    }else if(d.Category=="Liquor"){
-                        Liquor++;
-                        count++;
-                    }else if(d.Event_Type=="Traffic Offending"){
-                        TrafficOffending++;
-                        count++;
-                    }else if(d.Event_Type=="AMB2POL"){
-                        AMB2POL++;
-                        count++;
-                    }else if(d.Event_Type=="Domestic Dispute"){
-                        DomesticDispute++;
-                        count++;
-                    }else if(d.Event_Type=="Robbery"){
-                        Robbery++;
-                        count++;
-                    }else if(d.Event_Type=="Drugs (Cannabis Only)"){
-                        Drugs++;
-                        count++;
-                    }else if(d.Event_Type=="Burglary"){
-                        Burglary++;
-                        count++;
-                    }else if(d.Event_Type=="Serious Assaults"||d.Event_Type=="Minor Assaults"){
-                        Assaults++;
-                        count++;
-                    }
-                });
-
+                InterferenceWithCars = d;
+                if(d.Event_Type=="Disorder"){
+                    Disorder++;
+                    count++;
+                }else if(d.Category=="Liquor"){
+                    Liquor++;
+                    count++;
+                }else if(d.Event_Type=="Traffic Offending"){
+                    TrafficOffending++;
+                    count++;
+                }else if(d.Event_Type=="AMB2POL"){
+                    AMB2POL++;
+                    count++;
+                }else if(d.Event_Type=="Domestic Dispute"){
+                    DomesticDispute++;
+                    count++;
+                }else if(d.Event_Type=="Robbery"){
+                    Robbery++;
+                    count++;
+                }else if(d.Event_Type=="Drugs (Cannabis Only)"){
+                    Drugs++;
+                    count++;
+                }else if(d.Event_Type=="Burglary"){
+                    Burglary++;
+                    count++;
+                }else if(d.Event_Type=="Serious Assaults"||d.Event_Type=="Minor Assaults"){
+                    Assaults++;
+                    count++;
+                }
             });
             alert(DomesticDispute);
             Disorder = Disorder*100/count;
