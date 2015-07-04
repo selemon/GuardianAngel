@@ -68,7 +68,7 @@ app.get('/getData/:city', function(req, res) {
 
 
 //get API return the info for a particular suburb
-app.get('/getData/:suburb', function(req, res) {
+app.get('/getSuburb/:suburb', function(req, res) {
 
     var results = [];
 
@@ -104,7 +104,7 @@ app.get('/getData/:suburb', function(req, res) {
 });
 
 //get API return the info for a particular location
-app.get('/getData/:location', function(req, res) {
+app.get('/getLocation/:location', function(req, res) {
 
     var results = [];
 
