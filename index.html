@@ -358,30 +358,17 @@ preserveViewport: true
 //    google.maps.event.addDomListener(window, 'load', initialize);
 
     function mouseListener(place){
+        var address = document.getElementById("pac-input").value;
         //reverse geocoder to get the physical name of the locations
-        geocoder.geocode({'latLng': userLocation}, function(results, status) {
+        geocoder.geocode({'latLng': address}, function(results, status) {
             if (status == google.maps.GeocoderStatus.OK) {
                 //we'll do cool crap here
                 //Check result 0
-                var result = results[0];
-                //look for locality tag and administrative_area_level_1
 
+                alert("Latitude: "+results[0].geometry.location.lat());
+                alert("Longitude: "+results[0].geometry.location.lng());
 
-                var street = "";
-                for(var i=0, len=result.address_components.length; i<len; i++) {
-                    var ac = result.address_components[i];
-                    if(ac.types.indexOf("locality") >= 0) city = ac.long_name;
-                    if(ac.types.indexOf("sublocality") >= 0) state = ac.long_name;
-                    if(ac.types.indexOf("street_number") >= 0) street = ac.long_name;
-                    if(ac.types.indexOf("route") >= 0) street +=" "+ ac.long_name;
-                    if(ac.types.indexOf("route") >= 0) stAddr = ac.long_name;
-                    if(ac.types.indexOf("locality") >= 0) street +=" "+ ac.long_name;
-                }
-                //only report if we got Good Stuff
-                if(city != '' && state != '') {
-                    alert("Hello to you out there in "+city+", "+state+"!"+", "+street);
-                }
-                getData();
+//                getData();
 //                getDataBySuburb();
 //                getDataByLocation();
             }
