@@ -100,7 +100,7 @@
 //        });
         geocoder = new google.maps.Geocoder();
 
-
+        initialize();
 
 
 
@@ -282,7 +282,7 @@ preserveViewport: true
     function initialize() {
 
         var markers = [];
-        
+
         // Create the search box and link it to the UI element.
         var input = /** @type {HTMLInputElement} */(
                 document.getElementById('pac-input'));
@@ -341,7 +341,7 @@ preserveViewport: true
         });
     }
 
-    google.maps.event.addDomListener(window, 'load', initialize);
+//    google.maps.event.addDomListener(window, 'load', initialize);
 
 
 
@@ -600,12 +600,13 @@ preserveViewport: true
 
     $("#button").on("click", function () {
         $("#mapDiv").show();
+        $("#pac-input").show();
         $("#frontPage").hide();
     });
 
     $(document).on("mobileinit", function(){
         $("#mapDiv").hide();
-//        $("#mapDiv").show();
+        $("#pac-input").hide();
 
     });
 
