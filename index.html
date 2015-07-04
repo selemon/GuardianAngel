@@ -88,7 +88,7 @@
             //displayInfo(circle);
         });
 //        getData();
-        read();
+//        read();
     }
 
     // Successful geolocation
@@ -111,7 +111,7 @@
                 //Check result 0
                 var result = results[0];
                 //look for locality tag and administrative_area_level_1
-                var city = "";
+
                 var state = "";
                 var street = "";
                 for(var i=0, len=result.address_components.length; i<len; i++) {
@@ -126,6 +126,7 @@
                 if(city != '' && state != '') {
                     alert("Hello to you out there in "+city+", "+state+"!"+", "+street);
                 }
+                getData();
             }
         });
     }
@@ -134,7 +135,7 @@
         alert("error son");
     }
 
-
+    var city = "";
     /**
      *
      *
@@ -210,33 +211,33 @@ preserveViewport: true
         $.ajax({
             dataType: 'json',
             method: 'GET',
-            url: "http://crime-rate.herokuapp.com/getData"
+            url: "http://crime-rate.herokuapp.com/getData/"+city
         }).done(function(data){
         //to do when successful
-            alert(data.hello);
+            alert(data[0].Location);
         }).fail(function(jgXHR, textStatus, errorThrown){
             alert('Server Connection Error');			//let user know something is wrong.
             console.log('ERROR: '+textStatus+ errorThrown);
         });
     }
 
-    function postData(){
-        //call server with ajax call.
-        $.ajax({
-            dataType: 'json',
-            method: 'POST',
-            data: {
-                data: o
-            },
-            url: "http://crime-rate.herokuapp.com/PostData"
-        }).done(function(data){
-            //to do when successful
-            alert(data.hello);
-        }).fail(function(jgXHR, textStatus, errorThrown){
-            alert('Server Connection Error');			//let user know something is wrong.
-            console.log('ERROR: '+textStatus+ errorThrown);
-        });
-    }
+//    function postData(){
+//        //call server with ajax call.
+//        $.ajax({
+//            dataType: 'json',
+//            method: 'POST',
+//            data: {
+//                data: o
+//            },
+//            url: "http://crime-rate.herokuapp.com/PostData"
+//        }).done(function(data){
+//            //to do when successful
+//            alert(data.hello);
+//        }).fail(function(jgXHR, textStatus, errorThrown){
+//            alert('Server Connection Error');			//let user know something is wrong.
+//            console.log('ERROR: '+textStatus+ errorThrown);
+//        });
+//    }
 
     $("#button").on("click", function () {
         $("#mapDiv").show();
@@ -249,35 +250,6 @@ preserveViewport: true
 
     });
 
-    var qu;
-    var o = "";
-    var result = [];
-    var file = "CrimeDataNzCurrent.csv";
-    function read(){
-
-        var lines=file.split("\n");
-
-
-
-        var headers=lines[0].split(",");
-
-        for(var i=1;i<lines.length;i++){
-
-            var obj = {};
-            var currentline=lines[i].split(",");
-
-            for(var j=0;j<headers.length;j++){
-                obj[headers[j]] = currentline[j];
-            }
-
-            result.push(obj);
-
-        }
-        alert(headers.length);
-        //return result; //JavaScript object
-//        return JSON.stringify(result); //JSON
-
-    }
 
 
 </script>
