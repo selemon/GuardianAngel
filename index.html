@@ -115,10 +115,10 @@
             strokeOpacity: 1.0,
             clickable: true
         });
-        map.fitBounds(circle.getBounds());
-
-//        map.fitBounds(userLocation);
+//        map.fitBounds(circle.getBounds());
+        map.fitBounds(userLocation);
         map.setZoom(17);
+
 
         //add an event listener to circle
         google.maps.event.addListener(circle, 'click', function()
