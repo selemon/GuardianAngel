@@ -322,7 +322,7 @@ preserveViewport: true
 //                    title: place.name,
 //                    position: place.geometry.location
 //                });
-
+                alert(place.name);
                 var circle = new google.maps.Circle({
                     center: place.geometry.location,
                     radius: carLatLng.accuracy,
@@ -344,7 +344,6 @@ preserveViewport: true
 
             map.fitBounds(bounds);
             map.setZoom(17);
-            alert(place.name);
         });
         // [END region_getplaces]
 
