@@ -231,7 +231,7 @@ preserveViewport: true
     var AMB2POL;
     var DomesticDispute;
     var Robbery;
-//    var Suspiciously;
+    var Suspiciously;
     var Drugs;
     var Burglary;
     var Assaults;
@@ -247,6 +247,7 @@ preserveViewport: true
             url: "https://crime-rate.herokuapp.com/getData/AUCKLAND"
         }).done(function(data){
         //to do when successful
+            Suspiciously = data;
             count = 0;
             Disorder = 0;
             Liquor = 0;
