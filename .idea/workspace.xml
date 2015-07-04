@@ -31,8 +31,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.37572256" vertical-offset="1275" max-vertical-offset="5865">
-                  <caret line="98" column="44" selection-start-line="98" selection-start-column="44" selection-end-line="98" selection-end-column="44" />
+                <state vertical-scroll-proportion="0.433526" vertical-offset="3465" max-vertical-offset="5865">
+                  <caret line="246" column="67" selection-start-line="246" selection-start-column="67" selection-end-line="246" selection-end-column="67" />
                   <folding>
                     <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
@@ -129,8 +129,8 @@
           <file leaf-file-name="CrimeDataNzCurrent.csv" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/CrimeDataNzCurrent.csv">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.9116022" vertical-offset="2595" max-vertical-offset="19095">
-                  <caret line="206" column="31" selection-start-line="206" selection-start-column="17" selection-end-line="206" selection-end-column="31" />
+                <state vertical-scroll-proportion="0.19337016" vertical-offset="1755" max-vertical-offset="19095">
+                  <caret line="124" column="76" selection-start-line="124" selection-start-column="68" selection-end-line="124" selection-end-column="76" />
                   <folding />
                 </state>
               </provider>
@@ -711,16 +711,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CrimeDataNzCurrent.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9116022" vertical-offset="2595" max-vertical-offset="19095">
-          <caret line="206" column="31" selection-start-line="206" selection-start-column="17" selection-end-line="206" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.19337016" vertical-offset="1755" max-vertical-offset="19095">
+          <caret line="124" column="76" selection-start-line="124" selection-start-column="68" selection-end-line="124" selection-end-column="76" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37572256" vertical-offset="1275" max-vertical-offset="5865">
-          <caret line="98" column="44" selection-start-line="98" selection-start-column="44" selection-end-line="98" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.433526" vertical-offset="3465" max-vertical-offset="5865">
+          <caret line="246" column="67" selection-start-line="246" selection-start-column="67" selection-end-line="246" selection-end-column="67" />
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
