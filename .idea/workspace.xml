@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c739601-3db3-4f6f-8c5a-8beea3c43cd8" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/CrimeDataNzCurrent.csv" afterPath="$PROJECT_DIR$/CrimeDataNzCurrent.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/populateTable.js" afterPath="$PROJECT_DIR$/populateTable.js" />
     </list>
     <ignored path="GuardianAngel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,8 +77,8 @@
           <file leaf-file-name="populateTable.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/populateTable.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.24861878" vertical-offset="0" max-vertical-offset="543">
-                  <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+                <state vertical-scroll-proportion="0.22099447" vertical-offset="0" max-vertical-offset="543">
+                  <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
                   <folding>
                     <element signature="e#0#41#0" expanded="false" />
                   </folding>
@@ -495,8 +495,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/populateTable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24861878" vertical-offset="0" max-vertical-offset="543">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.22099447" vertical-offset="0" max-vertical-offset="543">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>

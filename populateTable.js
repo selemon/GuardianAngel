@@ -8,5 +8,5 @@ var pg = require('pg').native
 
 client = new pg.Client(connectionString);
 client.connect();
-query = client.query("COPY data(Event_ID ,Code ,Event_Type ,Category ,Status ,Location ,Suburb ,City ,Published) FROM '/Users/selemon/Documents/GuardianAngel/CrimeDataNzCurrent.csv' WITH DELIMITER ',' CSV HEADER");
+query = client.query("COPY data FROM 'CrimeDataNzCurrent.txt'");
 query.on('end', function() { client.end(); });
