@@ -39,7 +39,7 @@ app.get('/getData/:city', function(req, res) {
     pg.connect(connectionString, function(err, client, done) {
 
         // SQL Query > Select Data
-        var query = client.query('SELECT * FROM data WHERE city = $1',[req.param.city]);
+        var query = client.query('SELECT * FROM data WHERE City = $1',[req.param.city]);
         //
         //// Stream results back one row at a time
         query.on('row', function(row) {
@@ -52,7 +52,7 @@ app.get('/getData/:city', function(req, res) {
             if(results.length<1){
                 return res.status(404).send({"error":"NOT FOUND"});
             }
-            return res.send(JSON.stringify(results));
+            return res.send(results);
         });
 
         //return res.send(JSON.stringify({"hello":"it works"}));
