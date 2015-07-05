@@ -726,29 +726,14 @@ preserveViewport: true
     var selected = undefined;
     $("#street").on("click", function () {
         selected = "street";
-        $("#mapDiv").show();
-        $("#pac-input").show();
-        $("#frontPage").hide();
-        GetMap();
-//        initialize();
     });
 
     $("#suburb").on("click", function () {
         selected = "suburb";
-        $("#mapDiv").show();
-        $("#pac-input").show();
-        $("#frontPage").hide();
-        GetMap();
-//        initialize();
     });
 
     $("#city").on("click", function () {
         selected = "city";
-        $("#mapDiv").show();
-        $("#pac-input").show();
-        $("#frontPage").hide();
-        GetMap();
-//        initialize();
     });
 
     $("#button").on("click", function () {
@@ -756,7 +741,11 @@ preserveViewport: true
             alert("Please select a search area");
         }
         else {
-
+            $("#cssmenu").hide();
+            $("#mapDiv").show();
+            $("#pac-input").show();
+            $("#frontPage").hide();
+            GetMap();
         }
     });
 
