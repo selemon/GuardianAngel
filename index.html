@@ -197,8 +197,8 @@
                 if(city != '' && state != '') {
                     alert("Hello to you out there in "+city+", "+state+"!"+", "+street);
                 }
-                getData();
-//                getDataBySuburb();
+//                getData(state);
+                getDataBySuburb(city);
 //                getDataByLocation();
             }
         });
@@ -368,7 +368,7 @@ preserveViewport: true
         administrative_area_level_1: 'short_name',
         country: 'long_name',
         postal_code: 'short_name',
-        borough: 'long_name'
+        sublocality: 'long_name'
     };
 
     var info = {
@@ -378,7 +378,7 @@ preserveViewport: true
         administrative_area_level_1: '',
         country: '',
         postal_code: '',
-        borough: ''
+        sublocality: ''
     };
 
 //    google.maps.event.addDomListener(window, 'load', initialize);
@@ -408,6 +408,7 @@ preserveViewport: true
         //add an event listener to circle
         google.maps.event.addListener(circle, 'click', function()
         {
+            getDataBySuburb(info.locality);
             if(Disorder===undefined){
                 Disorder = 0;
             }
@@ -462,13 +463,13 @@ preserveViewport: true
 
     //ajax to communicate with the server
     //method for retreving data about crime
-    function getData(){
+    function getData(data){
         //call server with ajax call.
-        name = state;
+        name = data;
         $.ajax({
             dataType: 'json',
             method: 'GET',
-            url: "https://crime-rate.herokuapp.com/getSuburb/"+state.toUpperCase()
+            url: "https://crime-rate.herokuapp.com/getSuburb/"+data.toUpperCase()
         }).done(function(data){
         //to do when successful
             Suspiciously = data;
@@ -531,13 +532,13 @@ preserveViewport: true
 
     //ajax to communicate with the server
     //method for retreving data about crime
-    function getDataBySuburb(){
+    function getDataBySuburb(data){
         //call server with ajax call.
-        name = city;
+        name = data;
         $.ajax({
             dataType: 'json',
             method: 'GET',
-            url: "https://crime-rate.herokuapp.com/getData/"+city.toUpperCase()
+            url: "https://crime-rate.herokuapp.com/getData/"+data.toUpperCase()
         }).done(function(data){
             //to do when successful
             Suspiciously = data;
@@ -599,13 +600,13 @@ preserveViewport: true
 
     //ajax to communicate with the server
     //method for retreving data about crime
-    function getDataByLocation(){
+    function getDataByLocation(data){
         //call server with ajax call.
-        name = stAddr;
+        name = data;
         $.ajax({
             dataType: 'json',
             method: 'GET',
-            url: "https://crime-rate.herokuapp.com/getLocation/"+stAddr.toUpperCase()
+            url: "https://crime-rate.herokuapp.com/getLocation/"+data.toUpperCase()
         }).done(function(data){
             //to do when successful
             Suspiciously = data;
