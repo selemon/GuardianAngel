@@ -1,0 +1,1080 @@
+Event_ID,Code,Event_Type,Category,Status,Location,Suburb,City,Published
+P021747210,6820,Firearms Offences,Public safety,Closed,TE ARAWA PL,WELCOME BAY,TAURANGA,Sun 1:56 AM
+P021747568,1510,Serious Assaults,Violence,Closed,LEONARD RD,MOUNT WELLINGTON,AUCKLAND,Sun 1:50 AM
+P021747461,1640,Minor Assaults,Violence,Closed,MILTON RD,PAPATOETOE,AUCKLAND,Sun 1:50 AM
+P021747581,1C,Car/Person Acting Suspiciously,Public safety,Closed,KOWHAI ST,WAINUIOMATA,LOWER HUTT,Sun 1:50 AM
+P021747604,1K,Drunk Custody/Detox Centre,Liquor,Closed,HEREFORD ST,CHRISTCHURCH CENTRAL,CHRISTCHURCH,Sun 1:50 AM
+P021746405,2R,Recovery Motor Vehicle,Vehicle Crime/incident,Closed,KAKARAMEA RD,WHATAWHATA,WAIKATO,Sun 1:50 AM
+P021747629,3530,Disorder,Disorder,Closed,-,AUCKLAND CENTRAL,AUCKLAND,Sun 1:50 AM
+P021746810,3530,Disorder,Disorder,Closed,CORLETT ST,UTUHINA,ROTORUA,Sun 1:50 AM
+P021747621,3530,Disorder,Disorder,Closed,MACLEAN ST,WALLACEVILLE,UPPER HUTT,Sun 1:50 AM
+P021747605,3530,Disorder,Disorder,Closed,PUTIKI RD,OSTEND,AUCKLAND,Sun 1:50 AM
+P021747603,3530,Disorder,Disorder,Closed,LINCOLN RD,ADDINGTON,CHRISTCHURCH,Sun 1:50 AM
+P021747221,3530,Disorder,Disorder,Closed,RUAPEHU ST,TAUPO,TAUPO,Sun 1:50 AM
+P021747610,3H,Hotel Visit,Liquor,Closed,-,,,Sun 1:50 AM
+P021747230,4320,Theft Ex Shop,Dishonesty,Closed,CUBA ST,TE ARO,WELLINGTON,Sun 1:50 AM
+P021746447,1U,Traffic Offending,Road Policing,Closed,HUNUA RD,PAPAKURA,AUCKLAND,Sun 1:50 AM
+P021747634,1U,Traffic Offending,Road Policing,Closed,RICCARTON RD,RICCARTON,CHRISTCHURCH,Sun 1:50 AM
+P021747539,1C,Car/Person Acting Suspiciously,Public safety,Cancelled,SOUTHERN MWY,ELLERSLIE,AUCKLAND,Sun 1:40 AM
+P021747248,1C,Car/Person Acting Suspiciously,Public safety,Closed,NEILL ST,HORNBY,CHRISTCHURCH,Sun 1:40 AM
+P021747558,1C,Car/Person Acting Suspiciously,Public safety,Closed,BANK ST,TE AWAMUTU,WAIPA,Sun 1:40 AM
+P021747535,1I,Blockage/Breakdown On Highway,Road Policing,Closed,SOUTHERN MWY,ELLERSLIE,AUCKLAND,Sun 1:40 AM
+P021747537,3530,Disorder,Disorder,Cancelled,FAIRY SPRINGS RD,FAIRY SPRINGS,ROTORUA,Sun 1:40 AM
+P021747559,3H,Hotel Visit,Liquor,Closed,-,,,Sun 1:40 AM
+P021746949,3H,Hotel Visit,Liquor,Closed,DUKE ST,CAMBRIDGE,WAIPA,Sun 1:40 AM
+P021747013,1D,Domestic Dispute,Family violence,Closed,BEECHE PL,BIRKDALE,AUCKLAND,Sun 1:39 AM
+P021747012,1J,Juvenile Complaint,Public safety,Closed,-,GLEN INNES,AUCKLAND,Sun 1:34 AM
+P021746992,1D,Domestic Dispute,Family violence,Closed,PITT AV,CLENDON PARK,AUCKLAND,Sun 1:33 AM
+P021747468,1510,Serious Assaults,Violence,Closed,ANDREW ST,ALLENTON,ASHBURTON,Sun 1:30 AM
+P021747473,1C,Car/Person Acting Suspiciously,Public safety,Closed,RANDOLPH ST,EDEN TERRACE,AUCKLAND,Sun 1:30 AM
+P021747467,1C,Car/Person Acting Suspiciously,Public safety,Closed,GREAT NORTH RD,NEW LYNN,AUCKLAND,Sun 1:30 AM
+P021746567,1F,Assist Fire/Ambulance/Traffic,Public safety,Closed,-,,,Sun 1:30 AM
+P021747456,1J,Juvenile Complaint,Public safety,Closed,BROADWAY,KAIKOHE,FAR NORTH,Sun 1:30 AM
+P021747465,1K,Drunk Custody/Detox Centre,Liquor,Closed,-,TAUPO,TAUPO,Sun 1:30 AM
+P021746939,1N,Noise Control,Disorder,Closed,PARAKAI ST,PARAPARAUMU,KAPITI,Sun 1:30 AM
+P021747438,1V,Vehicle Collision,Road Policing,Closed,-,PUKEKAWA,WAIKATO,Sun 1:30 AM
+P021747450,3530,Disorder,Disorder,Closed,ARARINO ST,TRENTHAM,UPPER HUTT,Sun 1:30 AM
+P021747448,3530,Disorder,Disorder,Closed,BLACKBURN ST,FRANKTON,HAMILTON,Sun 1:30 AM
+P021747224,3530,Disorder,Disorder,Cancelled,STUDHOLME ST,MORRINSVILLE,MATAMATA-PIAKO,Sun 1:30 AM
+P021747479,3530,Disorder,Disorder,Closed,MUNGAVIN AV,RANUI,PORIRUA,Sun 1:30 AM
+P021747471,3530,Disorder,Disorder,Closed,COBHAM RD,KERIKERI,FAR NORTH,Sun 1:30 AM
+P021747470,3530,Disorder,Disorder,Cancelled,BLACKBURN ST,FRANKTON,HAMILTON,Sun 1:30 AM
+P021747460,3530,Disorder,Disorder,Closed,HARINGTON ST,TAURANGA,TAURANGA,Sun 1:30 AM
+P021747469,3H,Hotel Visit,Liquor,Closed,ROLLESTON DR,ROLLESTON,SELWYN,Sun 1:30 AM
+P021747417,6110,Trespass,Public safety,Closed,GRAEME AV,MANGERE EAST,AUCKLAND,Sun 1:30 AM
+P021744595,6I,Unauthorised Street And Drag Racing,Disorder,Closed,BURROW RD,PUKEKOHE,WAIKATO,Sun 1:30 AM
+P021744785,1U,Traffic Offending,Road Policing,Closed,-,,,Sun 1:30 AM
+P021747474,AMB2POL,Ambulance Assistance,Tasks,Cancelled,-,,,Sun 1:30 AM
+P021747462,FIR2POL,Fire Assistance,Tasks,Cancelled,MORRISON RD,PUKEKAWA,WAIKATO,Sun 1:30 AM
+P021746895,1D,Domestic Dispute,Family violence,Closed,NORMANBY ST,KAWERAU,KAWERAU,Sun 1:25 AM
+P021746710,1D,Domestic Dispute,Family violence,Closed,MACDONALD RD,GLENVIEW,HAMILTON,Sun 1:23 AM
+P021744283,1510,Serious Assaults,Violence,Closed,STATION RD,TAKANINI,AUCKLAND,Sun 1:20 AM
+P021746641,1C,Car/Person Acting Suspiciously,Public safety,Closed,DARBY ST,AUCKLAND CENTRAL,AUCKLAND,Sun 1:20 AM
+P021747382,1C,Car/Person Acting Suspiciously,Public safety,Closed,-,CHRISTCHURCH CENTRAL,CHRISTCHURCH,Sun 1:20 AM
+P021747378,1C,Car/Person Acting Suspiciously,Public safety,Cancelled,MEADOWBANK RD,MEADOWBANK,AUCKLAND,Sun 1:20 AM
+P021747346,3530,Disorder,Disorder,Closed,-,STANMORE BAY,AUCKLAND,Sun 1:20 AM
+P021747394,3530,Disorder,Disorder,Cancelled,WINSTONE AV,CHARTWELL,HAMILTON,Sun 1:20 AM
+P021747358,3530,Disorder,Disorder,Closed,MAIN RD,TOKOROA,SOUTH WAIKATO,Sun 1:20 AM
+P021747349,3H,Hotel Visit,Liquor,Closed,-,,,Sun 1:20 AM
+P021747340,3H,Hotel Visit,Liquor,Closed,-,,,Sun 1:20 AM
+P021747396,3H,Hotel Visit,Liquor,Closed,-,,,Sun 1:20 AM
+P021747370,3H,Hotel Visit,Liquor,Closed,TANCRED ST,HAMPSTEAD,ASHBURTON,Sun 1:20 AM
+P021747356,3H,Hotel Visit,Liquor,Closed,-,,,Sun 1:20 AM
+P021747377,5120,Wilful Damage,Property damage,Closed,RATA ST,HELENSVILLE,AUCKLAND,Sun 1:20 AM
+P021747152,1U,Traffic Offending,Road Policing,Closed,-,,,Sun 1:20 AM
+P021747247,1510,Serious Assaults,Violence,Cancelled,YORK AV,MOUNT MAUNGANUI,TAURANGA,Sun 1:10 AM
+P021747276,1640,Minor Assaults,Violence,Closed,MITCHELSON ST,ELLERSLIE,AUCKLAND,Sun 1:10 AM
+P021747274,1C,Car/Person Acting Suspiciously,Public safety,Closed,SUMMER ST,PONSONBY,AUCKLAND,Sun 1:10 AM
+P021747320,1F,Assist Fire/Ambulance/Traffic,Public safety,Closed,MELBA ST,KAITAIA,FAR NORTH,Sun 1:10 AM
+P021746831,1H,Drunk Home,Liquor,Closed,KUDU RD,OTARA,AUCKLAND,Sun 1:10 AM
+P021747322,3210,Drugs (Cannabis Only),Drugs,Closed,NULL,NEW LYNN,AUCKLAND,Sun 1:10 AM
+P021746948,3530,Disorder,Disorder,Closed,NORTHCOTE RD,HILLCREST,AUCKLAND,Sun 1:10 AM
+P021747246,3530,Disorder,Disorder,Cancelled,YORK AV,MOUNT MAUNGANUI,TAURANGA,Sun 1:10 AM
+P021747231,3530,Disorder,Disorder,Closed,PLEASANT ST,ONEHUNGA,AUCKLAND,Sun 1:10 AM
+P021747266,3530,Disorder,Disorder,Closed,FORDYCE RD,HELENSVILLE,AUCKLAND,Sun 1:10 AM
+P021747275,3H,Hotel Visit,Liquor,Closed,-,,,Sun 1:10 AM
+P021747265,3H,Hotel Visit,Liquor,Closed,-,,,Sun 1:10 AM
+P021747262,3H,Hotel Visit,Liquor,Closed,-,,,Sun 1:10 AM
+P021747254,3H,Hotel Visit,Liquor,Closed,NONE,,ARCADIA,Sun 1:10 AM
+P021747250,3H,Hotel Visit,Liquor,Closed,-,,,Sun 1:10 AM
+P021747156,3H,Hotel Visit,Liquor,Closed,BURNETT ST,ASHBURTON,ASHBURTON,Sun 1:10 AM
+P021747282,3H,Hotel Visit,Liquor,Closed,-,,,Sun 1:10 AM
+P021747252,4120,Burglary,Burglary,Closed,LE CREN ST,SEAVIEW,TIMARU,Sun 1:10 AM
+P021747291,5120,Wilful Damage,Property damage,Closed,BEACH RD,PAHUREHURE,AUCKLAND,Sun 1:10 AM
+P021745870,6I,Unauthorised Street And Drag Racing,Disorder,Closed,BLACK BEECH ST,BIRCHVILLE,UPPER HUTT,Sun 1:10 AM
+P021747311,1U,Traffic Offending,Road Policing,Closed,TI RAKAU DR,BURSWOOD,AUCKLAND,Sun 1:10 AM
+P021747307,5210,Endangering/Interfering,Property damage,Cancelled,-,PAHUREHURE,AUCKLAND,Sun 1:10 AM
+P021746664,1D,Domestic Dispute,Family violence,Closed,PURIRI ST,TE AROHA,MATAMATA-PIAKO,Sun 1:06 AM
+P021747195,1640,Minor Assaults,Violence,Closed,EDINBURGH ST,PUKEKOHE,AUCKLAND,Sun 1:00 AM
+P021747187,1640,Minor Assaults,Violence,Closed,SILVERDALE ST,SILVERDALE,AUCKLAND,Sun 1:00 AM
+P021747169,1C,Car/Person Acting Suspiciously,Public safety,Closed,POOLES RD,GREERTON,TAURANGA,Sun 1:00 AM
+P021747163,1C,Car/Person Acting Suspiciously,Public safety,Closed,ATKINSON AV,OTAHUHU,AUCKLAND,Sun 1:00 AM
+P021747113,1D,Domestic Dispute,Family violence,Closed,CHICHESTER DR,ROSEHILL,AUCKLAND,Sun 1:00 AM
+P021747036,1I,Blockage/Breakdown On Highway,Road Policing,Closed,EASTERN HUTT RD,STOKES VALLEY,LOWER HUTT,Sun 1:00 AM
+P021746649,1K,Drunk Custody/Detox Centre,Liquor,Closed,LYTTELTON ST,SPREYDON,CHRISTCHURCH,Sun 1:00 AM
+P021747146,1K,Drunk Custody/Detox Centre,Liquor,Closed,WALKWAY,TE ARO,WELLINGTON,Sun 1:00 AM
+P021745845,1V,Vehicle Collision,Road Policing,Closed,SIMEON QUAY,LYTTELTON,CHRISTCHURCH,Sun 1:00 AM
+P021747190,1Z,Other Incident,Tasks,Closed,WINTERS RD,MAIREHAU,CHRISTCHURCH,Sun 1:00 AM
+P021747078,3110,Drugs (Not Cannabis),Drugs,Closed,SWANSON ST,AUCKLAND CENTRAL,AUCKLAND,Sun 1:00 AM
+P021746561,3530,Disorder,Disorder,Closed,MURIWAI VALLEY RD,MURIWAI,AUCKLAND,Sun 1:00 AM
+P021747130,3530,Disorder,Disorder,Closed,MOUNT ALBERT RD,ROYAL OAK,AUCKLAND,Sun 1:00 AM
+P021747042,3530,Disorder,Disorder,Closed,JACKSON ST,PETONE,LOWER HUTT,Sun 1:00 AM
+P021747194,3530,Disorder,Disorder,Cancelled,PAGE ST,MORRINSVILLE,MATAMATA-PIAKO,Sun 1:00 AM
+P021747181,3530,Disorder,Disorder,Closed,PORT MARSDEN HWY,RUAKAKA,WHANGAREI,Sun 1:00 AM
+P021747177,3530,Disorder,Disorder,Closed,MONTGOMERY CR,BADER,HAMILTON,Sun 1:00 AM
+P021747176,3530,Disorder,Disorder,Cancelled,SALISBURY ST,CHRISTCHURCH CENTRAL,CHRISTCHURCH,Sun 1:00 AM
+P021747166,3530,Disorder,Disorder,Closed,SALISBURY ST,CHRISTCHURCH CENTRAL,CHRISTCHURCH,Sun 1:00 AM
+P021747151,3530,Disorder,Disorder,Cancelled,-,FRANKTON,HAMILTON,Sun 1:00 AM
+P021747148,3530,Disorder,Disorder,Closed,HIGH ST,AUCKLAND CENTRAL,AUCKLAND,Sun 1:00 AM
+P021747040,3530,Disorder,Disorder,Cancelled,LYTTELTON AV,PORIRUA   CENTRE,PORIRUA,Sun 1:00 AM
+P021747207,3H,Hotel Visit,Liquor,Closed,-,,,Sun 1:00 AM
+P021747185,3H,Hotel Visit,Liquor,Closed,-,,,Sun 1:00 AM
+P021747167,3H,Hotel Visit,Liquor,Closed,-,,,Sun 1:00 AM
+P021747143,3H,Hotel Visit,Liquor,Closed,-,,,Sun 1:00 AM
+P021747150,6110,Trespass,Public safety,Closed,YALDHURST RD,RUSSLEY,CHRISTCHURCH,Sun 1:00 AM
+P021746776,6I,Unauthorised Street And Drag Racing,Disorder,Closed,-,PYES PA,WESTERN BAY OF PLENTY,Sun 1:00 AM
+P021746441,6I,Unauthorised Street And Drag Racing,Disorder,Closed,BIRCH AV,JUDEA,TAURANGA,Sun 1:00 AM
+P021747138,1U,Traffic Offending,Road Policing,Closed,-,,,Sun 1:00 AM
+P021747164,1U,Traffic Offending,Road Policing,Closed,CARO ST,HAMILTON CENTRAL,HAMILTON,Sun 1:00 AM
+P021747060,1U,Traffic Offending,Road Policing,Closed,-,AUCKLAND CENTRAL,AUCKLAND,Sun 1:00 AM
+P021747161,PURSUIT,Pursuit Of Vehicle,Vehicle Crime/incident,Closed,MIRO DR,MURUPARA,WHAKATANE,Sun 1:00 AM
+P021747134,5210,Endangering/Interfering,Property damage,Cancelled,ST ANDREWS RD,PLIMMERTON,PORIRUA,Sun 1:00 AM
+P021746489,1D,Domestic Dispute,Family violence,Closed,DARLINGTON RD,MIRAMAR,WELLINGTON,Sun 12:54 AM
+P021747080,1C,Car/Person Acting Suspiciously,Public safety,Closed,GREAT SOUTH RD,MANUREWA,AUCKLAND,Sun 12:50 AM
+P021747065,1C,Car/Person Acting Suspiciously,Public safety,Closed,DOMETT ST,KAWERAU,KAWERAU,Sun 12:50 AM
+P021747110,1K,Drunk Custody/Detox Centre,Liquor,Closed,SH 1,PLIMMERTON,PORIRUA,Sun 12:50 AM
+P021747085,3530,Disorder,Disorder,Closed,DUFFERIN ST,MOUNT COOK,WELLINGTON,Sun 12:50 AM
+P021747041,3530,Disorder,Disorder,Cancelled,-,PETONE,LOWER HUTT,Sun 12:50 AM
+P021747119,3530,Disorder,Disorder,Closed,MT ALBERT RD,ROYAL OAK,AUCKLAND,Sun 12:50 AM
+P021747100,3530,Disorder,Disorder,Cancelled,JACKSON ST,PETONE,LOWER HUTT,Sun 12:50 AM
+P021747097,3530,Disorder,Disorder,Closed,MORRICE AV,MORRINSVILLE,MATAMATA-PIAKO,Sun 12:50 AM
+P021747086,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:50 AM
+P021747075,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:50 AM
+P021747062,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:50 AM
+P021747061,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:50 AM
+P021746946,3H,Hotel Visit,Liquor,Closed,COMMERCIAL RD,HELENSVILLE,AUCKLAND,Sun 12:50 AM
+P021747111,3H,Hotel Visit,Liquor,Closed,GERALD ST,LINCOLN,SELWYN,Sun 12:50 AM
+P021745911,6I,Unauthorised Street And Drag Racing,Disorder,Closed,PYES PA RD,PYES PA,WESTERN BAY OF PLENTY,Sun 12:50 AM
+P021747021,1U,Traffic Offending,Road Policing,Closed,-,,,Sun 12:50 AM
+P021747095,1U,Traffic Offending,Road Policing,Closed,HAKANOA ST,HUNTLY,WAIKATO,Sun 12:50 AM
+P021746404,1S,Sudden Death,Public safety,Closed,DOWNS RD,EYREWELL FOREST,WAIMAKARIRI,Sun 12:47 AM
+P021746309,1D,Domestic Dispute,Family violence,Closed,GREAT NORTH RD,GLENDENE,AUCKLAND,Sun 12:46 AM
+P021745889,1D,Domestic Dispute,Family violence,Closed,CASTLETON DR,HOWICK,AUCKLAND,Sun 12:45 AM
+P021746977,1D,Domestic Dispute,Family violence,Closed,HAVELOCK RD,NGARUAWAHIA,WAIKATO,Sun 12:40 AM
+P021746921,1I,Blockage/Breakdown On Highway,Road Policing,Closed,-,AUCKLAND CENTRAL,AUCKLAND,Sun 12:40 AM
+P021746812,1R,Breach Of The Peace,Public safety,Closed,KITCHENER ST,AUCKLAND CENTRAL,AUCKLAND,Sun 12:40 AM
+P021747027,1V,Vehicle Collision,Road Policing,Closed,EARLSWORTH RD,MANGERE EAST,AUCKLAND,Sun 12:40 AM
+P021746952,1V,Vehicle Collision,Road Policing,Closed,PITT ST,AUCKLAND CENTRAL,AUCKLAND,Sun 12:40 AM
+P021746940,1V,Vehicle Collision,Road Policing,Closed,-,MANGERE EAST,AUCKLAND,Sun 12:40 AM
+P021747008,1Z,Other Incident,Tasks,Closed,FROM PAPAKURA,,,Sun 12:40 AM
+P021747024,3530,Disorder,Disorder,Closed,-,HAMILTON CENTRAL,HAMILTON,Sun 12:40 AM
+P021747023,3530,Disorder,Disorder,Cancelled,KUIRAU ST,ROTORUA,ROTORUA,Sun 12:40 AM
+P021747007,3530,Disorder,Disorder,Closed,PUKUATUA ST,ROTORUA,ROTORUA,Sun 12:40 AM
+P021746953,3530,Disorder,Disorder,Closed,-,MANGERE,AUCKLAND,Sun 12:40 AM
+P021746945,3530,Disorder,Disorder,Closed,SANTA BARBARA DR,PAPAMOA BEACH,TAURANGA,Sun 12:40 AM
+P021746572,3H,Hotel Visit,Liquor,Closed,NULL,AUCKLAND CENTRAL,AUCKLAND,Sun 12:40 AM
+P021747031,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:40 AM
+P021747019,3H,Hotel Visit,Liquor,Closed,NULL,TE AWAMUTU,WAIPA,Sun 12:40 AM
+P021746978,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:40 AM
+P021746961,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:40 AM
+P021746934,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:40 AM
+P021746929,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:40 AM
+P021745806,5120,Wilful Damage,Property damage,Closed,MANURERE ST,HEI HEI,CHRISTCHURCH,Sun 12:40 AM
+P021746988,1U,Traffic Offending,Road Policing,Closed,GREAT NORTH RD,NEW LYNN,AUCKLAND,Sun 12:40 AM
+P021746968,1U,Traffic Offending,Road Policing,Closed,-,,,Sun 12:40 AM
+P021746673,1U,Traffic Offending,Road Policing,Closed,RAWHITI RD,ONE TREE HILL,AUCKLAND,Sun 12:40 AM
+P021745984,1D,Domestic Dispute,Family violence,Closed,GLOUCESTER ST,CANNONS CREEK,PORIRUA,Sun 12:39 AM
+P021746855,1510,Serious Assaults,Violence,Closed,BOWMAN PL,SOCKBURN,CHRISTCHURCH,Sun 12:30 AM
+P021746688,1C,Car/Person Acting Suspiciously,Public safety,Closed,HIGH ST,TAITA,LOWER HUTT,Sun 12:30 AM
+P021746429,1C,Car/Person Acting Suspiciously,Public safety,Closed,NORMANDY AV,MELVILLE,HAMILTON,Sun 12:30 AM
+P021746911,1F,Assist Fire/Ambulance/Traffic,Public safety,Closed,ISLAND BAY RD,BEACH HAVEN,AUCKLAND,Sun 12:30 AM
+P021746258,3530,Disorder,Disorder,Closed,WAKEFIELD ST,AUCKLAND CENTRAL,AUCKLAND,Sun 12:30 AM
+P021745846,3530,Disorder,Disorder,Closed,YALDHURST RD,SOCKBURN,CHRISTCHURCH,Sun 12:30 AM
+P021746833,3530,Disorder,Disorder,Closed,HEDLEY PL,RAUMANGA,WHANGAREI,Sun 12:30 AM
+P021746907,3530,Disorder,Disorder,Closed,FORTUNE ST,MAIREHAU,CHRISTCHURCH,Sun 12:30 AM
+P021746887,3530,Disorder,Disorder,Closed,EVERTON TCE,WELLINGTON CENTRAL,WELLINGTON,Sun 12:30 AM
+P021746881,3530,Disorder,Disorder,Closed,WALKER GR,STOKES VALLEY,LOWER HUTT,Sun 12:30 AM
+P021746877,3530,Disorder,Disorder,Cancelled,CORLETT ST,UTUHINA,ROTORUA,Sun 12:30 AM
+P021746451,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:30 AM
+P021746910,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:30 AM
+P021746837,6110,Trespass,Public safety,Closed,BROOKFIELD ST,HAMILTON EAST,HAMILTON,Sun 12:30 AM
+P021746711,1U,Traffic Offending,Road Policing,Closed,-,,,Sun 12:30 AM
+P021746870,1U,Traffic Offending,Road Policing,Closed,-,RANGIORA,WAIMAKARIRI,Sun 12:30 AM
+P021746854,1U,Traffic Offending,Road Policing,Closed,MAIN RD,PLEASANT POINT,TIMARU,Sun 12:30 AM
+P021746798,1U,Traffic Offending,Road Policing,Closed,-,,,Sun 12:30 AM
+P021746751,1U,Traffic Offending,Road Policing,Closed,-,ADDINGTON,CHRISTCHURCH,Sun 12:30 AM
+P021746645,1U,Traffic Offending,Road Policing,Closed,AMBRICO PL,NEW LYNN,AUCKLAND,Sun 12:30 AM
+P021746074,1D,Domestic Dispute,Family violence,Closed,BRACKEN RD,PAPARANGI,WELLINGTON,Sun 12:23 AM
+P021746058,1D,Domestic Dispute,Family violence,Closed,EVANS ST,STOKES VALLEY,LOWER HUTT,Sun 12:21 AM
+P021746647,1I,Blockage/Breakdown On Highway,Road Policing,Closed,-,WAIMATAITAI,TIMARU,Sun 12:20 AM
+P021746570,1V,Vehicle Collision,Road Policing,Cancelled,RIPON CR,MEADOWBANK,AUCKLAND,Sun 12:20 AM
+P021746106,1V,Vehicle Collision,Road Policing,Closed,PUHINUI RD,PAPATOETOE,AUCKLAND,Sun 12:20 AM
+P021746750,3530,Disorder,Disorder,Closed,TAKINGA ST,TURANGI,TAUPO,Sun 12:20 AM
+P021746713,3530,Disorder,Disorder,Closed,ELIZABETH ST,VICTORIA,ROTORUA,Sun 12:20 AM
+P021746695,3530,Disorder,Disorder,Cancelled,GREAT SOUTH RD,MANUKAU,AUCKLAND,Sun 12:20 AM
+P021746492,3530,Disorder,Disorder,Closed,BURROW RD,PUKEKOHE,WAIKATO,Sun 12:20 AM
+P021745786,3530,Disorder,Disorder,Closed,PARKVALE RD,KARORI,WELLINGTON,Sun 12:20 AM
+P021746797,3530,Disorder,Disorder,Closed,-,,,Sun 12:20 AM
+P021746794,3530,Disorder,Disorder,Closed,PICTON ST,HOWICK,AUCKLAND,Sun 12:20 AM
+P021746293,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:20 AM
+P021746793,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:20 AM
+P021746759,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:20 AM
+P021746734,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:20 AM
+P021746809,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:20 AM
+P021746768,6110,Trespass,Public safety,Closed,-,PUKEKOHE,AUCKLAND,Sun 12:20 AM
+P021746784,6110,Trespass,Public safety,Closed,KALLU CR,MOUNT ROSKILL,AUCKLAND,Sun 12:20 AM
+P021746716,6820,Firearms Offences,Public safety,Closed,-,MASTERTON,MASTERTON,Sun 12:20 AM
+P021746730,1U,Traffic Offending,Road Policing,Closed,-,,,Sun 12:20 AM
+P021746452,1510,Serious Assaults,Violence,Closed,-,SOCKBURN,CHRISTCHURCH,Sun 12:10 AM
+P021746608,1K,Drunk Custody/Detox Centre,Liquor,Closed,AWARUKU RD,TORBAY,AUCKLAND,Sun 12:10 AM
+P021746204,1K,Drunk Custody/Detox Centre,Liquor,Closed,HIGH ST,HUTT CENTRAL,LOWER HUTT,Sun 12:10 AM
+P021746547,1Z,Other Incident,Tasks,Closed,-,CHRISTCHURCH CENTRAL,CHRISTCHURCH,Sun 12:10 AM
+P021746580,2M,Missing Person,Public safety,Closed,-,,,Sun 12:10 AM
+P021746646,3530,Disorder,Disorder,Closed,MILTON RD,OTUMOETAI,TAURANGA,Sun 12:10 AM
+P021746619,3530,Disorder,Disorder,Closed,KAPITI LIGHTS,PARAPARAUMU,KAPITI,Sun 12:10 AM
+P021746612,3530,Disorder,Disorder,Closed,YORK ST,MOERA,LOWER HUTT,Sun 12:10 AM
+P021746611,3530,Disorder,Disorder,Closed,YORK ST,MOERA,LOWER HUTT,Sun 12:10 AM
+P021746550,3530,Disorder,Disorder,Closed,LINWOOD AV,LINWOOD,CHRISTCHURCH,Sun 12:10 AM
+P021746036,3530,Disorder,Disorder,Cancelled,WILSON PL,PAPAKURA,AUCKLAND,Sun 12:10 AM
+P021745974,3530,Disorder,Disorder,Closed,VONNELL PL,BIRKDALE,AUCKLAND,Sun 12:10 AM
+P021746674,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:10 AM
+P021746638,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:10 AM
+P021746552,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:10 AM
+P021746593,1U,Traffic Offending,Road Policing,Closed,CHURCH RD,KAITAIA,FAR NORTH,Sun 12:10 AM
+P021746542,1U,Traffic Offending,Road Policing,Closed,TIMARU-PAREORA HWY,PAREORA,TIMARU,Sun 12:10 AM
+P021745220,1U,Traffic Offending,Road Policing,Closed,TE IRIRANGI DR,HUNTINGTON PARK,AUCKLAND,Sun 12:10 AM
+P021746667,1U,Traffic Offending,Road Policing,Closed,PUHINUI ROAD-SH #B,WIRI,AUCKLAND,Sun 12:10 AM
+P021745079,1D,Domestic Dispute,Family violence,Closed,CORTA BELLA PL,GOLFLANDS,AUCKLAND,Sun 12:00 AM
+P021746448,1640,Minor Assaults,Violence,Closed,CLYDE RD,OTARA,AUCKLAND,Sun 12:00 AM
+P021746248,1C,Car/Person Acting Suspiciously,Public safety,Closed,MANUKAU STATION RD,MANUKAU,AUCKLAND,Sun 12:00 AM
+P021746517,1K,Drunk Custody/Detox Centre,Liquor,Closed,WAINUIOMATA RD,GRACEFIELD,LOWER HUTT,Sun 12:00 AM
+P021745474,1V,Vehicle Collision,Road Policing,Closed,-,,,Sun 12:00 AM
+P021746496,3530,Disorder,Disorder,Closed,ROBLEY CR,GLENDOWIE,AUCKLAND,Sun 12:00 AM
+P021746536,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:00 AM
+P021746524,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:00 AM
+P021746497,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:00 AM
+P021746459,3H,Hotel Visit,Liquor,Closed,-,,,Sun 12:00 AM
+P021746491,4120,Burglary,Burglary,Closed,BEACH RD,AUCKLAND CENTRAL,AUCKLAND,Sun 12:00 AM
+P021746244,1U,Traffic Offending,Road Policing,Closed,MAIN RD,TE KAUWHATA,WAIKATO,Sun 12:00 AM
+P021746236,1U,Traffic Offending,Road Policing,Closed,-,PAPAKURA,AUCKLAND,Sun 12:00 AM
+P021746212,1U,Traffic Offending,Road Policing,Closed,-,POMARE,ROTORUA,Sun 12:00 AM
+P021746257,1U,Traffic Offending,Road Policing,Closed,-,SAINT ANDREWS,HAMILTON,Sun 12:00 AM
+P021746503,5134,Wilful Damage - Graffiti,Property damage,Closed,PATERSON ST,FRANKTON,HAMILTON,Sun 12:00 AM
+P021744932,1510,Serious Assaults,Violence,Closed,KIM LA,NAWTON,HAMILTON,Sat 9:50 PM
+P021744284,1710,Intimidation/Threats,Violence,Closed,WELD ST,CAMBRIDGE,WAIPA,Sat 9:50 PM
+P021744869,1K,Drunk Custody/Detox Centre,Liquor,Closed,COLOMBO ST,SYDENHAM,CHRISTCHURCH,Sat 9:50 PM
+P021744865,3530,Disorder,Disorder,Closed,NULL,OHOPE,WHAKATANE,Sat 9:50 PM
+P021744953,3530,Disorder,Disorder,Closed,VICTORIA ST,HAMILTON CENTRAL,HAMILTON,Sat 9:50 PM
+P021744940,3530,Disorder,Disorder,Closed,MOUNT WELLINGTON HWY,MOUNT WELLINGTON,AUCKLAND,Sat 9:50 PM
+P021744890,3H,Hotel Visit,Liquor,Closed,-,,,Sat 9:50 PM
+P021744923,1U,Traffic Offending,Road Policing,Closed,-,WHITBY,PORIRUA,Sat 9:50 PM
+P021744815,1C,Car/Person Acting Suspiciously,Public safety,Closed,VEITCHES RD,CASEBROOK,CHRISTCHURCH,Sat 9:40 PM
+P021744687,1K,Drunk Custody/Detox Centre,Liquor,Closed,DIXON ST,TE ARO,WELLINGTON,Sat 9:40 PM
+P021744834,3530,Disorder,Disorder,Closed,AVONHEAD RD,AVONHEAD,CHRISTCHURCH,Sat 9:40 PM
+P021744823,3530,Disorder,Disorder,Closed,SYMONDS ST,GRAFTON,AUCKLAND,Sat 9:40 PM
+P021744791,3530,Disorder,Disorder,Closed,RICHMOND ST,PETONE,LOWER HUTT,Sat 9:40 PM
+P021744821,3H,Hotel Visit,Liquor,Closed,-,,,Sat 9:40 PM
+P021744795,3H,Hotel Visit,Liquor,Closed,-,,,Sat 9:40 PM
+P021744789,3H,Hotel Visit,Liquor,Closed,-,,,Sat 9:40 PM
+P021744787,3H,Hotel Visit,Liquor,Closed,-,MAIREHAU,CHRISTCHURCH,Sat 9:40 PM
+P021744796,6I,Unauthorised Street And Drag Racing,Disorder,Closed,DEKKER RD,OMANAWA,WESTERN BAY OF PLENTY,Sat 9:40 PM
+P021744674,1U,Traffic Offending,Road Policing,Closed,-,KAIAPOI,WAIMAKARIRI,Sat 9:40 PM
+P021744650,1U,Traffic Offending,Road Policing,Closed,-,,,Sat 9:40 PM
+P021744648,1U,Traffic Offending,Road Policing,Closed,PYES PA RD,PYES PA,WESTERN BAY OF PLENTY,Sat 9:40 PM
+P021742655,1D,Domestic Dispute,Family violence,Closed,PRINCES ST,PUKEKOHE,AUCKLAND,Sat 9:36 PM
+P021744756,1710,Intimidation/Threats,Violence,Closed,UNNAMED RD,LYTTELTON,CHRISTCHURCH,Sat 9:30 PM
+P021744723,1C,Car/Person Acting Suspiciously,Public safety,Closed,DOUGLAS DR,ALLENTON,ASHBURTON,Sat 9:30 PM
+P021744708,1C,Car/Person Acting Suspiciously,Public safety,Closed,BELL AV,MOUNT WELLINGTON,AUCKLAND,Sat 9:30 PM
+P021744147,1V,Vehicle Collision,Road Policing,Closed,REID RD,PAPAMOA,WESTERN BAY OF PLENTY,Sat 9:30 PM
+P021744718,3530,Disorder,Disorder,Closed,KOHA RD,TAUPO,TAUPO,Sat 9:30 PM
+P021744684,3530,Disorder,Disorder,Closed,MANA ESP,PAREMATA,PORIRUA,Sat 9:30 PM
+P021744744,3H,Hotel Visit,Liquor,Closed,-,,,Sat 9:30 PM
+P021744719,3H,Hotel Visit,Liquor,Closed,-,,,Sat 9:30 PM
+P021744768,3H,Hotel Visit,Liquor,Closed,-,,,Sat 9:30 PM
+P021744738,1U,Traffic Offending,Road Policing,Closed,-,AUCKLAND CENTRAL,AUCKLAND,Sat 9:30 PM
+P021744693,1U,Traffic Offending,Road Policing,Closed,SH 1,PEKA PEKA,KAPITI,Sat 9:30 PM
+P021744206,1J,Juvenile Complaint,Public safety,Closed,BAIRDS RD,OTARA,AUCKLAND,Sat 9:28 PM
+P021744038,1V,Vehicle Collision,Road Policing,Closed,-,HENDERSON,AUCKLAND,Sat 9:20 PM
+P021744600,3530,Disorder,Disorder,Closed,-,MAIREHAU,CHRISTCHURCH,Sat 9:20 PM
+P021744598,3530,Disorder,Disorder,Closed,TREVOR HOSKEN DR,WIRI,AUCKLAND,Sat 9:20 PM
+P021744441,3530,Disorder,Disorder,Cancelled,LYTTELTON AV,PORIRUA   CENTRE,PORIRUA,Sat 9:20 PM
+P021744432,3530,Disorder,Disorder,Cancelled,PARUMOANA ST,PORIRUA   CENTRE,PORIRUA,Sat 9:20 PM
+P021744428,3530,Disorder,Disorder,Closed,PARUMOANA ST,PORIRUA   CENTRE,PORIRUA,Sat 9:20 PM
+P021744625,3H,Hotel Visit,Liquor,Closed,-,,,Sat 9:20 PM
+P021744607,3H,Hotel Visit,Liquor,Closed,SELWYN RD,PAIHIA,FAR NORTH,Sat 9:20 PM
+P021744656,3H,Hotel Visit,Liquor,Closed,-,,,Sat 9:20 PM
+P021744636,3H,Hotel Visit,Liquor,Closed,-,,,Sat 9:20 PM
+P021744623,1U,Traffic Offending,Road Policing,Closed,TAMAKI DR,MISSION BAY,AUCKLAND,Sat 9:20 PM
+P021744671,1U,Traffic Offending,Road Policing,Closed,PINE DR,MURUPARA,WHAKATANE,Sat 9:20 PM
+P021744574,1U,Traffic Offending,Road Policing,Closed,-,,,Sat 9:20 PM
+P021744566,1U,Traffic Offending,Road Policing,Closed,-,BURWOOD,CHRISTCHURCH,Sat 9:20 PM
+P021744359,1U,Traffic Offending,Road Policing,Closed,-,,,Sat 9:20 PM
+P021743972,3850,Domestic Violence,Family violence,Closed,RIFLE RANGE RD,DINSDALE,HAMILTON,Sat 9:19 PM
+P021737858,1D,Domestic Dispute,Family violence,Closed,TENNESSEE AV,MANGERE EAST,AUCKLAND,Sat 9:16 PM
+P021743441,1710,Intimidation/Threats,Violence,Closed,RANDWICK RD,MOERA,LOWER HUTT,Sat 9:10 PM
+P021744515,1C,Car/Person Acting Suspiciously,Public safety,Closed,SARAH PL,PAPAMOA BEACH,TAURANGA,Sat 9:10 PM
+P021744543,1K,Drunk Custody/Detox Centre,Liquor,Closed,-,HELENSVILLE,AUCKLAND,Sat 9:10 PM
+P021744567,1V,Vehicle Collision,Road Policing,Closed,SOUTH-WESTERN MWY,MANUKAU,AUCKLAND,Sat 9:10 PM
+P021744534,2M,Missing Person,Public safety,Closed,-,SHIRLEY,CHRISTCHURCH,Sat 9:10 PM
+P021744528,3530,Disorder,Disorder,Closed,-,NORTHCOTE,AUCKLAND,Sat 9:10 PM
+P021744277,3530,Disorder,Disorder,Closed,BREMWORTH AV,DINSDALE,HAMILTON,Sat 9:10 PM
+P021744436,3H,Hotel Visit,Liquor,Closed,-,,,Sat 9:10 PM
+P021744548,3H,Hotel Visit,Liquor,Closed,-,,,Sat 9:10 PM
+P021744401,1U,Traffic Offending,Road Policing,Closed,-,BURNSIDE,CHRISTCHURCH,Sat 9:10 PM
+P021743829,1310,Robbery,Violence,Closed,TE IRIRANGI DR,EAST TAMAKI,AUCKLAND,Sat 9:05 PM
+P021744412,1D,Domestic Dispute,Family violence,Closed,RISELAW ST,MAIREHAU,CHRISTCHURCH,Sat 9:00 PM
+P021744434,1K,Drunk Custody/Detox Centre,Liquor,Closed,WELLESLEY ST,AUCKLAND CENTRAL,AUCKLAND,Sat 9:00 PM
+P021744335,3H,Hotel Visit,Liquor,Closed,-,,,Sat 9:00 PM
+P021744499,3H,Hotel Visit,Liquor,Closed,-,,,Sat 9:00 PM
+P021744477,3H,Hotel Visit,Liquor,Closed,HIGH ST,CHRISTCHURCH CENTRAL,CHRISTCHURCH,Sat 9:00 PM
+P021744461,3H,Hotel Visit,Liquor,Closed,-,,,Sat 9:00 PM
+P021744476,1U,Traffic Offending,Road Policing,Closed,-,,,Sat 9:00 PM
+P021743912,1D,Domestic Dispute,Family violence,Closed,MARR RD,MANUREWA,AUCKLAND,Sat 8:52 PM
+P021743883,1S,Sudden Death,Public safety,Closed,PIPIROA RD,NGATEA,HAURAKI,Sat 8:52 PM
+P021744384,1F,Assist Fire/Ambulance/Traffic,Public safety,Closed,CLARK RD,HOBSONVILLE,AUCKLAND,Sat 8:50 PM
+P021744388,1I,Blockage/Breakdown On Highway,Road Policing,Closed,HUTT RD,HOROKIWI,WELLINGTON,Sat 8:50 PM
+P021744325,1V,Vehicle Collision,Road Policing,Closed,QUEEN ST,AUCKLAND CENTRAL,AUCKLAND,Sat 8:50 PM
+P021744378,1V,Vehicle Collision,Road Policing,Closed,SH 2,WAIHI,HAURAKI,Sat 8:50 PM
+P021744347,3530,Disorder,Disorder,Closed,-,OREWA,AUCKLAND,Sat 8:50 PM
+P021744411,3530,Disorder,Disorder,Closed,BREMWORTH AV,DINSDALE,HAMILTON,Sat 8:50 PM
+P021743960,4370,General Theft,Dishonesty,Closed,HARBOUR VIEW RD,POINT CHEVALIER,AUCKLAND,Sat 8:50 PM
+P021743819,1D,Domestic Dispute,Family violence,Closed,BLAKE ST,ENDERLEY,HAMILTON,Sat 8:48 PM
+P021740213,3710,Child Abuse,Family violence,Closed,CANMORE ST,POKENO,WAIKATO,Sat 8:44 PM
+P021744239,1C,Car/Person Acting Suspiciously,Public safety,Closed,WATERLOO QUAY,PIPITEA,WELLINGTON,Sat 8:40 PM
+P021744282,1D,Domestic Dispute,Family violence,Closed,GREAT SOUTH RD,MANUREWA,AUCKLAND,Sat 8:40 PM
+P021744313,3H,Hotel Visit,Liquor,Closed,-,,,Sat 8:40 PM
+P021744120,6I,Unauthorised Street And Drag Racing,Disorder,Closed,SANDSTONE RD,WHITFORD,AUCKLAND,Sat 8:40 PM
+P021744276,1U,Traffic Offending,Road Policing,Closed,CAMBRIDGE RD,HILLCREST,HAMILTON,Sat 8:40 PM
+P021744267,1U,Traffic Offending,Road Policing,Closed,CHAPEL ST,TAURANGA,TAURANGA,Sat 8:40 PM
+P021744150,1U,Traffic Offending,Road Policing,Closed,-,UNSWORTH HEIGHTS,AUCKLAND,Sat 8:40 PM
+P021743728,1J,Juvenile Complaint,Public safety,Closed,ELLERSLIE-PANMURE HWY,MOUNT WELLINGTON,AUCKLAND,Sat 8:34 PM
+P021743726,1C,Car/Person Acting Suspiciously,Public safety,Closed,SWAN CR,PAKURANGA,AUCKLAND,Sat 8:30 PM
+P021744182,2M,Missing Person,Public safety,Cancelled,ROBERTS ST,TAWA,WELLINGTON,Sat 8:30 PM
+P021744152,3H,Hotel Visit,Liquor,Closed,-,,,Sat 8:30 PM
+P021744208,3H,Hotel Visit,Liquor,Closed,-,,,Sat 8:30 PM
+P021744225,4120,Burglary,Burglary,Closed,AONINI RD,TURANGI,TAUPO,Sat 8:30 PM
+P021744056,6I,Unauthorised Street And Drag Racing,Disorder,Cancelled,-,WHITFORD,AUCKLAND,Sat 8:30 PM
+P021744129,1U,Traffic Offending,Road Policing,Closed,-,,,Sat 8:30 PM
+P021743345,6820,Firearms Offences,Public safety,Closed,SIEVERS GR,CANNONS CREEK,PORIRUA,Sat 8:27 PM
+P021744103,1C,Car/Person Acting Suspiciously,Public safety,Closed,PAPANUI RD,PAPANUI,CHRISTCHURCH,Sat 8:20 PM
+P021744068,1I,Blockage/Breakdown On Highway,Road Policing,Closed,NORTH-WESTERN MWY,MASSEY,AUCKLAND,Sat 8:20 PM
+P021744128,1I,Blockage/Breakdown On Highway,Road Policing,Cancelled,UNION RD,MAUKU,AUCKLAND,Sat 8:20 PM
+P021744104,1V,Vehicle Collision,Road Policing,Cancelled,-,HENDERSON,AUCKLAND,Sat 8:20 PM
+P021744083,3530,Disorder,Disorder,Closed,CUBA ST,TE ARO,WELLINGTON,Sat 8:20 PM
+P021744087,3H,Hotel Visit,Liquor,Closed,-,,,Sat 8:20 PM
+P021744110,5120,Wilful Damage,Property damage,Closed,RUST AV,WHANGAREI,WHANGAREI,Sat 8:20 PM
+P021743706,6110,Trespass,Public safety,Closed,TOTARAVALE DR,TOTARA VALE,AUCKLAND,Sat 8:20 PM
+P021743978,1C,Car/Person Acting Suspiciously,Public safety,Closed,CHAPEL RD,FLAT BUSH,AUCKLAND,Sat 8:10 PM
+P021744016,1C,Car/Person Acting Suspiciously,Public safety,Closed,BROWNING ST,LEAMINGTON,WAIPA,Sat 8:10 PM
+P021744006,1C,Car/Person Acting Suspiciously,Public safety,Closed,OLD BAY RD,PAKARAKA,FAR NORTH,Sat 8:10 PM
+P021743481,1C,Car/Person Acting Suspiciously,Public safety,Closed,COLE TCE,KAMO,WHANGAREI,Sat 8:10 PM
+P021743998,1I,Blockage/Breakdown On Highway,Road Policing,Closed,-,PUKEKOHE,AUCKLAND,Sat 8:10 PM
+P021743583,3530,Disorder,Disorder,Closed,POOLES RD,GREERTON,TAURANGA,Sat 8:10 PM
+P021743484,3530,Disorder,Disorder,Cancelled,MARR RD,MANUREWA,AUCKLAND,Sat 8:10 PM
+P021743984,1U,Traffic Offending,Road Policing,Closed,COLOMBO ST,SYDENHAM,CHRISTCHURCH,Sat 8:10 PM
+P021743462,1D,Domestic Dispute,Family violence,Closed,MAIN RD,GOVERNORS BAY,CHRISTCHURCH,Sat 8:08 PM
+P021743493,6820,Firearms Offences,Public safety,Closed,-,BROWN OWL,UPPER HUTT,Sat 8:07 PM
+P021743273,1D,Domestic Dispute,Family violence,Closed,GANDALF CR,PARAPARAUMU,KAPITI,Sat 8:04 PM
+P021743340,1710,Intimidation/Threats,Violence,Closed,KAURI RD,STANMORE BAY,AUCKLAND,Sat 8:00 PM
+P021743953,1D,Domestic Dispute,Family violence,Closed,TI RAKAU DR,PAKURANGA,AUCKLAND,Sat 8:00 PM
+P021743956,1I,Blockage/Breakdown On Highway,Road Policing,Cancelled,NORTH-WESTERN MWY,TE ATATU PENINSULA,AUCKLAND,Sat 8:00 PM
+P021743908,1I,Blockage/Breakdown On Highway,Road Policing,Closed,NORTH-WESTERN MWY,TE ATATU PENINSULA,AUCKLAND,Sat 8:00 PM
+P021743442,1V,Vehicle Collision,Road Policing,Closed,-,KOPU,THAMES-COROMANDEL,Sat 8:00 PM
+P021743876,1V,Vehicle Collision,Road Policing,Closed,-,NEW LYNN,AUCKLAND,Sat 8:00 PM
+P021743619,3530,Disorder,Disorder,Closed,QUEENS DR,HUTT CENTRAL,LOWER HUTT,Sat 8:00 PM
+P021743955,3H,Hotel Visit,Liquor,Closed,-,,,Sat 8:00 PM
+P021743934,3H,Hotel Visit,Liquor,Closed,-,,,Sat 8:00 PM
+P021743919,3H,Hotel Visit,Liquor,Closed,-,,,Sat 8:00 PM
+P021743877,3H,Hotel Visit,Liquor,Closed,-,,,Sat 8:00 PM
+P021743866,1U,Traffic Offending,Road Policing,Closed,-,HERNE BAY,AUCKLAND,Sat 8:00 PM
+P021743889,5210,Endangering/Interfering,Property damage,Closed,INGA RD,CASTOR BAY,AUCKLAND,Sat 8:00 PM
+P021743844,1C,Car/Person Acting Suspiciously,Public safety,Closed,-,CHRISTCHURCH CENTRAL,CHRISTCHURCH,Sat 7:50 PM
+P021740502,1C,Car/Person Acting Suspiciously,Public safety,Closed,WHATAWHATA RD,DINSDALE,HAMILTON,Sat 7:50 PM
+P021743833,1Z,Other Incident,Tasks,Closed,WYN ST,HOON HAY,CHRISTCHURCH,Sat 7:50 PM
+P021743841,3H,Hotel Visit,Liquor,Closed,-,,,Sat 7:50 PM
+P021743806,3H,Hotel Visit,Liquor,Closed,-,,,Sat 7:50 PM
+P021743846,3H,Hotel Visit,Liquor,Closed,-,,,Sat 7:50 PM
+P021743337,1D,Domestic Dispute,Family violence,Closed,PRINCESS ST,NGARUAWAHIA,WAIKATO,Sat 7:49 PM
+P021742860,1D,Domestic Dispute,Family violence,Closed,MACFARLANE ST,HAMILTON EAST,HAMILTON,Sat 7:44 PM
+P021743753,1D,Domestic Dispute,Family violence,Closed,COLLETTS RD,MANGAROA,UPPER HUTT,Sat 7:40 PM
+P021743711,3530,Disorder,Disorder,Closed,QUEEN ST,AUCKLAND CENTRAL,AUCKLAND,Sat 7:40 PM
+P021743744,3530,Disorder,Disorder,Closed,GREAT SOUTH RD,OTAHUHU,AUCKLAND,Sat 7:40 PM
+P021743712,3H,Hotel Visit,Liquor,Closed,-,,,Sat 7:40 PM
+P021743752,3H,Hotel Visit,Liquor,Closed,-,,,Sat 7:40 PM
+P021743718,1U,Traffic Offending,Road Policing,Closed,SOUTH-WESTERN MWY,MANGERE,AUCKLAND,Sat 7:40 PM
+P021737528,1D,Domestic Dispute,Family violence,Closed,KEA ST,SELWYN HEIGHTS,ROTORUA,Sat 7:35 PM
+P021743629,1710,Intimidation/Threats,Violence,Closed,FERGUSON ST,MANUREWA EAST,AUCKLAND,Sat 7:30 PM
+P021743651,1C,Car/Person Acting Suspiciously,Public safety,Closed,DIXON ST,MASTERTON,MASTERTON,Sat 7:30 PM
+P021743186,1F,Assist Fire/Ambulance/Traffic,Public safety,Closed,SETTLEMENT RD,PAPAKURA,AUCKLAND,Sat 7:30 PM
+P021743623,1V,Vehicle Collision,Road Policing,Closed,-,KAURI,WHANGAREI,Sat 7:30 PM
+P021743249,1V,Vehicle Collision,Road Policing,Closed,-,,,Sat 7:30 PM
+P021743607,3530,Disorder,Disorder,Closed,SHIRLEY RD,SHIRLEY,CHRISTCHURCH,Sat 7:30 PM
+P021743645,3530,Disorder,Disorder,Closed,MARJORIE JAYNE CR,OTAHUHU,AUCKLAND,Sat 7:30 PM
+P021743626,3H,Hotel Visit,Liquor,Closed,-,,,Sat 7:30 PM
+P021743604,3H,Hotel Visit,Liquor,Closed,-,,,Sat 7:30 PM
+P021743668,3H,Hotel Visit,Liquor,Closed,-,,,Sat 7:30 PM
+P021743635,3H,Hotel Visit,Liquor,Closed,-,,,Sat 7:30 PM
+P021743649,1U,Traffic Offending,Road Policing,Closed,SH 1,WARKWORTH,AUCKLAND,Sat 7:30 PM
+P021743535,1U,Traffic Offending,Road Policing,Closed,FEDERAL ST,AUCKLAND CENTRAL,AUCKLAND,Sat 7:30 PM
+P021743074,1D,Domestic Dispute,Family violence,Closed,TAVENDER ST,WOOLSTON,CHRISTCHURCH,Sat 7:21 PM
+P021743021,1D,Domestic Dispute,Family violence,Cancelled,BICKNELL RD,FAVONA,AUCKLAND,Sat 7:20 PM
+P021743113,1C,Car/Person Acting Suspiciously,Public safety,Cancelled,ROBERTS ST,TAWA,WELLINGTON,Sat 7:20 PM
+P021743546,1C,Car/Person Acting Suspiciously,Public safety,Closed,VICKI ST,SOCKBURN,CHRISTCHURCH,Sat 7:20 PM
+P021743280,1D,Domestic Dispute,Family violence,Closed,BLAMPIED RD,OTARA,AUCKLAND,Sat 7:20 PM
+P021743588,1V,Vehicle Collision,Road Policing,Closed,ELLERSLIE-PANMURE HWY,ELLERSLIE,AUCKLAND,Sat 7:20 PM
+P021743559,3H,Hotel Visit,Liquor,Closed,-,,,Sat 7:20 PM
+P021743472,1U,Traffic Offending,Road Policing,Closed,-,RANGIORA,WAIMAKARIRI,Sat 7:20 PM
+P021743288,FIR2POL,Fire Assistance,Tasks,Closed,JUDDS RD,SOLWAY,MASTERTON,Sat 7:20 PM
+P021743066,1D,Domestic Dispute,Family violence,Closed,BICKNELL RD,FAVONA,AUCKLAND,Sat 7:19 PM
+P021743239,1710,Intimidation/Threats,Violence,Closed,EWERT ST,FORDLANDS,ROTORUA,Sat 7:10 PM
+P021743420,2M,Missing Person,Public safety,Closed,GREAT SOUTH RD,MANUREWA,AUCKLAND,Sat 7:10 PM
+P021742846,3530,Disorder,Disorder,Closed,COLOGNE ST,MARTINBOROUGH,SOUTH WAIRARAPA,Sat 7:10 PM
+P021743471,1U,Traffic Offending,Road Policing,Closed,SH 1,KAWAKAWA,FAR NORTH,Sat 7:10 PM
+P021743408,1U,Traffic Offending,Road Policing,Closed,-,,,Sat 7:10 PM
+P021743492,1U,Traffic Offending,Road Policing,Closed,AYLESBURY RD,BURNHAM,SELWYN,Sat 7:10 PM
+P021742959,1D,Domestic Dispute,Family violence,Closed,TEMPLETON PL,CLENDON PARK,AUCKLAND,Sat 7:09 PM
+P021741939,1D,Domestic Dispute,Family violence,Closed,GROVE RD,PAPAKURA,AUCKLAND,Sat 7:07 PM
+P021742958,1D,Domestic Dispute,Family violence,Closed,THIRD ST,LANSDOWNE,MASTERTON,Sat 7:06 PM
+P021743025,1C,Car/Person Acting Suspiciously,Public safety,Closed,WAIRAU RD,TAKAPUNA,AUCKLAND,Sat 7:00 PM
+P021743371,1C,Car/Person Acting Suspiciously,Public safety,Closed,ELLERSLIE PARK RD,ELLERSLIE,AUCKLAND,Sat 7:00 PM
+P021743109,1I,Blockage/Breakdown On Highway,Road Policing,Closed,SH 1,HUNTLY,WAIKATO,Sat 7:00 PM
+P021743361,1V,Vehicle Collision,Road Policing,Closed,-,OHAKURI,TAUPO,Sat 7:00 PM
+P021743256,2M,Missing Person,Public safety,Closed,BALMORAL DR,TOKOROA,SOUTH WAIKATO,Sat 7:00 PM
+P021743418,3H,Hotel Visit,Liquor,Closed,NULL,AMBERLEY,HURUNUI,Sat 7:00 PM
+P021743398,3H,Hotel Visit,Liquor,Closed,-,,,Sat 7:00 PM
+P021743360,3H,Hotel Visit,Liquor,Closed,-,,,Sat 7:00 PM
+P021743320,6110,Trespass,Public safety,Closed,CENTRAL AV,AVENUES,WHANGAREI,Sat 7:00 PM
+P021743393,1U,Traffic Offending,Road Policing,Closed,GREEN LA,GREENLANE,AUCKLAND,Sat 7:00 PM
+P021743235,1U,Traffic Offending,Road Policing,Closed,SH 1,QUEEN ELIZABETH PARK,KAPITI,Sat 7:00 PM
+P021743262,1510,Serious Assaults,Violence,Closed,LEVERS RD,MATUA,TAURANGA,Sat 6:50 PM
+P021742421,1710,Intimidation/Threats,Violence,Cancelled,VINO CINA HTS,RANUI,AUCKLAND,Sat 6:50 PM
+P021742990,1C,Car/Person Acting Suspiciously,Public safety,Closed,KAIPARA   HWY,KAUKAPAKAPA,AUCKLAND,Sat 6:50 PM
+P021743297,1C,Car/Person Acting Suspiciously,Public safety,Closed,-,HUAPAI,AUCKLAND,Sat 6:50 PM
+P021743268,1I,Blockage/Breakdown On Highway,Road Policing,Closed,-,CAMBRIDGE,WAIPA,Sat 6:50 PM
+P021743314,1V,Vehicle Collision,Road Policing,Closed,SHAW RD,ORATIA,AUCKLAND,Sat 6:50 PM
+P021743106,3530,Disorder,Disorder,Closed,POOKS RD,RANUI,AUCKLAND,Sat 6:50 PM
+P021743269,3H,Hotel Visit,Liquor,Closed,-,,,Sat 6:50 PM
+P021743307,3H,Hotel Visit,Liquor,Closed,-,,,Sat 6:50 PM
+P021743238,6110,Trespass,Public safety,Closed,KINGS RD,PAIHIA,FAR NORTH,Sat 6:50 PM
+P021743294,1U,Traffic Offending,Road Policing,Closed,GREAT SOUTH RD,MANUREWA,AUCKLAND,Sat 6:50 PM
+P021742970,1U,Traffic Offending,Road Policing,Closed,KAKARAMEA RD,NGAHINAPOURI,WAIPA,Sat 6:50 PM
+P021742753,1S,Sudden Death,Public safety,Closed,RUATOKI VALLEY RD,RUATOKI,WHAKATANE,Sat 6:45 PM
+P021742670,1S,Sudden Death,Public safety,Closed,DONNELLEY DR,WAINUIOMATA,LOWER HUTT,Sat 6:40 PM
+P021743164,1D,Domestic Dispute,Family violence,Closed,ELSTREE AV,POINT ENGLAND,AUCKLAND,Sat 6:40 PM
+P021742996,1H,Drunk Home,Liquor,Closed,PALMERS RD,CLENDON PARK,AUCKLAND,Sat 6:40 PM
+P021743180,1I,Blockage/Breakdown On Highway,Road Policing,Closed,NORTHERN MWY,TOTARA VALE,AUCKLAND,Sat 6:40 PM
+P021743185,3H,Hotel Visit,Liquor,Closed,-,,,Sat 6:40 PM
+P021743196,1U,Traffic Offending,Road Policing,Closed,JOHNSONVILLE PORIRUA MWY,TAWA,WELLINGTON,Sat 6:40 PM
+P021742664,1D,Domestic Dispute,Family violence,Closed,SAPPHIRE PL,PUKEHANGI,ROTORUA,Sat 6:38 PM
+P021742632,1V,Vehicle Collision,Road Policing,Closed,-,GREY LYNN,AUCKLAND,Sat 6:30 PM
+P021743067,3530,Disorder,Disorder,Cancelled,GREAT SOUTH RD,MANUREWA,AUCKLAND,Sat 6:30 PM
+P021742871,3530,Disorder,Disorder,Cancelled,HUME PL,FAIRFIELD,HAMILTON,Sat 6:30 PM
+P021742971,3H,Hotel Visit,Liquor,Closed,-,,,Sat 6:30 PM
+P021743082,6110,Trespass,Public safety,Closed,ADELAIDE RD,MOUNT COOK,WELLINGTON,Sat 6:30 PM
+P021742379,6I,Unauthorised Street And Drag Racing,Disorder,Closed,-,BROWNS BAY,AUCKLAND,Sat 6:30 PM
+P021742092,1U,Traffic Offending,Road Policing,Closed,SELAGO PL,MANUREWA,AUCKLAND,Sat 6:30 PM
+P021742586,1S,Sudden Death,Public safety,Closed,RICHMOND HILL RD,RICHMOND HILL,CHRISTCHURCH,Sat 6:28 PM
+P021742551,1D,Domestic Dispute,Family violence,Closed,VIVIAN ST,BURWOOD,CHRISTCHURCH,Sat 6:24 PM
+P021742975,1510,Serious Assaults,Violence,Cancelled,-,MARSHLAND,CHRISTCHURCH,Sat 6:20 PM
+P021742968,3530,Disorder,Disorder,Closed,-,MARSHLAND,CHRISTCHURCH,Sat 6:20 PM
+P021743053,3530,Disorder,Disorder,Cancelled,MARSHLAND RD,MARSHLAND,CHRISTCHURCH,Sat 6:20 PM
+P021743034,3H,Hotel Visit,Liquor,Closed,NULL,LINCOLN,SELWYN,Sat 6:20 PM
+P021743015,4320,Theft Ex Shop,Dishonesty,Cancelled,GREAT SOUTH RD,MANUREWA,AUCKLAND,Sat 6:20 PM
+P021743024,4320,Theft Ex Shop,Dishonesty,Closed,GREAT SOUTH RD,MANUREWA,AUCKLAND,Sat 6:20 PM
+P021743003,1U,Traffic Offending,Road Policing,Cancelled,SH 29,LOWER KAIMAI,WESTERN BAY OF PLENTY,Sat 6:20 PM
+P021743055,1U,Traffic Offending,Road Policing,Closed,-,KAIAPOI,WAIMAKARIRI,Sat 6:20 PM
+P021743041,1U,Traffic Offending,Road Policing,Closed,-,GATE PA,TAURANGA,Sat 6:20 PM
+P021742521,1D,Domestic Dispute,Family violence,Closed,EAST BANK RD,EDGECUMBE,WHAKATANE,Sat 6:15 PM
+P021742149,3710,Child Abuse,Family violence,Closed,GOODWOOD DR,GOODWOOD HEIGHTS,AUCKLAND,Sat 6:13 PM
+P021742393,1C,Car/Person Acting Suspiciously,Public safety,Closed,UNNAMED RD,MANGERE EAST,AUCKLAND,Sat 6:10 PM
+P021741541,1C,Car/Person Acting Suspiciously,Public safety,Closed,PUHI HUIA RD,MOUNT EDEN,AUCKLAND,Sat 6:10 PM
+P021742948,3H,Hotel Visit,Liquor,Closed,-,,,Sat 6:10 PM
+P021742931,3H,Hotel Visit,Liquor,Closed,-,,,Sat 6:10 PM
+P021742934,4211,Car Conversion,Vehicle Crime/incident,Closed,"MORGANS ROAD TAKEAWAY, TIMARU ",,,Sat 6:10 PM
+P021742930,1U,Traffic Offending,Road Policing,Closed,GREAT SOUTH RD,GREENLANE,AUCKLAND,Sat 6:10 PM
+P021742890,1U,Traffic Offending,Road Policing,Closed,PARNASSUS RD,SPOTSWOOD,HURUNUI,Sat 6:10 PM
+P021742886,1U,Traffic Offending,Road Policing,Closed,RIVER RD,FAIRFIELD,HAMILTON,Sat 6:10 PM
+P021742759,1U,Traffic Offending,Road Policing,Cancelled,SH 29,KAIMAI-MAMAKU FOREST PARK,MATAMATA-PIAKO,Sat 6:10 PM
+P021742751,1U,Traffic Offending,Road Policing,Cancelled,NULL,LOWER KAIMAI,MATAMATA-PIAKO,Sat 6:10 PM
+P021742827,1640,Minor Assaults,Violence,Closed,WAITOA RD,HATAITAI,WELLINGTON,Sat 6:00 PM
+P021742839,1710,Intimidation/Threats,Violence,Closed,-,TE ARO,WELLINGTON,Sat 6:00 PM
+P021742791,1I,Blockage/Breakdown On Highway,Road Policing,Cancelled,SOUTHERN MWY,RAMARAMA,AUCKLAND,Sat 6:00 PM
+P021742776,1I,Blockage/Breakdown On Highway,Road Policing,Cancelled,SH 29,TAURIKO,TAURANGA,Sat 6:00 PM
+P021742773,1V,Vehicle Collision,Road Policing,Closed,TE RAPA RD,PUKETE,HAMILTON,Sat 6:00 PM
+P021742354,2R,Recovery Motor Vehicle,Vehicle Crime/incident,Closed,RATA ST,WAIRAKEI,TAUPO,Sat 6:00 PM
+P021742820,3530,Disorder,Disorder,Closed,HUMPHREYS DR,FERRYMEAD,CHRISTCHURCH,Sat 6:00 PM
+P021742794,3530,Disorder,Disorder,Closed,KAURI RD,STANMORE BAY,AUCKLAND,Sat 6:00 PM
+P021742824,3H,Hotel Visit,Liquor,Closed,CUSTOMHOUSE QUAY,WELLINGTON CENTRAL,WELLINGTON,Sat 6:00 PM
+P021742807,1U,Traffic Offending,Road Policing,Closed,GREEN LA,GREENLANE,AUCKLAND,Sat 6:00 PM
+P021742480,1U,Traffic Offending,Road Policing,Closed,-,ENDERLEY,HAMILTON,Sat 6:00 PM
+P021742291,1D,Domestic Dispute,Family violence,Closed,GARNETT AV,TE RAPA,HAMILTON,Sat 5:56 PM
+P021741660,3850,Domestic Violence,Family violence,Closed,HILLCREST RD,RAUMATI BEACH,KAPITI,Sat 5:55 PM
+P021742777,1640,Minor Assaults,Violence,Closed,EDEN PL,BRYNDWR,CHRISTCHURCH,Sat 5:50 PM
+P021742684,1D,Domestic Dispute,Family violence,Closed,STATION RD,TE PUKE,WESTERN BAY OF PLENTY,Sat 5:50 PM
+P021742760,1I,Blockage/Breakdown On Highway,Road Policing,Closed,SH 29,LOWER KAIMAI,WESTERN BAY OF PLENTY,Sat 5:50 PM
+P021742697,1V,Vehicle Collision,Road Policing,Closed,EAST ST,ASHBURTON,ASHBURTON,Sat 5:50 PM
+P021742695,3530,Disorder,Disorder,Closed,KIRKBRIDE RD,MANGERE,AUCKLAND,Sat 5:50 PM
+P021742702,3H,Hotel Visit,Liquor,Closed,VICTORIA ST,WELLINGTON CENTRAL,WELLINGTON,Sat 5:50 PM
+P021742761,3H,Hotel Visit,Liquor,Closed,-,,,Sat 5:50 PM
+P021742709,4320,Theft Ex Shop,Dishonesty,Closed,QUEEN ST,AUCKLAND CENTRAL,AUCKLAND,Sat 5:50 PM
+P021742689,4370,General Theft,Dishonesty,Closed,QUEENS RD,PANMURE,AUCKLAND,Sat 5:50 PM
+P021742704,6I,Unauthorised Street And Drag Racing,Disorder,Cancelled,-,PARAPARAUMU BEACH,KAPITI,Sat 5:50 PM
+P021742738,1U,Traffic Offending,Road Policing,Closed,-,TAURANGA SOUTH,TAURANGA,Sat 5:50 PM
+P021742553,1U,Traffic Offending,Road Policing,Cancelled,ANLABY RD,NIKAU VALLEY,KAPITI,Sat 5:50 PM
+P021742620,1I,Blockage/Breakdown On Highway,Road Policing,Closed,SOUTHERN MWY,RAMARAMA,AUCKLAND,Sat 5:40 PM
+P021742642,3H,Hotel Visit,Liquor,Closed,-,,,Sat 5:40 PM
+P021742636,6110,Trespass,Public safety,Closed,CUSTOMS ST,AUCKLAND CENTRAL,AUCKLAND,Sat 5:40 PM
+P021742674,6I,Unauthorised Street And Drag Racing,Disorder,Closed,-,PARAPARAUMU BEACH,KAPITI,Sat 5:40 PM
+P021742660,1U,Traffic Offending,Road Policing,Closed,SOUTHERN MWY,OTARA,AUCKLAND,Sat 5:40 PM
+P021742588,1C,Car/Person Acting Suspiciously,Public safety,Closed,-,,,Sat 5:30 PM
+P021742554,1C,Car/Person Acting Suspiciously,Public safety,Closed,RON KEAT DR,PAPAKURA,AUCKLAND,Sat 5:30 PM
+P021742568,6110,Trespass,Public safety,Closed,BALCAIRN AMBERLEY RD,BALCAIRN,HURUNUI,Sat 5:30 PM
+P021742576,1U,Traffic Offending,Road Policing,Cancelled,OLD WAIROA RD,PAPAKURA,AUCKLAND,Sat 5:30 PM
+P021742609,1U,Traffic Offending,Road Policing,Closed,-,PAPAKURA,AUCKLAND,Sat 5:30 PM
+P021741947,1D,Domestic Dispute,Family violence,Closed,GLEN BROOK RD,OMIHA,AUCKLAND,Sat 5:20 PM
+P021742475,1V,Vehicle Collision,Road Policing,Closed,-,WALTHAM,CHRISTCHURCH,Sat 5:20 PM
+P021742511,1V,Vehicle Collision,Road Policing,Closed,GEORGE ST,STOKES VALLEY,LOWER HUTT,Sat 5:20 PM
+P021742459,3530,Disorder,Disorder,Cancelled,LINCOLN RD,HENDERSON,AUCKLAND,Sat 5:20 PM
+P021742467,4320,Theft Ex Shop,Dishonesty,Closed,PALMERS RD,CLENDON PARK,AUCKLAND,Sat 5:20 PM
+P021742547,6I,Unauthorised Street And Drag Racing,Disorder,Closed,MATATIRO ST,TITAHI BAY,PORIRUA,Sat 5:20 PM
+P021741901,1D,Domestic Dispute,Family violence,Closed,MARAETAI DR,MARAETAI,AUCKLAND,Sat 5:17 PM
+P021742441,1510,Serious Assaults,Violence,Closed,HOOPER GR,TAITA,LOWER HUTT,Sat 5:10 PM
+P021742443,1640,Minor Assaults,Violence,Closed,THE GLADE,PUKEKOHE,AUCKLAND,Sat 5:10 PM
+P021742440,1D,Domestic Dispute,Family violence,Closed,VINO CINA HTS,RANUI,AUCKLAND,Sat 5:10 PM
+P021741963,3210,Drugs (Cannabis Only),Drugs,Closed,BARRINGTON ST,SPREYDON,CHRISTCHURCH,Sat 5:10 PM
+P021741845,4320,Theft Ex Shop,Dishonesty,Closed,DOWNING ST,GLENFIELD,AUCKLAND,Sat 5:10 PM
+P021742376,6I,Unauthorised Street And Drag Racing,Disorder,Closed,-,EYREWELL FOREST,WAIMAKARIRI,Sat 5:10 PM
+P021742442,5210,Endangering/Interfering,Property damage,Closed,CONSTABLE ST,NEWTOWN,WELLINGTON,Sat 5:10 PM
+P021741970,1D,Domestic Dispute,Family violence,Closed,NIKAU RD,OTAHUHU,AUCKLAND,Sat 5:09 PM
+P021741808,1S,Sudden Death,Public safety,Closed,UMERE CR,ELLERSLIE,AUCKLAND,Sat 5:06 PM
+P021741969,1C,Car/Person Acting Suspiciously,Public safety,Closed,BRIDGE RD,BIRCHVILLE,UPPER HUTT,Sat 5:00 PM
+P021742360,1F,Assist Fire/Ambulance/Traffic,Public safety,Closed,-,,,Sat 5:00 PM
+P021742279,3530,Disorder,Disorder,Closed,PETER BUCK RD,NEW WINDSOR,AUCKLAND,Sat 5:00 PM
+P021742333,5120,Wilful Damage,Property damage,Closed,JAMES ST,WHAKATANE,WHAKATANE,Sat 5:00 PM
+P021742355,1U,Traffic Offending,Road Policing,Closed,SH 1,PEKA PEKA,KAPITI,Sat 5:00 PM
+P021742332,1U,Traffic Offending,Road Policing,Closed,PAREMATA HAYWARDS RD,JUDGEFORD,PORIRUA,Sat 5:00 PM
+P021742372,1U,Traffic Offending,Road Policing,Closed,-,TAWA,WELLINGTON,Sat 5:00 PM
+P021742362,1U,Traffic Offending,Road Policing,Closed,SH 5,HAMURANA,ROTORUA,Sat 5:00 PM
+P021742359,1U,Traffic Offending,Road Policing,Closed,SOUTHERN MWY,CONIFER GROVE,AUCKLAND,Sat 5:00 PM
+P021742366,5210,Endangering/Interfering,Property damage,Closed,MOORHOUSE AV,SYDENHAM,CHRISTCHURCH,Sat 5:00 PM
+P021741907,1D,Domestic Dispute,Family violence,Closed,HARLEY ST,SOLWAY,MASTERTON,Sat 4:57 PM
+P021742245,1710,Intimidation/Threats,Violence,Closed,JACK ST,OTANGAREI,WHANGAREI,Sat 4:50 PM
+P021742315,1C,Car/Person Acting Suspiciously,Public safety,Closed,CUBA ST,PETONE,LOWER HUTT,Sat 4:50 PM
+P021742308,3530,Disorder,Disorder,Closed,RIDDIFORD ST,NEWTOWN,WELLINGTON,Sat 4:50 PM
+P021739725,1640,Minor Assaults,Violence,Closed,MASSINE PL,RANDWICK PARK,AUCKLAND,Sat 4:40 PM
+P021742192,1C,Car/Person Acting Suspiciously,Public safety,Closed,BARBARICH DR,STONEFIELDS,AUCKLAND,Sat 4:40 PM
+P021742248,1C,Car/Person Acting Suspiciously,Public safety,Cancelled,COLLEGE RD,NORTHCOTE,AUCKLAND,Sat 4:40 PM
+P021742100,3530,Disorder,Disorder,Closed,WILLIS ST,TE ARO,WELLINGTON,Sat 4:40 PM
+P021741979,3530,Disorder,Disorder,Closed,-,HAMILTON CENTRAL,HAMILTON,Sat 4:40 PM
+P021742209,4320,Theft Ex Shop,Dishonesty,Closed,QUEEN ST,MASTERTON,MASTERTON,Sat 4:40 PM
+P021742096,6I,Unauthorised Street And Drag Racing,Disorder,Closed,-,TOKOROA,SOUTH WAIKATO,Sat 4:40 PM
+P021742150,3H,Hotel Visit,Liquor,Closed,-,,,Sat 4:30 PM
+P021741284,6110,Trespass,Public safety,Closed,BUCHANAN ST,OPOTIKI,OPOTIKI,Sat 4:30 PM
+P021742095,6110,Trespass,Public safety,Closed,VICTORIA ST,HAMILTON CENTRAL,HAMILTON,Sat 4:30 PM
+P021742124,1U,Traffic Offending,Road Policing,Closed,TUHIMATA RD,PAERATA,AUCKLAND,Sat 4:30 PM
+P021742019,AMB2POL,Ambulance Assistance,Tasks,Cancelled,-,RANDWICK PARK,AUCKLAND,Sat 4:30 PM
+P021738691,1D,Domestic Dispute,Family violence,Closed,WORDSWORTH RD,MANUREWA,AUCKLAND,Sat 4:23 PM
+P021741577,1C,Car/Person Acting Suspiciously,Public safety,Closed,MOEWAI RD,WHITIANGA,THAMES-COROMANDEL,Sat 4:20 PM
+P021742050,1V,Vehicle Collision,Road Policing,Closed,WEKA PASS RD,WEKA PASS,HURUNUI,Sat 4:20 PM
+P021742029,1V,Vehicle Collision,Road Policing,Cancelled,-,RANDWICK PARK,AUCKLAND,Sat 4:20 PM
+P021742031,3H,Hotel Visit,Liquor,Closed,-,,,Sat 4:20 PM
+P021742066,4320,Theft Ex Shop,Dishonesty,Closed,WALTON LEIGH AV,PORIRUA   CENTRE,PORIRUA,Sat 4:20 PM
+P021742025,6110,Trespass,Public safety,Cancelled,KORIMAKO AV,MANGERE BRIDGE,AUCKLAND,Sat 4:20 PM
+P021741854,1U,Traffic Offending,Road Policing,Closed,GORING ST,OPOTIKI,OPOTIKI,Sat 4:20 PM
+P021741982,1U,Traffic Offending,Road Policing,Closed,-,PORT WAIKATO,WAIKATO,Sat 4:20 PM
+P021741605,1D,Domestic Dispute,Family violence,Closed,MAUNGATAUTARI RD,MAUNGATAUTARI,WAIPA,Sat 4:16 PM
+P021741620,1D,Domestic Dispute,Family violence,Closed,KINGS CR,HUTT CENTRAL,LOWER HUTT,Sat 4:15 PM
+P021741593,1310,Robbery,Violence,Closed,CHAMPION ST,CANNONS CREEK,PORIRUA,Sat 4:13 PM
+P021741547,2630,Sexual Attacks,Sexual,Closed,RODNEY ST,WELLSFORD,AUCKLAND,Sat 4:11 PM
+P021741930,1710,Intimidation/Threats,Violence,Cancelled,TRIANGLE RD,MASSEY,AUCKLAND,Sat 4:10 PM
+P021742000,1I,Blockage/Breakdown On Highway,Road Policing,Cancelled,WELLINGTON URBAN MWY,KAIWHARAWHARA,WELLINGTON,Sat 4:10 PM
+P021741993,1I,Blockage/Breakdown On Highway,Road Policing,Closed,WELLINGTON URBAN MWY,NGAURANGA,WELLINGTON,Sat 4:10 PM
+P021741927,1V,Vehicle Collision,Road Policing,Closed,GEORGE ST,MOEREWA,FAR NORTH,Sat 4:10 PM
+P021741862,1V,Vehicle Collision,Road Policing,Cancelled,-,BURNSIDE,CHRISTCHURCH,Sat 4:10 PM
+P021742003,1V,Vehicle Collision,Road Policing,Cancelled,HYPERION DR,RANDWICK PARK,AUCKLAND,Sat 4:10 PM
+P021741960,2M,Missing Person,Public safety,Closed,FAIRFIELD RD,FAIRFIELD,HAMILTON,Sat 4:10 PM
+P021741934,3530,Disorder,Disorder,Closed,JOHNSONVILLE RD,JOHNSONVILLE,WELLINGTON,Sat 4:10 PM
+P021741395,3530,Disorder,Disorder,Closed,GREY ST,HAMILTON EAST,HAMILTON,Sat 4:10 PM
+P021741539,4320,Theft Ex Shop,Dishonesty,Closed,BUCKLEYS RD,LINWOOD,CHRISTCHURCH,Sat 4:10 PM
+P021741521,1J,Juvenile Complaint,Public safety,Closed,BRECKONS AV,NAWTON,HAMILTON,Sat 4:05 PM
+P021741501,1S,Sudden Death,Public safety,Closed,RANGIURU RD,RANGIURU,WESTERN BAY OF PLENTY,Sat 4:04 PM
+P021739713,1710,Intimidation/Threats,Violence,Cancelled,MASSINE PL,RANDWICK PARK,AUCKLAND,Sat 4:00 PM
+P021741898,1C,Car/Person Acting Suspiciously,Public safety,Closed,RAEKURA PL,REDCLIFFS,CHRISTCHURCH,Sat 4:00 PM
+P021741851,1C,Car/Person Acting Suspiciously,Public safety,Closed,FERGUSSON DR,TRENTHAM,UPPER HUTT,Sat 4:00 PM
+P021741859,1D,Domestic Dispute,Family violence,Closed,-,BOULCOTT,LOWER HUTT,Sat 4:00 PM
+P021741676,1K,Drunk Custody/Detox Centre,Liquor,Closed,PARAKAI ST,PARAPARAUMU,KAPITI,Sat 4:00 PM
+P021741868,1V,Vehicle Collision,Road Policing,Closed,BEDFORD ST,CANNONS CREEK,PORIRUA,Sat 4:00 PM
+P021741891,3530,Disorder,Disorder,Closed,TE PENE AV,TITAHI BAY,PORIRUA,Sat 4:00 PM
+P021741899,3H,Hotel Visit,Liquor,Closed,-,,,Sat 4:00 PM
+P021740222,4211,Car Conversion,Vehicle Crime/incident,Closed,BUKEM PL,FAVONA,AUCKLAND,Sat 4:00 PM
+P021741171,1D,Domestic Dispute,Family violence,Closed,PANORAMA DR,PARAHAKI,WHANGAREI,Sat 3:53 PM
+P021741250,1D,Domestic Dispute,Family violence,Closed,ERUA RD,OSTEND,AUCKLAND,Sat 3:53 PM
+P021741818,1510,Serious Assaults,Violence,Closed,TRIANGLE RD,MASSEY,AUCKLAND,Sat 3:50 PM
+P021741838,1C,Car/Person Acting Suspiciously,Public safety,Closed,-,,,Sat 3:50 PM
+P021741833,1V,Vehicle Collision,Road Policing,Closed,RUSSLEY RD,BURNSIDE,CHRISTCHURCH,Sat 3:50 PM
+P021741795,4320,Theft Ex Shop,Dishonesty,Closed,ERUERA ST,ROTORUA,ROTORUA,Sat 3:50 PM
+P021741762,1U,Traffic Offending,Road Policing,Closed,-,,,Sat 3:50 PM
+P021741344,1D,Domestic Dispute,Family violence,Cancelled,POSA AV,HENDERSON,AUCKLAND,Sat 3:41 PM
+P021741342,1D,Domestic Dispute,Family violence,Cancelled,POSA AV,HENDERSON,AUCKLAND,Sat 3:41 PM
+P021741338,1D,Domestic Dispute,Family violence,Closed,POSA AV,HENDERSON,AUCKLAND,Sat 3:41 PM
+P021741725,1510,Serious Assaults,Violence,Closed,SALA ST,WHAKAREWAREWA,ROTORUA,Sat 3:40 PM
+P021741745,1640,Minor Assaults,Violence,Closed,RAILSIDE AV,HENDERSON,AUCKLAND,Sat 3:40 PM
+P021741686,3530,Disorder,Disorder,Closed,QUEEN ST,AUCKLAND CENTRAL,AUCKLAND,Sat 3:40 PM
+P021741696,3910,Liquor Offences,Liquor,Closed,NULL,TE AWAMUTU,WAIPA,Sat 3:40 PM
+P021741717,4120,Burglary,Burglary,Closed,BAY ST,RED BEACH,AUCKLAND,Sat 3:40 PM
+P021741733,1U,Traffic Offending,Road Policing,Closed,-,WOODEND,WAIMAKARIRI,Sat 3:40 PM
+P021741722,1U,Traffic Offending,Road Policing,Closed,-,KAIWAKA,KAIPARA,Sat 3:40 PM
+P021741128,1310,Robbery,Violence,Closed,GREAT SOUTH RD,TAKANINI,AUCKLAND,Sat 3:30 PM
+P021741668,1D,Domestic Dispute,Family violence,Closed,SWANSEA ST,CANNONS CREEK,PORIRUA,Sat 3:30 PM
+P021741688,1I,Blockage/Breakdown On Highway,Road Policing,Closed,SOUTHERN MWY,PENROSE,AUCKLAND,Sat 3:30 PM
+P021740541,2R,Recovery Motor Vehicle,Vehicle Crime/incident,Closed,NULL,PAREMOREMO,AUCKLAND,Sat 3:30 PM
+P021740951,4120,Burglary,Burglary,Closed,MARSHALL ST,FAIRFIELD,HAMILTON,Sat 3:30 PM
+P021741679,4320,Theft Ex Shop,Dishonesty,Closed,CASHEL ST,CHRISTCHURCH CENTRAL,CHRISTCHURCH,Sat 3:30 PM
+P021741675,1U,Traffic Offending,Road Policing,Closed,-,AUCKLAND AIRPORT,AUCKLAND,Sat 3:30 PM
+P021741667,1U,Traffic Offending,Road Policing,Cancelled,ARTHUR CR,HILLTOP,TAUPO,Sat 3:30 PM
+P021741595,3530,Disorder,Disorder,Closed,FITZHERBERT RD,WAINUIOMATA,LOWER HUTT,Sat 3:20 PM
+P021741493,3530,Disorder,Disorder,Cancelled,GREENHILL CR,PAKURANGA,AUCKLAND,Sat 3:20 PM
+P021741627,3H,Hotel Visit,Liquor,Closed,-,,,Sat 3:20 PM
+P021740531,6110,Trespass,Public safety,Closed,FORD ST,OPOTIKI,OPOTIKI,Sat 3:20 PM
+P021741601,1U,Traffic Offending,Road Policing,Closed,ARTHUR CR,HILLTOP,TAUPO,Sat 3:20 PM
+P021741579,AMB2POL,Ambulance Assistance,Tasks,Closed,HIGH ST,CARTERTON,CARTERTON,Sat 3:20 PM
+P021741107,1D,Domestic Dispute,Family violence,Closed,ATKINSON ST,KAWERAU,KAWERAU,Sat 3:16 PM
+P021741038,3710,Child Abuse,Family violence,Closed,SHARDA GR,PARAPARAUMU BEACH,KAPITI,Sat 3:13 PM
+P021741074,1J,Juvenile Complaint,Public safety,Closed,BOULCOTT ST,BOULCOTT,LOWER HUTT,Sat 3:12 PM
+P021741066,1D,Domestic Dispute,Family violence,Closed,VICTORIA AV,MORRINSVILLE,MATAMATA-PIAKO,Sat 3:12 PM
+P021741159,1640,Minor Assaults,Violence,Closed,RAILSIDE AV,HENDERSON,AUCKLAND,Sat 3:10 PM
+P021741552,1V,Vehicle Collision,Road Policing,Cancelled,TE ATATU RD,TE ATATU PENINSULA,AUCKLAND,Sat 3:10 PM
+P021741546,1V,Vehicle Collision,Road Policing,Closed,-,,,Sat 3:10 PM
+P021741517,2M,Missing Person,Public safety,Closed,TI RAKAU DR,PAKURANGA,AUCKLAND,Sat 3:10 PM
+P021741544,2M,Missing Person,Public safety,Closed,ORIENTAL PDE,ORIENTAL BAY,WELLINGTON,Sat 3:10 PM
+P021741169,3530,Disorder,Disorder,Cancelled,WISE ST,WAINUIOMATA,LOWER HUTT,Sat 3:10 PM
+P021740283,3530,Disorder,Disorder,Closed,HAUMIA WAY,OTARA,AUCKLAND,Sat 3:10 PM
+P021741485,4120,Burglary,Burglary,Closed,LEAVER TCE,NORTH NEW BRIGHTON,CHRISTCHURCH,Sat 3:10 PM
+P021741512,4320,Theft Ex Shop,Dishonesty,Closed,MAIN NORTH RD,PAPANUI,CHRISTCHURCH,Sat 3:10 PM
+P021741303,5120,Wilful Damage,Property damage,Cancelled,ORIENTAL TCE,ORIENTAL BAY,WELLINGTON,Sat 3:10 PM
+P021741535,1U,Traffic Offending,Road Policing,Closed,FAIRY SPRINGS RD,FAIRY SPRINGS,ROTORUA,Sat 3:10 PM
+P021741520,1U,Traffic Offending,Road Policing,Closed,GREAT SOUTH RD,GREENLANE,AUCKLAND,Sat 3:10 PM
+P021741210,1U,Traffic Offending,Road Policing,Closed,COULTER RD,HENDERSON VALLEY,AUCKLAND,Sat 3:10 PM
+P021741033,1D,Domestic Dispute,Family violence,Closed,KORMA RD,ROYAL OAK,AUCKLAND,Sat 3:07 PM
+P021741021,1D,Domestic Dispute,Family violence,Closed,PALOMINO PL,PAPAMOA BEACH,TAURANGA,Sat 3:04 PM
+P021741416,1C,Car/Person Acting Suspiciously,Public safety,Cancelled,POSA AV,HENDERSON,AUCKLAND,Sat 3:00 PM
+P021741463,1C,Car/Person Acting Suspiciously,Public safety,Closed,-,CHRISTCHURCH CENTRAL,CHRISTCHURCH,Sat 3:00 PM
+P021741430,1F,Assist Fire/Ambulance/Traffic,Public safety,Closed,-,,,Sat 3:00 PM
+P021741423,1I,Blockage/Breakdown On Highway,Road Policing,Closed,NORTH-WESTERN MWY,GREY LYNN,AUCKLAND,Sat 3:00 PM
+P021741411,1I,Blockage/Breakdown On Highway,Road Policing,Closed,-,OHAEAWAI,FAR NORTH,Sat 3:00 PM
+P021741401,1V,Vehicle Collision,Road Policing,Closed,SH 29,LOWER KAIMAI,WESTERN BAY OF PLENTY,Sat 3:00 PM
+P021740671,3530,Disorder,Disorder,Closed,STANMORE RD,LINWOOD,CHRISTCHURCH,Sat 3:00 PM
+P021740959,4320,Theft Ex Shop,Dishonesty,Closed,MAIN NORTH RD,PAPANUI,CHRISTCHURCH,Sat 3:00 PM
+P021740340,3710,Child Abuse,Family violence,Closed,DOMINION RD,MOUNT ROSKILL,AUCKLAND,Sat 2:54 PM
+P021741347,1C,Car/Person Acting Suspiciously,Public safety,Closed,SOUTH-WESTERN MWY,MANGERE,AUCKLAND,Sat 2:50 PM
+P021741363,1V,Vehicle Collision,Road Policing,Closed,ROSEBANK RD,AVONDALE,AUCKLAND,Sat 2:50 PM
+P021741348,3530,Disorder,Disorder,Cancelled,ACCESS RD,KUMEU,AUCKLAND,Sat 2:50 PM
+P021741335,3530,Disorder,Disorder,Closed,OKOWAI RD,AOTEA,PORIRUA,Sat 2:50 PM
+P021740919,3530,Disorder,Disorder,Closed,WRIGHTS HILL RD,KARORI,WELLINGTON,Sat 2:50 PM
+P021741341,4211,Car Conversion,Vehicle Crime/incident,Closed,TI RAKAU DR,GOLFLANDS,AUCKLAND,Sat 2:50 PM
+P021741381,4370,General Theft,Dishonesty,Closed,RIMU ST,GATE PA,TAURANGA,Sat 2:50 PM
+P021741394,5120,Wilful Damage,Property damage,Closed,MOUNT VIEW DR,MANGAKAKAHI,ROTORUA,Sat 2:50 PM
+P021741357,6I,Unauthorised Street And Drag Racing,Disorder,Closed,ELIZABETH ST,TAUHARA,TAUPO,Sat 2:50 PM
+P021740860,1D,Domestic Dispute,Family violence,Closed,NIKAU ST,NEW LYNN,AUCKLAND,Sat 2:41 PM
+P021741105,1U,Traffic Offending,Road Policing,Closed,SH 3,TE MAPARA,WAITOMO,Sat 2:40 PM
+P021736960,1D,Domestic Dispute,Family violence,Closed,DOCKSIDE LA,AUCKLAND CENTRAL,AUCKLAND,Sat 2:40 PM
+P021740228,1D,Domestic Dispute,Family violence,Closed,MACES RD,BROMLEY,CHRISTCHURCH,Sat 2:35 PM
+P021741116,1640,Minor Assaults,Violence,Closed,THE TERRACE,TIMARU,TIMARU,Sat 2:30 PM
+P021741125,1C,Car/Person Acting Suspiciously,Public safety,Closed,PARKWAY,EAST TAMAKI,AUCKLAND,Sat 2:30 PM
+P021741139,4320,Theft Ex Shop,Dishonesty,Closed,BROADWAY,NEWMARKET,AUCKLAND,Sat 2:30 PM
+P021740606,4370,General Theft,Dishonesty,Closed,ACCESS RD,KUMEU,AUCKLAND,Sat 2:30 PM
+P021741119,1U,Traffic Offending,Road Policing,Closed,SH 1,PAEKAKARIKI,KAPITI,Sat 2:30 PM
+P021740670,1U,Traffic Offending,Road Policing,Closed,SANDHURST DR,PAPAMOA BEACH,TAURANGA,Sat 2:30 PM
+P021741085,1C,Car/Person Acting Suspiciously,Public safety,Closed,BAKEHOUSE LA,OREWA,AUCKLAND,Sat 2:20 PM
+P021741077,3530,Disorder,Disorder,Closed,-,TITAHI BAY,PORIRUA,Sat 2:20 PM
+P021740457,3910,Liquor Offences,Liquor,Closed,QUEENS DR,HUTT CENTRAL,LOWER HUTT,Sat 2:20 PM
+P021741064,4120,Burglary,Burglary,Closed,PUPUKE RD,HILLCREST,AUCKLAND,Sat 2:20 PM
+P021741073,4370,General Theft,Dishonesty,Closed,RICCARTON RD,RICCARTON,CHRISTCHURCH,Sat 2:20 PM
+P021741094,1U,Traffic Offending,Road Policing,Closed,RIVERTON DR,RANDWICK PARK,AUCKLAND,Sat 2:20 PM
+P021740039,1D,Domestic Dispute,Family violence,Closed,TITAHI BAY RD,PORIRUA   CENTRE,PORIRUA,Sat 2:10 PM
+P021740990,1W,Water/Sea Rescue/Emergency,Public safety,Closed,NULL,LYTTELTON HARBOUR/WHAKARAUPO,CHRISTCHURCH,Sat 2:10 PM
+P021741012,3530,Disorder,Disorder,Closed,COLOMBO RD,LANSDOWNE,MASTERTON,Sat 2:10 PM
+P021740616,3530,Disorder,Disorder,Closed,FROBISHER WAY,CLENDON PARK,AUCKLAND,Sat 2:10 PM
+P021740589,3530,Disorder,Disorder,Cancelled,FROBISHER WAY,CLENDON PARK,AUCKLAND,Sat 2:10 PM
+P021740568,1D,Domestic Dispute,Family violence,Closed,KURUPAE RD,HILLTOP,TAUPO,Sat 2:06 PM
+P021740601,3710,Child Abuse,Family violence,Closed,GEORGE ST,TE AWAMUTU,WAIPA,Sat 2:02 PM
+P021740145,1510,Serious Assaults,Violence,Closed,ORERE POINT RD,ORERE POINT,AUCKLAND,Sat 2:00 PM
+P021740892,1I,Blockage/Breakdown On Highway,Road Policing,Closed,UPPER HARBOUR MWY,GREENHITHE,AUCKLAND,Sat 2:00 PM
+P021740719,1I,Blockage/Breakdown On Highway,Road Policing,Closed,NORTHERN MWY,AUCKLAND CENTRAL,AUCKLAND,Sat 2:00 PM
+P021740627,3530,Disorder,Disorder,Closed,LINK CR,STANMORE BAY,AUCKLAND,Sat 2:00 PM
+P021740828,1U,Traffic Offending,Road Policing,Closed,SH 2,RIMUTAKA HILL,UPPER HUTT,Sat 2:00 PM
+P021740823,1U,Traffic Offending,Road Policing,Closed,THORNTON RD,CAMBRIDGE,WAIPA,Sat 2:00 PM
+P021740207,1U,Traffic Offending,Road Policing,Closed,GILLINGHAM RD,KAMO,WHANGAREI,Sat 2:00 PM
+P021740885,1V,Vehicle Collision,Road Policing,Closed,-,MIRAMAR,WELLINGTON,Sat 1:50 PM
+P021740854,3530,Disorder,Disorder,Cancelled,NIKAU ST,NEW LYNN,AUCKLAND,Sat 1:50 PM
+P021740407,5120,Wilful Damage,Property damage,Closed,HIGH ST,RANGIORA,WAIMAKARIRI,Sat 1:50 PM
+P021740865,1U,Traffic Offending,Road Policing,Closed,RIVER RD,HAYWARDS,LOWER HUTT,Sat 1:50 PM
+P021740468,1D,Domestic Dispute,Family violence,Closed,BELL ST,JUDEA,TAURANGA,Sat 1:48 PM
+P021740318,1D,Domestic Dispute,Family violence,Closed,DALLAS PL,RAUMANGA,WHANGAREI,Sat 1:42 PM
+P021740800,1510,Serious Assaults,Violence,Closed,MOONSHINE RD,TRENTHAM,UPPER HUTT,Sat 1:40 PM
+P021740557,1C,Car/Person Acting Suspiciously,Public safety,Cancelled,CASHMERE VIEW ST,SOMERFIELD,CHRISTCHURCH,Sat 1:40 PM
+P021740812,1F,Assist Fire/Ambulance/Traffic,Public safety,Closed,-,,,Sat 1:40 PM
+P021740802,1V,Vehicle Collision,Road Policing,Closed,ARARIMU RD,RAMARAMA,AUCKLAND,Sat 1:40 PM
+P021740774,1V,Vehicle Collision,Road Policing,Closed,FENTON ST,ROTORUA,ROTORUA,Sat 1:40 PM
+P021740227,2R,Recovery Motor Vehicle,Vehicle Crime/incident,Closed,RUSSELL RD,KENSINGTON,WHANGAREI,Sat 1:40 PM
+P021739188,3530,Disorder,Disorder,Closed,BELLEVUE RD,MOUNT EDEN,AUCKLAND,Sat 1:40 PM
+P021739854,3530,Disorder,Disorder,Closed,JANE COWIE AV,OTAHUHU,AUCKLAND,Sat 1:40 PM
+P021740809,1U,Traffic Offending,Road Policing,Closed,WAIMATE HWY,MAKIKIHI,WAIMATE,Sat 1:40 PM
+P021740399,1D,Domestic Dispute,Family violence,Closed,ALDERN RD,MASSEY,AUCKLAND,Sat 1:40 PM
+P021740755,1I,Blockage/Breakdown On Highway,Road Policing,Closed,SH 29,MAUNGATAPU,TAURANGA,Sat 1:30 PM
+P021740746,3530,Disorder,Disorder,Closed,FRASER CR,ELDERSLEA,UPPER HUTT,Sat 1:30 PM
+P021740596,3530,Disorder,Disorder,Closed,NORANA RD,TIMBERLEA,UPPER HUTT,Sat 1:30 PM
+P021739814,3530,Disorder,Disorder,Closed,RATHGAR RD,HENDERSON,AUCKLAND,Sat 1:30 PM
+P021740704,5110,Arson,Property damage,Closed,MEPHAM PL,RANUI,PORIRUA,Sat 1:30 PM
+P021740740,1U,Traffic Offending,Road Policing,Closed,SH 1,PUKERUA BAY,PORIRUA,Sat 1:30 PM
+P021740331,6820,Firearms Offences,Public safety,Closed,BOND RD,TE AWAMUTU,WAIPA,Sat 1:28 PM
+P021739992,1D,Domestic Dispute,Family violence,Closed,PAEROA KOPU RD,KOPU,THAMES-COROMANDEL,Sat 1:24 PM
+P021740287,1310,Robbery,Violence,Closed,-,BEERESCOURT,HAMILTON,Sat 1:23 PM
+P021740691,1V,Vehicle Collision,Road Policing,Closed,PIHA RD,PIHA,AUCKLAND,Sat 1:20 PM
+P021740701,4120,Burglary,Burglary,Closed,MATILDA ST,SEAVIEW,TIMARU,Sat 1:20 PM
+P021740688,1U,Traffic Offending,Road Policing,Closed,-,HIGHLAND PARK,AUCKLAND,Sat 1:20 PM
+P021740525,1640,Minor Assaults,Violence,Closed,RICCARTON RD,UPPER RICCARTON,CHRISTCHURCH,Sat 1:10 PM
+P021740563,1V,Vehicle Collision,Road Policing,Closed,SOUTHERN MWY,GRAFTON,AUCKLAND,Sat 1:10 PM
+P021740600,3H,Hotel Visit,Liquor,Closed,-,,,Sat 1:10 PM
+P021740460,1U,Traffic Offending,Road Policing,Closed,SANDRINGHAM RD,MOUNT ROSKILL,AUCKLAND,Sat 1:10 PM
+P021740547,5134,Wilful Damage - Graffiti,Property damage,Closed,TASMAN ST,MOUNT COOK,WELLINGTON,Sat 1:10 PM
+P021740141,1D,Domestic Dispute,Family violence,Closed,DAVIS CR,NETHERBY,ASHBURTON,Sat 1:01 PM
+P021740392,1F,Assist Fire/Ambulance/Traffic,Public safety,Closed,TRENT ST,ISLAND BAY,WELLINGTON,Sat 1:00 PM
+P021740524,1V,Vehicle Collision,Road Policing,Closed,-,TAURANGA,TAURANGA,Sat 1:00 PM
+P021740076,3710,Child Abuse,Family violence,Cancelled,DENISE CR,HORNBY,CHRISTCHURCH,Sat 12:56 PM
+P021740050,1D,Domestic Dispute,Family violence,Closed,MAIR ST,KENSINGTON,WHANGAREI,Sat 12:55 PM
+P021739949,1D,Domestic Dispute,Family violence,Closed,NEAL ST,PUTARURU,SOUTH WAIKATO,Sat 12:54 PM
+P021740416,2M,Missing Person,Public safety,Closed,NEVILLE ST,SPREYDON,CHRISTCHURCH,Sat 12:50 PM
+P021740423,2R,Recovery Motor Vehicle,Vehicle Crime/incident,Closed,MAIN RD,PUMPKIN HILL,THAMES-COROMANDEL,Sat 12:50 PM
+P021740415,4120,Burglary,Burglary,Closed,THOMAS RD,FLAT BUSH,AUCKLAND,Sat 12:50 PM
+P021740449,4320,Theft Ex Shop,Dishonesty,Closed,SISSON DR,PAPANUI,CHRISTCHURCH,Sat 12:50 PM
+P021740442,6110,Trespass,Public safety,Closed,BELL ST,JUDEA,TAURANGA,Sat 12:50 PM
+P021740401,1U,Traffic Offending,Road Policing,Closed,GREAT SOUTH RD,BOMBAY,AUCKLAND,Sat 12:50 PM
+P021740411,1U,Traffic Offending,Road Policing,Closed,-,EPSOM,AUCKLAND,Sat 12:50 PM
+P021739616,1D,Domestic Dispute,Family violence,Closed,DENISE CR,HORNBY,CHRISTCHURCH,Sat 12:45 PM
+P021740370,1I,Blockage/Breakdown On Highway,Road Policing,Closed,NORTH-WESTERN MWY,AVONDALE,AUCKLAND,Sat 12:40 PM
+P021740383,1I,Blockage/Breakdown On Highway,Road Policing,Closed,AOTEA QUAY,PIPITEA,WELLINGTON,Sat 12:40 PM
+P021740374,1I,Blockage/Breakdown On Highway,Road Policing,Cancelled,AOTEA QUAY,PIPITEA,WELLINGTON,Sat 12:40 PM
+P021740372,1V,Vehicle Collision,Road Policing,Closed,SH 1,QUEEN ELIZABETH PARK,KAPITI,Sat 12:40 PM
+P021740332,2M,Missing Person,Public safety,Closed,-,RANUI,AUCKLAND,Sat 12:40 PM
+P021733983,3850,Domestic Violence,Family violence,Closed,MARTYN ST,WAIUKU,AUCKLAND,Sat 12:39 PM
+P021739754,1D,Domestic Dispute,Family violence,Closed,LANGDON LA,MELVILLE,HAMILTON,Sat 12:32 PM
+P021739767,1D,Domestic Dispute,Family violence,Closed,NIAGARA ST,WAITANGIRUA,PORIRUA,Sat 12:31 PM
+P021740261,1640,Minor Assaults,Violence,Closed,JACK ST,OTANGAREI,WHANGAREI,Sat 12:30 PM
+P021740272,1V,Vehicle Collision,Road Policing,Closed,-,ROSEDALE,AUCKLAND,Sat 12:30 PM
+P021740305,4320,Theft Ex Shop,Dishonesty,Closed,BETHLEHEM RD,BETHLEHEM,TAURANGA,Sat 12:30 PM
+P021740301,6I,Unauthorised Street And Drag Racing,Disorder,Closed,GEAR TCE,RANUI,PORIRUA,Sat 12:30 PM
+P021739892,1D,Domestic Dispute,Family violence,Closed,OXFORD CR,EBDENTOWN,UPPER HUTT,Sat 12:27 PM
+P021739783,1D,Domestic Dispute,Family violence,Closed,VICTORIA ST,WHITIORA,HAMILTON,Sat 12:25 PM
+P021739830,1D,Domestic Dispute,Family violence,Closed,SAN AMBROSIO RISE,HENDERSON,AUCKLAND,Sat 12:21 PM
+P021740226,1C,Car/Person Acting Suspiciously,Public safety,Closed,-,TRENTHAM,UPPER HUTT,Sat 12:20 PM
+P021740216,1C,Car/Person Acting Suspiciously,Public safety,Closed,ASH ST,AVONDALE,AUCKLAND,Sat 12:20 PM
+P021739615,1G,Solvent Abuse,Public safety,Closed,MAIN HWY,ELLERSLIE,AUCKLAND,Sat 12:20 PM
+P021739845,3530,Disorder,Disorder,Closed,TAHAROTO RD,TAKAPUNA,AUCKLAND,Sat 12:20 PM
+P021740187,4320,Theft Ex Shop,Dishonesty,Closed,VICTORIA ST,AUCKLAND CENTRAL,AUCKLAND,Sat 12:20 PM
+P021740211,1U,Traffic Offending,Road Policing,Closed,-,OTAIKA,WHANGAREI,Sat 12:20 PM
+P021740210,1U,Traffic Offending,Road Policing,Closed,SOUTHERN MWY,OTARA,AUCKLAND,Sat 12:20 PM
+P021740129,1640,Minor Assaults,Violence,Closed,GARDEN PL,HAMILTON CENTRAL,HAMILTON,Sat 12:10 PM
+P021739664,1C,Car/Person Acting Suspiciously,Public safety,Closed,WHITEHALL ST,MAIREHAU,CHRISTCHURCH,Sat 12:10 PM
+P021740128,1C,Car/Person Acting Suspiciously,Public safety,Closed,BRACKEN AV,TAKAPUNA,AUCKLAND,Sat 12:10 PM
+P021740119,1U,Traffic Offending,Road Policing,Closed,-,POMARE,ROTORUA,Sat 12:10 PM
+P021740052,1U,Traffic Offending,Road Policing,Closed,-,WESTERN HEIGHTS,ROTORUA,Sat 12:10 PM
+P021740036,1V,Vehicle Collision,Road Policing,Cancelled,SOUTHERN MWY,OTARA,AUCKLAND,Sat 12:00 PM
+P021740094,4120,Burglary,Burglary,Closed,GLENBROOK RD,KINGSEAT,AUCKLAND,Sat 12:00 PM
+P021740042,4320,Theft Ex Shop,Dishonesty,Closed,GLOUCESTER ST,CHRISTCHURCH CENTRAL,CHRISTCHURCH,Sat 12:00 PM
+P021749507,1D,Domestic Dispute,Family violence,In Progress,RICHARD ST,OPOTIKI,OPOTIKI,Sun 10:56 AM
+P021749508,1D,Domestic Dispute,Family violence,Cancelled,GORDON RD,WESTERN HEIGHTS,ROTORUA,Sun 10:52 AM
+P021749828,1C,Car/Person Acting Suspiciously,Public safety,In Progress,KERKWALL DR,NAENAE,LOWER HUTT,Sun 10:50 AM
+P021749090,4120,Burglary,Burglary,Closed,LENORE RD,FAVONA,AUCKLAND,Sun 10:50 AM
+P021749858,1U,Traffic Offending,Road Policing,In Progress,SH 1,PIARERE,SOUTH WAIKATO,Sun 10:50 AM
+P021749486,1D,Domestic Dispute,Family violence,Closed,HUGHES CR,TAITA,LOWER HUTT,Sun 10:49 AM
+P021749462,1D,Domestic Dispute,Family violence,In Progress,GORDON RD,WESTERN HEIGHTS,ROTORUA,Sun 10:49 AM
+P021749482,1D,Domestic Dispute,Family violence,In Progress,CAMBRIDGE RD,WAIHI,HAURAKI,Sun 10:45 AM
+P021749308,1D,Domestic Dispute,Family violence,Closed,WESTERN RD,NGONGOTAHA,ROTORUA,Sun 10:44 AM
+P021749420,1D,Domestic Dispute,Family violence,In Progress,DONNELL AV,FAVONA,AUCKLAND,Sun 10:43 AM
+P021747786,1D,Domestic Dispute,Family violence,Closed,BEACH RD,AUCKLAND CENTRAL,AUCKLAND,Sun 10:42 AM
+P021749418,1D,Domestic Dispute,Family violence,Closed,MILTONIA AV,TE ATATU SOUTH,AUCKLAND,Sun 10:40 AM
+P021748397,1510,Serious Assaults,Violence,In Progress,PARK RD,GRAFTON,AUCKLAND,Sun 10:40 AM
+P021749793,1I,Blockage/Breakdown On Highway,Road Policing,Closed,SOUTHERN MWY,MOUNT WELLINGTON,AUCKLAND,Sun 10:40 AM
+P021749698,1V,Vehicle Collision,Road Policing,In Progress,HANMER SPRINGS RD,HANMER SPRINGS,HURUNUI,Sun 10:40 AM
+P021749817,1V,Vehicle Collision,Road Policing,In Progress,POWELLS RD,FAIRVIEW DOWNS,HAMILTON,Sun 10:40 AM
+P021749815,1V,Vehicle Collision,Road Policing,In Progress,-,WAIRAU VALLEY,AUCKLAND,Sun 10:40 AM
+P021749777,4320,Theft Ex Shop,Dishonesty,In Progress,JACKSON ST,PETONE,LOWER HUTT,Sun 10:40 AM
+P021749207,1D,Domestic Dispute,Family violence,Closed,DEWSBURY GR,WAINUIOMATA,LOWER HUTT,Sun 10:37 AM
+P021749753,1C,Car/Person Acting Suspiciously,Public safety,In Progress,-,POIKE,TAURANGA,Sun 10:30 AM
+P021749727,1C,Car/Person Acting Suspiciously,Public safety,In Progress,AUFIDIUS PL,PUKEKOHE,AUCKLAND,Sun 10:30 AM
+P021749516,1C,Car/Person Acting Suspiciously,Public safety,Closed,UNNAMED RD,NAENAE,LOWER HUTT,Sun 10:30 AM
+P021749715,1I,Blockage/Breakdown On Highway,Road Policing,Cancelled,CONSTELLATION DR,ROSEDALE,AUCKLAND,Sun 10:30 AM
+P021749707,1I,Blockage/Breakdown On Highway,Road Policing,Cancelled,CONSTELLATION DR,ROSEDALE,AUCKLAND,Sun 10:30 AM
+P021749695,1I,Blockage/Breakdown On Highway,Road Policing,Closed,CONSTELLATION DR,ROSEDALE,AUCKLAND,Sun 10:30 AM
+P021749737,1Z,Other Incident,Tasks,Closed,FIRESTONE . SUNNYBRAE RD,,,Sun 10:30 AM
+P021749705,1U,Traffic Offending,Road Policing,In Progress,-,OHAAKI,TAUPO,Sun 10:30 AM
+P021749596,1U,Traffic Offending,Road Policing,Closed,-,RANGIRIRI,WAIKATO,Sun 10:30 AM
+P021749728,1U,Traffic Offending,Road Policing,Closed,FAIRFIELD AV,HUNTLY,WAIKATO,Sun 10:30 AM
+P021749320,1D,Domestic Dispute,Family violence,Closed,FERGUSON RD,OTARA,AUCKLAND,Sun 10:29 AM
+P021749355,1D,Domestic Dispute,Family violence,In Progress,WATARAWI PL,WHAKATANE,WHAKATANE,Sun 10:28 AM
+P021747548,1C,Car/Person Acting Suspiciously,Public safety,In Progress,ENGLAND ST,FREEMANS BAY,AUCKLAND,Sun 10:20 AM
+P021749669,2M,Missing Person,Public safety,In Progress,TAIPAN PL,RANDWICK PARK,AUCKLAND,Sun 10:20 AM
+P021749296,1D,Domestic Dispute,Family violence,Closed,EARLSWORTH RD,MANGERE EAST,AUCKLAND,Sun 10:18 AM
+P021749576,1510,Serious Assaults,Violence,In Progress,SAN VITO PL,HENDERSON,AUCKLAND,Sun 10:10 AM
+P021749589,1I,Blockage/Breakdown On Highway,Road Policing,Closed,SOUTHERN MWY,PAHUREHURE,AUCKLAND,Sun 10:10 AM
+P021749532,1C,Car/Person Acting Suspiciously,Public safety,Closed,-,AUCKLAND CENTRAL,AUCKLAND,Sun 10:00 AM
+P021749505,1I,Blockage/Breakdown On Highway,Road Policing,Closed,-,WHAU VALLEY,WHANGAREI,Sun 10:00 AM
+P021749494,1U,Traffic Offending,Road Policing,In Progress,WELLINGTON URBAN MWY,KAIWHARAWHARA,WELLINGTON,Sun 10:00 AM
+P021748742,1U,Traffic Offending,Road Policing,Closed,AWAITI PL,HAIRINI,TAURANGA,Sun 10:00 AM
+P021749463,1K,Drunk Custody/Detox Centre,Liquor,Closed,MOTUTAIKO ST,TAUPO,TAUPO,Sun 9:50 AM
+P021749388,1U,Traffic Offending,Road Policing,Closed,THORNDON QUAY,PIPITEA,WELLINGTON,Sun 9:40 AM
+P021749047,1D,Domestic Dispute,Family violence,Closed,LYSANDER CR,BEACH HAVEN,AUCKLAND,Sun 9:31 AM
+P021749314,1C,Car/Person Acting Suspiciously,Public safety,Closed,HEATHDALE CR,PAPAKURA,AUCKLAND,Sun 9:30 AM
+P021749315,1I,Blockage/Breakdown On Highway,Road Policing,Closed,SOUTHERN MWY,RAMARAMA,AUCKLAND,Sun 9:30 AM
+P021749293,1I,Blockage/Breakdown On Highway,Road Policing,Closed,SH 3,HANGATIKI,WAITOMO,Sun 9:30 AM
+P021744673,2M,Missing Person,Public safety,Closed,EDEN ST,MANGERE EAST,AUCKLAND,Sun 9:30 AM
+P021749269,1V,Vehicle Collision,Road Policing,Closed,THOMAS ST,TIKIPUNGA,WHANGAREI,Sun 9:20 AM
+P021749203,1V,Vehicle Collision,Road Policing,In Progress,SH 29,LOWER KAIMAI,MATAMATA-PIAKO,Sun 9:20 AM
+P021749264,3530,Disorder,Disorder,Closed,THE MEADOWS,KATIKATI,WESTERN BAY OF PLENTY,Sun 9:20 AM
+P021748876,1U,Traffic Offending,Road Policing,Closed,-,MANGERE BRIDGE,AUCKLAND,Sun 9:20 AM
+P021749235,1U,Traffic Offending,Road Policing,Closed,SH 1,PAEKAKARIKI HILL,PORIRUA,Sun 9:20 AM
+P021748997,1D,Domestic Dispute,Family violence,Closed,SAPPERTON DR,HENDERSON,AUCKLAND,Sun 9:19 AM
+P021747501,1D,Domestic Dispute,Family violence,Closed,CHESHIRE ST,PARNELL,AUCKLAND,Sun 9:17 AM
+P021749188,1V,Vehicle Collision,Road Policing,In Progress,SH 29,LOWER KAIMAI,MATAMATA-PIAKO,Sun 9:10 AM
+P021749178,4320,Theft Ex Shop,Dishonesty,Closed,ROSLIN ST,TOKOROA,SOUTH WAIKATO,Sun 9:10 AM
+P021749204,AMB2POL,Ambulance Assistance,Tasks,In Progress,-,,,Sun 9:10 AM
+P021748781,1F,Assist Fire/Ambulance/Traffic,Public safety,Closed,TAIPUHA RD,WAIOTIRA,WHANGAREI,Sun 9:00 AM
+P021748851,1V,Vehicle Collision,Road Policing,Cancelled,SH 5,NGONGOTAHA,ROTORUA,Sun 9:00 AM
+P021748928,1U,Traffic Offending,Road Policing,Closed,SOUTH-WESTERN MWY,ONEHUNGA,AUCKLAND,Sun 9:00 AM
+P021749168,PURSUIT,Pursuit Of Vehicle,Vehicle Crime/incident,In Progress,OXTON RD,SANDRINGHAM,AUCKLAND,Sun 9:00 AM
+P021748950,1C,Car/Person Acting Suspiciously,Public safety,Closed,PAINTON RD,SILVERDALE,AUCKLAND,Sun 8:50 AM
+P021749110,1I,Blockage/Breakdown On Highway,Road Policing,Closed,NORTHERN MWY,AUCKLAND CENTRAL,AUCKLAND,Sun 8:50 AM
+P021748433,1D,Domestic Dispute,Family violence,Closed,MICHAEL PL,MANGAKAKAHI,ROTORUA,Sun 8:42 AM
+P021749075,1I,Blockage/Breakdown On Highway,Road Policing,Closed,SOUTH-WESTERN MWY,MANGERE,AUCKLAND,Sun 8:40 AM
+P021749063,2M,Missing Person,Public safety,Closed,OLYMPIC PL,PAPAKURA,AUCKLAND,Sun 8:40 AM
+P021745838,3530,Disorder,Disorder,Closed,LAPPINGTON RD,OTARA,AUCKLAND,Sun 8:40 AM
+P021749045,6110,Trespass,Public safety,In Progress,TE PAKI STREAM RD,CAPE REINGA,FAR NORTH,Sun 8:40 AM
+P021749003,1I,Blockage/Breakdown On Highway,Road Policing,Closed,SOUTH-WESTERN MWY,ONEHUNGA,AUCKLAND,Sun 8:30 AM
+P021748998,4120,Burglary,Burglary,Closed,GREAT SOUTH RD,MANUREWA,AUCKLAND,Sun 8:30 AM
+P021748995,1U,Traffic Offending,Road Policing,Closed,BROADWAY,KAIKOHE,FAR NORTH,Sun 8:30 AM
+P021748977,1U,Traffic Offending,Road Policing,Closed,-,PAPATOETOE,AUCKLAND,Sun 8:30 AM
+P021748365,1640,Minor Assaults,Violence,Closed,ELIZABETH ST,ASHBURTON,ASHBURTON,Sun 8:20 AM
+P021745647,1D,Domestic Dispute,Family violence,Closed,FEATHERSTON CR,OTARA,AUCKLAND,Sun 8:19 AM
+P021748678,1D,Domestic Dispute,Family violence,Closed,CLEEK RD,MANGERE EAST,AUCKLAND,Sun 8:13 AM
+P021748778,1C,Car/Person Acting Suspiciously,Public safety,Closed,DULCIE PL,RED HILL,AUCKLAND,Sun 8:10 AM
+P021743625,2M,Missing Person,Public safety,Closed,PINE AV,EBDENTOWN,UPPER HUTT,Sun 8:10 AM
+P021748783,1D,Domestic Dispute,Family violence,Closed,OUTRIGGER PL,MANGERE,AUCKLAND,Sun 8:07 AM
+P021748766,1D,Domestic Dispute,Family violence,Closed,MARLOWE PL,ENDERLEY,HAMILTON,Sun 8:02 AM
+P021748817,1F,Assist Fire/Ambulance/Traffic,Public safety,Closed,SETTLEMENT RD,PAPAKURA,AUCKLAND,Sun 8:00 AM
+P021748912,1I,Blockage/Breakdown On Highway,Road Policing,Closed,SOUTHERN MWY,CONIFER GROVE,AUCKLAND,Sun 8:00 AM
+P021748915,2R,Recovery Motor Vehicle,Vehicle Crime/incident,Closed,DON BUCK RD,MASSEY,AUCKLAND,Sun 8:00 AM
+P021748901,1U,Traffic Offending,Road Policing,Closed,SH 1,PUKERUA BAY,PORIRUA,Sun 8:00 AM
+P021748895,1U,Traffic Offending,Road Policing,Closed,SH 1,PLIMMERTON,PORIRUA,Sun 8:00 AM
+P021748768,1640,Minor Assaults,Violence,Closed,MANIAPOTO ST,OTOROHANGA,OTOROHANGA,Sun 7:50 AM
+P021748885,1V,Vehicle Collision,Road Policing,Closed,ST JOHNS RD,SAINT JOHNS,AUCKLAND,Sun 7:50 AM
+P021748877,2R,Recovery Motor Vehicle,Vehicle Crime/incident,Closed,NAYLORS DR,MANGERE,AUCKLAND,Sun 7:50 AM
+P021748770,3530,Disorder,Disorder,Closed,CHITTICK ST,STOKES VALLEY,LOWER HUTT,Sun 7:50 AM
+P021748814,6110,Trespass,Public safety,Closed,FEDERAL ST,AUCKLAND CENTRAL,AUCKLAND,Sun 7:50 AM
+P021748829,1D,Domestic Dispute,Family violence,Closed,LISA CR,MANGAKAKAHI,ROTORUA,Sun 7:30 AM
+P021748821,1D,Domestic Dispute,Family violence,Closed,HEATH ST,MOUNT MAUNGANUI,TAURANGA,Sun 7:30 AM
+P021748824,1K,Drunk Custody/Detox Centre,Liquor,Closed,MACMILLAN ST,KATIKATI,WESTERN BAY OF PLENTY,Sun 7:30 AM
+P021748823,4120,Burglary,Burglary,Closed,LICHFIELD ST,CHRISTCHURCH CENTRAL,CHRISTCHURCH,Sun 7:30 AM
+P021748799,1C,Car/Person Acting Suspiciously,Public safety,Closed,VICTORS RD,HOON HAY,CHRISTCHURCH,Sun 7:20 AM
+P021748749,1C,Car/Person Acting Suspiciously,Public safety,Closed,NO 1 RD,TE PUKE,WESTERN BAY OF PLENTY,Sun 7:20 AM
+P021748730,1C,Car/Person Acting Suspiciously,Public safety,Closed,MANAWAHE RD,MATATA,WHAKATANE,Sun 7:20 AM
+P021748811,6110,Trespass,Public safety,Closed,HUKANUI RD,CHARTWELL,HAMILTON,Sun 7:20 AM
+P021748808,1U,Traffic Offending,Road Policing,Closed,CURRAN ST,WESTHAVEN,AUCKLAND,Sun 7:20 AM
+P021748802,1U,Traffic Offending,Road Policing,Closed,SOUTHERN MWY,TAKANINI,AUCKLAND,Sun 7:20 AM
+P021748686,1S,Sudden Death,Public safety,Closed,OCEANBEACH RD,MOUNT MAUNGANUI,TAURANGA,Sun 7:18 AM
+P021748719,2630,Sexual Attacks,Sexual,Cancelled,PEMBROKE ST,WAIKATO HOSPITAL,HAMILTON,Sun 7:17 AM
+P021748793,1U,Traffic Offending,Road Policing,Closed,-,OTAIKA,WHANGAREI,Sun 7:10 AM
+P021748780,1I,Blockage/Breakdown On Highway,Road Policing,Closed,SOUTH-WESTERN MWY,MANGERE BRIDGE,AUCKLAND,Sun 7:00 AM
+P021748777,1U,Traffic Offending,Road Policing,Closed,SYMONDS ST,GRAFTON,AUCKLAND,Sun 7:00 AM
+P021748769,FIR2POL,Fire Assistance,Tasks,Cancelled,KAHIKATEA FLAT RD,WAITOKI,AUCKLAND,Sun 7:00 AM
+P021748668,1D,Domestic Dispute,Family violence,Closed,SHARLAND AV,MANUREWA,AUCKLAND,Sun 6:51 AM
+P021748756,1640,Minor Assaults,Violence,Closed,COURTENAY PL,TE ARO,WELLINGTON,Sun 6:50 AM
+P021748750,1V,Vehicle Collision,Road Policing,Closed,KAHIKATEA FLAT RD,WAITOKI,AUCKLAND,Sun 6:50 AM
+P021748720,3530,Disorder,Disorder,Closed,-,TE ARO,WELLINGTON,Sun 6:50 AM
+P021748744,1C,Car/Person Acting Suspiciously,Public safety,Closed,-,TE ARO,WELLINGTON,Sun 6:40 AM
+P021748741,1U,Traffic Offending,Road Policing,Closed,-,,,Sun 6:40 AM
+P021748735,4340,Theft Ex Car,Vehicle Crime/incident,Closed,KESWICK ST,WOOLSTON,CHRISTCHURCH,Sun 6:30 AM
+P021748716,1C,Car/Person Acting Suspiciously,Public safety,Closed,WILLIAM GAMBLE DR,GREENHITHE,AUCKLAND,Sun 6:20 AM
+P021748652,3530,Disorder,Disorder,Cancelled,ULSTER ST,WHITIORA,HAMILTON,Sun 6:20 AM
+P021748717,4120,Burglary,Burglary,Closed,WARDEN ST,RICHMOND,CHRISTCHURCH,Sun 6:20 AM
+P021748691,1U,Traffic Offending,Road Policing,Closed,-,TOKOROA,SOUTH WAIKATO,Sun 6:20 AM
+P021748708,1U,Traffic Offending,Road Policing,Closed,NGAPIPI RD,ORAKEI,AUCKLAND,Sun 6:20 AM
+P021748634,1C,Car/Person Acting Suspiciously,Public safety,Closed,WESTCHESTER DR,CHURTON PARK,WELLINGTON,Sun 6:10 AM
+P021748688,1C,Car/Person Acting Suspiciously,Public safety,Closed,REEVES ST,WAIKANAE BEACH,KAPITI,Sun 6:10 AM
+P021748693,1I,Blockage/Breakdown On Highway,Road Policing,Closed,SOUTHERN MWY,PENROSE,AUCKLAND,Sun 6:10 AM
+P021748700,3530,Disorder,Disorder,Closed,YATES RD,MANGERE EAST,AUCKLAND,Sun 6:10 AM
+P021748684,3530,Disorder,Disorder,Closed,CRESSY TCE,LYTTELTON,CHRISTCHURCH,Sun 6:10 AM
+P021748559,1D,Domestic Dispute,Family violence,Closed,GAYE CR,OTARA,AUCKLAND,Sun 6:00 AM
+P021748649,1I,Blockage/Breakdown On Highway,Road Policing,Closed,SOUTHERN MWY,PENROSE,AUCKLAND,Sun 6:00 AM
+P021748682,1I,Blockage/Breakdown On Highway,Road Policing,Closed,SOUTHERN MWY,PENROSE,AUCKLAND,Sun 6:00 AM
+P021748675,1I,Blockage/Breakdown On Highway,Road Policing,Closed,NORTHERN MWY,SUNNYNOOK,AUCKLAND,Sun 6:00 AM
+P021748596,3530,Disorder,Disorder,Closed,BERESFORD SQ,AUCKLAND CENTRAL,AUCKLAND,Sun 6:00 AM
+P021748604,4220,Interference With Cars,Vehicle Crime/incident,Closed,-,HILLSBOROUGH,AUCKLAND,Sun 5:50 AM
+P021748633,1U,Traffic Offending,Road Policing,Closed,-,AVONDALE,AUCKLAND,Sun 5:50 AM
+P021748468,1D,Domestic Dispute,Family violence,Cancelled,RONWOOD AV,MANUKAU,AUCKLAND,Sun 5:30 AM
+P021748467,1D,Domestic Dispute,Family violence,Closed,RONWOOD AV,MANUKAU,AUCKLAND,Sun 5:30 AM
+P021748486,1C,Car/Person Acting Suspiciously,Public safety,Closed,FOREST HILL RD,HENDERSON,AUCKLAND,Sun 5:30 AM
+P021748623,1D,Domestic Dispute,Family violence,Closed,ANGLERS WAY,WATTLE DOWNS,AUCKLAND,Sun 5:30 AM
+P021748627,1U,Traffic Offending,Road Policing,Closed,-,,,Sun 5:30 AM
+P021747509,1C,Car/Person Acting Suspiciously,Public safety,Closed,SOUTH KENSINGTON WAY,HENDERSON,AUCKLAND,Sun 5:20 AM
+P021748603,1F,Assist Fire/Ambulance/Traffic,Public safety,Closed,MOFFAT RD,TOKOROA,SOUTH WAIKATO,Sun 5:20 AM
+P021748594,3530,Disorder,Disorder,Closed,FENTON ST,ROTORUA,ROTORUA,Sun 5:20 AM
+P021748593,3530,Disorder,Disorder,Closed,OLD TAUPO RD,UTUHINA,ROTORUA,Sun 5:20 AM
+P021748590,6110,Trespass,Public safety,Closed,VINCENT ST,AUCKLAND CENTRAL,AUCKLAND,Sun 5:20 AM
+P021748587,1U,Traffic Offending,Road Policing,Closed,SH 1,PLIMMERTON,PORIRUA,Sun 5:20 AM
+P021748436,1D,Domestic Dispute,Family violence,Closed,HAEREHUKA ST,OTOROHANGA,OTOROHANGA,Sun 5:17 AM
+P021748568,1C,Car/Person Acting Suspiciously,Public safety,Closed,DIGNAN ST,POINT CHEVALIER,AUCKLAND,Sun 5:10 AM
+P021748569,1I,Blockage/Breakdown On Highway,Road Policing,Closed,-,WIRI,AUCKLAND,Sun 5:10 AM
+P021748575,3530,Disorder,Disorder,Closed,SHAW AV,NEW BRIGHTON,CHRISTCHURCH,Sun 5:10 AM
+P021748449,3530,Disorder,Disorder,Closed,-,GLEN EDEN,AUCKLAND,Sun 5:10 AM
+P021748578,5120,Wilful Damage,Property damage,Closed,KENSINGTON AV,PETONE,LOWER HUTT,Sun 5:10 AM
+P021748574,5120,Wilful Damage,Property damage,Closed,BAYNE ST,TE KUITI,WAITOMO,Sun 5:10 AM
+P021748440,1U,Traffic Offending,Road Policing,Closed,-,,,Sun 5:10 AM
+P021748511,1U,Traffic Offending,Road Policing,Closed,-,AUCKLAND CENTRAL,AUCKLAND,Sun 5:00 AM
+P021748501,1C,Car/Person Acting Suspiciously,Public safety,Closed,SPA RD,TAUPO,TAUPO,Sun 4:50 AM
+P021747935,1K,Drunk Custody/Detox Centre,Liquor,Closed,DARBY ST,AUCKLAND CENTRAL,AUCKLAND,Sun 4:50 AM
+P021748485,1I,Blockage/Breakdown On Highway,Road Policing,Closed,NORTHERN MWY,AUCKLAND CENTRAL,AUCKLAND,Sun 4:40 AM
+P021748471,1K,Drunk Custody/Detox Centre,Liquor,Cancelled,ROSCOMMON RD,CLENDON PARK,AUCKLAND,Sun 4:40 AM
+P021748460,3530,Disorder,Disorder,Cancelled,RONWOOD AV,MANUKAU,AUCKLAND,Sun 4:40 AM
+P021748464,5120,Wilful Damage,Property damage,Cancelled,ROSCOMMON RD,CLENDON PARK,AUCKLAND,Sun 4:40 AM
+P021748315,1D,Domestic Dispute,Family violence,Cancelled,ONERAHI RD,ONERAHI,WHANGAREI,Sun 4:39 AM
+P021748273,1D,Domestic Dispute,Family violence,Closed,FREEBAIRN ST,REDWOOD,CHRISTCHURCH,Sun 4:31 AM
+P021748386,1K,Drunk Custody/Detox Centre,Liquor,Closed,ASCOT AV,REMUERA,AUCKLAND,Sun 4:30 AM
+P021748452,3530,Disorder,Disorder,Closed,QUEEN ST,AUCKLAND CENTRAL,AUCKLAND,Sun 4:30 AM
+P021748458,3H,Hotel Visit,Liquor,Closed,-,,,Sun 4:30 AM
+P021748461,5120,Wilful Damage,Property damage,Closed,ROSCOMMON RD,CLENDON PARK,AUCKLAND,Sun 4:30 AM
+P021748308,1U,Traffic Offending,Road Policing,Closed,MASSEY RD,MANGERE EAST,AUCKLAND,Sun 4:30 AM
+P021748347,AMB2POL,Ambulance Assistance,Tasks,Closed,-,AUCKLAND CENTRAL,AUCKLAND,Sun 4:30 AM
+P021748226,1D,Domestic Dispute,Family violence,Closed,ASPIRING AV,CLOVER PARK,AUCKLAND,Sun 4:22 AM
+P021748413,1C,Car/Person Acting Suspiciously,Public safety,Closed,WALKWAY,TE ARO,WELLINGTON,Sun 4:20 AM
+P021748330,1C,Car/Person Acting Suspiciously,Public safety,Closed,MCCRAE WAY,NEW LYNN,AUCKLAND,Sun 4:20 AM
+P021748426,3530,Disorder,Disorder,Closed,WAKEFIELD ST,TE ARO,WELLINGTON,Sun 4:20 AM
+P021748206,1310,Robbery,Violence,Closed,MOORHOUSE AV,SYDENHAM,CHRISTCHURCH,Sun 4:19 AM
+P021748177,1310,Robbery,Violence,Closed,QUEEN ST,AUCKLAND CENTRAL,AUCKLAND,Sun 4:10 AM
+P021748400,1K,Drunk Custody/Detox Centre,Liquor,Closed,RIVERSIDE DR,WHAKATANE,WHAKATANE,Sun 4:10 AM
+P021747811,3530,Disorder,Disorder,Closed,MACDONALD RD,GLENVIEW,HAMILTON,Sun 4:10 AM
+P021748403,4220,Interference With Cars,Vehicle Crime/incident,Closed,OTAIKA RD,WOODHILL,WHANGAREI,Sun 4:10 AM
+P021748393,4370,General Theft,Dishonesty,Closed,FORREST HILL RD,FORREST HILL,AUCKLAND,Sun 4:10 AM
+P021748389,AMB2POL,Ambulance Assistance,Tasks,Closed,ROPATA AV,POINT ENGLAND,AUCKLAND,Sun 4:10 AM
+P021748064,1D,Domestic Dispute,Family violence,Closed,KUPE RD,COOPERS BEACH,FAR NORTH,Sun 4:02 AM
+P021748372,1F,Assist Fire/Ambulance/Traffic,Public safety,Closed,-,PUKEKOHE,AUCKLAND,Sun 4:00 AM
+P021748373,1K,Drunk Custody/Detox Centre,Liquor,Closed,LUDLAM CR,WOBURN,LOWER HUTT,Sun 4:00 AM
+P021748354,1K,Drunk Custody/Detox Centre,Liquor,Closed,WARSPITE AV,ASCOT PARK,PORIRUA,Sun 4:00 AM
+P021748358,3530,Disorder,Disorder,Closed,-,,,Sun 4:00 AM
+P021748367,1U,Traffic Offending,Road Policing,Closed,ULSTER ST,BEERESCOURT,HAMILTON,Sun 4:00 AM
+P021748071,1D,Domestic Dispute,Family violence,Closed,ELIOT ST,ENDERLEY,HAMILTON,Sun 3:57 AM
+P021747721,1D,Domestic Dispute,Family violence,Closed,DERBY PL,CANNONS CREEK,PORIRUA,Sun 3:57 AM
+P021748340,1510,Serious Assaults,Violence,Cancelled,TUI RD,PAPATOETOE,AUCKLAND,Sun 3:50 AM
+P021748313,3530,Disorder,Disorder,Closed,TUI RD,PAPATOETOE,AUCKLAND,Sun 3:50 AM
+P021748312,3530,Disorder,Disorder,Cancelled,RONWOOD AV,MANUKAU,AUCKLAND,Sun 3:50 AM
+P021748342,3530,Disorder,Disorder,Cancelled,SHORTLAND ST,AUCKLAND CENTRAL,AUCKLAND,Sun 3:50 AM
+P021748328,3530,Disorder,Disorder,Closed,FORT ST,AUCKLAND CENTRAL,AUCKLAND,Sun 3:50 AM
+P021748322,3530,Disorder,Disorder,Closed,-,TIMARU,TIMARU,Sun 3:50 AM
+P021748346,1U,Traffic Offending,Road Policing,Closed,CAMBRAI AV,MOUNT ROSKILL,AUCKLAND,Sun 3:50 AM
+P021748323,1U,Traffic Offending,Road Policing,Closed,DIVE CR,TAURANGA,TAURANGA,Sun 3:50 AM
+P021748058,1D,Domestic Dispute,Family violence,Closed,MANUKA RD,GLENFIELD,AUCKLAND,Sun 3:48 AM
+P021748274,1510,Serious Assaults,Violence,Cancelled,LOWER HOBSON ST,AUCKLAND CENTRAL,AUCKLAND,Sun 3:40 AM
+P021748268,1C,Car/Person Acting Suspiciously,Public safety,Closed,WAINUIOMATA RD,WAINUIOMATA,LOWER HUTT,Sun 3:40 AM
+P021748278,1F,Assist Fire/Ambulance/Traffic,Public safety,Closed,WILCOX GR,NAENAE,LOWER HUTT,Sun 3:40 AM
+P021748289,1K,Drunk Custody/Detox Centre,Liquor,Cancelled,GREAT SOUTH RD,MANUKAU,AUCKLAND,Sun 3:40 AM
+P021748245,1R,Breach Of The Peace,Public safety,Closed,MANUKAU STATION RD,MANUKAU,AUCKLAND,Sun 3:40 AM
+P021748046,3530,Disorder,Disorder,Cancelled,-,OTOROHANGA,OTOROHANGA,Sun 3:40 AM
+P021748302,3530,Disorder,Disorder,Closed,ARAWA ST,ROTORUA,ROTORUA,Sun 3:40 AM
+P021748295,3530,Disorder,Disorder,Closed,COURTENAY PL,MOUNT VICTORIA,WELLINGTON,Sun 3:40 AM
+P021748293,3530,Disorder,Disorder,Closed,HARINGTON ST,TAURANGA,TAURANGA,Sun 3:40 AM
+P021748286,3530,Disorder,Disorder,Closed,STAFFORD ST,PARKSIDE,TIMARU,Sun 3:40 AM
+P021748255,3530,Disorder,Disorder,Closed,LAKE RD,NORTHCOTE,AUCKLAND,Sun 3:40 AM
+P021748225,1640,Minor Assaults,Violence,Closed,QUEEN ST,CAMBRIDGE,WAIPA,Sun 3:30 AM
+P021748236,1C,Car/Person Acting Suspiciously,Public safety,Closed,NORTHCOTE RD,HILLCREST,AUCKLAND,Sun 3:30 AM
+P021748235,1I,Blockage/Breakdown On Highway,Road Policing,Closed,NORTHERN MWY,NORTHCOTE POINT,AUCKLAND,Sun 3:30 AM
+P021747283,3530,Disorder,Disorder,Closed,GREAT NORTH RD,GLENDENE,AUCKLAND,Sun 3:30 AM
+P021748247,3530,Disorder,Disorder,Cancelled,LOWER HOBSON ST,AUCKLAND CENTRAL,AUCKLAND,Sun 3:30 AM
+P021748222,3530,Disorder,Disorder,Closed,LOWER HOBSON ST,AUCKLAND CENTRAL,AUCKLAND,Sun 3:30 AM
+P021748219,3530,Disorder,Disorder,Closed,CHURTON CR,TAITA,LOWER HUTT,Sun 3:30 AM
+P021748210,3530,Disorder,Disorder,Closed,-,CHRISTCHURCH CENTRAL,CHRISTCHURCH,Sun 3:30 AM
+P021748060,1U,Traffic Offending,Road Policing,Closed,BRYCE ST,HAMILTON CENTRAL,HAMILTON,Sun 3:30 AM
+P021747511,PURSUIT,Pursuit Of Vehicle,Vehicle Crime/incident,Closed,-,PAPAKURA,AUCKLAND,Sun 3:30 AM
+P021747766,1S,Sudden Death,Public safety,Closed,ADDISON ST,BLOCKHOUSE BAY,AUCKLAND,Sun 3:25 AM
+P021747872,1D,Domestic Dispute,Family violence,Closed,FAIRCHILD AV,GOODWOOD HEIGHTS,AUCKLAND,Sun 3:24 AM
+P021748169,1510,Serious Assaults,Violence,Closed,FITZHERBERT RD,WAINUIOMATA,LOWER HUTT,Sun 3:20 AM
+P021748209,1640,Minor Assaults,Violence,Closed,SUNSET RD,MANGAKAKAHI,ROTORUA,Sun 3:20 AM
+P021748181,1710,Intimidation/Threats,Violence,Closed,KOTARE ST,HILLTOP,TAUPO,Sun 3:20 AM
+P021748155,1C,Car/Person Acting Suspiciously,Public safety,Closed,RIVER RD,KAWERAU,KAWERAU,Sun 3:20 AM
+P021747989,1C,Car/Person Acting Suspiciously,Public safety,Closed,FREDERICK ST,TAWA,WELLINGTON,Sun 3:20 AM
+P021748204,1K,Drunk Custody/Detox Centre,Liquor,Closed,-,TAURANGA,TAURANGA,Sun 3:20 AM
+P021748168,3530,Disorder,Disorder,Closed,HALL ST,PUKEKOHE,AUCKLAND,Sun 3:20 AM
+P021748042,3530,Disorder,Disorder,Closed,RANGITAHI ST,OTOROHANGA,OTOROHANGA,Sun 3:20 AM
+P021748212,3530,Disorder,Disorder,Closed,THE ESPLANADE,HOUGHTON BAY,WELLINGTON,Sun 3:20 AM
+P021748200,3530,Disorder,Disorder,Cancelled,QUEEN ST,CAMBRIDGE,WAIPA,Sun 3:20 AM
+P021748194,3530,Disorder,Disorder,Closed,BLAIR ST,TE ARO,WELLINGTON,Sun 3:20 AM
+P021748176,3530,Disorder,Disorder,Closed,QUEEN ST,CAMBRIDGE,WAIPA,Sun 3:20 AM
+P021748173,3530,Disorder,Disorder,Cancelled,HALL ST,PUKEKOHE,AUCKLAND,Sun 3:20 AM
+P021748193,1U,Traffic Offending,Road Policing,Closed,BRISTOL ST,ST ALBANS,CHRISTCHURCH,Sun 3:20 AM
+P021748162,1C,Car/Person Acting Suspiciously,Public safety,Closed,WILLCOX GR,NAENAE,LOWER HUTT,Sun 3:10 AM
+P021748133,1C,Car/Person Acting Suspiciously,Public safety,Closed,KOTUKU CR,TAKANINI,AUCKLAND,Sun 3:10 AM
+P021748130,1C,Car/Person Acting Suspiciously,Public safety,Closed,EBDENTOWN ST,EBDENTOWN,UPPER HUTT,Sun 3:10 AM
+P021748004,1C,Car/Person Acting Suspiciously,Public safety,Closed,PARK TCE,CHRISTCHURCH CENTRAL,CHRISTCHURCH,Sun 3:10 AM
+P021748150,3530,Disorder,Disorder,Closed,COLOMBO ST,CHRISTCHURCH CENTRAL,CHRISTCHURCH,Sun 3:10 AM
+P021748085,3530,Disorder,Disorder,Closed,SUNNYPARK AV,ROSEHILL,AUCKLAND,Sun 3:10 AM
+P021747998,3530,Disorder,Disorder,Closed,ROYAL RD,MASSEY,AUCKLAND,Sun 3:10 AM
+P021748163,3530,Disorder,Disorder,Closed,TENNESSEE AV,MANGERE EAST,AUCKLAND,Sun 3:10 AM
+P021748136,6I,Unauthorised Street And Drag Racing,Disorder,Closed,FRANCIS AV,STANMORE BAY,AUCKLAND,Sun 3:10 AM
+P021748154,1U,Traffic Offending,Road Policing,Closed,-,TAURANGA,TAURANGA,Sun 3:10 AM
+P021748142,1U,Traffic Offending,Road Policing,Closed,CHAPPIE PL,HORNBY,CHRISTCHURCH,Sun 3:10 AM
+P021747800,1D,Domestic Dispute,Family violence,Closed,BERNARD ST,MOUNT WELLINGTON,AUCKLAND,Sun 3:09 AM
+P021748090,1C,Car/Person Acting Suspiciously,Public safety,Closed,CATHEDRAL SQ,CHRISTCHURCH CENTRAL,CHRISTCHURCH,Sun 3:00 AM
+P021747876,3530,Disorder,Disorder,Closed,-,MANUKAU,AUCKLAND,Sun 3:00 AM
+P021748081,3530,Disorder,Disorder,Cancelled,ROYAL RD,MASSEY,AUCKLAND,Sun 3:00 AM
+P021748075,3530,Disorder,Disorder,Closed,WAIWERA AV,PARAKAI,AUCKLAND,Sun 3:00 AM
+P021748070,3530,Disorder,Disorder,Closed,HALSWELL RD,HALSWELL,CHRISTCHURCH,Sun 3:00 AM
+P021748061,1U,Traffic Offending,Road Policing,Closed,-,,,Sun 3:00 AM
+P021747120,1D,Domestic Dispute,Family violence,Closed,HIGGINS RD,FRANKTON,HAMILTON,Sun 2:55 AM
+P021748023,1C,Car/Person Acting Suspiciously,Public safety,Closed,RIVER RD,KAWERAU,KAWERAU,Sun 2:50 AM
+P021748019,1C,Car/Person Acting Suspiciously,Public safety,Closed,MADRAS ST,ST ALBANS,CHRISTCHURCH,Sun 2:50 AM
+P021748001,1F,Assist Fire/Ambulance/Traffic,Public safety,Closed,-,PAPAKURA,AUCKLAND,Sun 2:50 AM
+P021747368,3530,Disorder,Disorder,Closed,PONSONBY RD,GREY LYNN,AUCKLAND,Sun 2:50 AM
+P021748022,3530,Disorder,Disorder,Closed,BRACKEN AV,TE AROHA,MATAMATA-PIAKO,Sun 2:50 AM
+P021748003,3530,Disorder,Disorder,Closed,VICTORIA ST,HAMILTON CENTRAL,HAMILTON,Sun 2:50 AM
+P021748025,3H,Hotel Visit,Liquor,Closed,-,,,Sun 2:50 AM
+P021747927,3H,Hotel Visit,Liquor,Closed,-,,,Sun 2:50 AM
+P021747741,1U,Traffic Offending,Road Policing,Closed,-,,,Sun 2:50 AM
+P021748006,1U,Traffic Offending,Road Policing,Cancelled,NORTHERN MWY,AUCKLAND CENTRAL,AUCKLAND,Sun 2:50 AM
+P021747970,1C,Car/Person Acting Suspiciously,Public safety,Closed,-,HAMILTON EAST,HAMILTON,Sun 2:40 AM
+P021747698,1C,Car/Person Acting Suspiciously,Public safety,Closed,WARNER RD,OROPI,WESTERN BAY OF PLENTY,Sun 2:40 AM
+P021747962,1I,Blockage/Breakdown On Highway,Road Policing,Cancelled,NORTHERN MWY,AUCKLAND CENTRAL,AUCKLAND,Sun 2:40 AM
+P021747947,1I,Blockage/Breakdown On Highway,Road Policing,Cancelled,NORTHERN MWY,AUCKLAND CENTRAL,AUCKLAND,Sun 2:40 AM
+P021747933,1I,Blockage/Breakdown On Highway,Road Policing,Closed,SOUTHERN MWY,MOUNT WELLINGTON,AUCKLAND,Sun 2:40 AM
+P021747959,1K,Drunk Custody/Detox Centre,Liquor,Closed,CAMERON ST,WHANGAREI,WHANGAREI,Sun 2:40 AM
+P021747944,1Z,Other Incident,Tasks,Closed,NORTHERN MWY,AUCKLAND CENTRAL,AUCKLAND,Sun 2:40 AM
+P021747954,3530,Disorder,Disorder,Closed,-,TIMARU,TIMARU,Sun 2:40 AM
+P021747932,3530,Disorder,Disorder,Closed,FORRESTERS LA,TE ARO,WELLINGTON,Sun 2:40 AM
+P021747924,3530,Disorder,Disorder,Closed,ELLIOTT ST,AUCKLAND CENTRAL,AUCKLAND,Sun 2:40 AM
+P021747975,3H,Hotel Visit,Liquor,Closed,-,,,Sun 2:40 AM
+P021747952,1U,Traffic Offending,Road Policing,Closed,BANK ST,WHANGAREI,WHANGAREI,Sun 2:40 AM
+P021747524,1D,Domestic Dispute,Family violence,Closed,FAIRY SPRINGS RD,FAIRY SPRINGS,ROTORUA,Sun 2:30 AM
+P021747874,1640,Minor Assaults,Violence,Closed,TAY ST,MOUNT MAUNGANUI,TAURANGA,Sun 2:30 AM
+P021747869,1640,Minor Assaults,Violence,Closed,ARAWA ST,ROTORUA,ROTORUA,Sun 2:30 AM
+P021747877,1F,Assist Fire/Ambulance/Traffic,Public safety,Closed,-,,,Sun 2:30 AM
+P021747890,1K,Drunk Custody/Detox Centre,Liquor,Closed,MAY ST,MOUNT MAUNGANUI,TAURANGA,Sun 2:30 AM
+P021747882,3530,Disorder,Disorder,Cancelled,RATA VINE DR,WIRI,AUCKLAND,Sun 2:30 AM
+P021747711,3530,Disorder,Disorder,Closed,WHITFORD AV,MOUNT WELLINGTON,AUCKLAND,Sun 2:30 AM
+P021747898,3530,Disorder,Disorder,Closed,RATA VINE DR,WIRI,AUCKLAND,Sun 2:30 AM
+P021747893,3530,Disorder,Disorder,Closed,VICTORIA ST,CHRISTCHURCH CENTRAL,CHRISTCHURCH,Sun 2:30 AM
+P021747908,3H,Hotel Visit,Liquor,Closed,STAFFORD ST,TIMARU,TIMARU,Sun 2:30 AM
+P021747915,1U,Traffic Offending,Road Policing,Closed,ALABASTER DR,PAPATOETOE,AUCKLAND,Sun 2:30 AM
+P021746846,1U,Traffic Offending,Road Policing,Closed,-,MAIRANGI BAY,AUCKLAND,Sun 2:30 AM
+P021747527,1D,Domestic Dispute,Family violence,Cancelled,HENDERSON ST,WHAKATANE,WHAKATANE,Sun 2:29 AM
+P021747492,1D,Domestic Dispute,Family violence,Closed,HENDERSON ST,WHAKATANE,WHAKATANE,Sun 2:28 AM
+P021747447,1310,Robbery,Violence,Closed,HOBSON ST,AUCKLAND CENTRAL,AUCKLAND,Sun 2:22 AM
+P021745449,1V,Vehicle Collision,Road Policing,Closed,VALLEY RD,MOUNT EDEN,AUCKLAND,Sun 2:20 AM
+P021746592,1V,Vehicle Collision,Road Policing,Closed,RIPON CR,MEADOWBANK,AUCKLAND,Sun 2:20 AM
+P021747845,3530,Disorder,Disorder,Cancelled,TAWA ST,MURUPARA,WHAKATANE,Sun 2:20 AM
+P021747837,3530,Disorder,Disorder,Closed,-,MURUPARA,WHAKATANE,Sun 2:20 AM
+P021747852,3530,Disorder,Disorder,Closed,BRAEMAR TCE,JOHNSONVILLE,WELLINGTON,Sun 2:20 AM
+P021747851,3530,Disorder,Disorder,Closed,HIBISCUS   HWY,RED BEACH,AUCKLAND,Sun 2:20 AM
+P021747555,3530,Disorder,Disorder,Closed,MARAMA ST,FRANKTON,HAMILTON,Sun 2:20 AM
+P021747835,3H,Hotel Visit,Liquor,Closed,-,,,Sun 2:20 AM
+P021747812,3H,Hotel Visit,Liquor,Closed,GREAT SOUTH RD,PAPAKURA,AUCKLAND,Sun 2:20 AM
+P021747805,3H,Hotel Visit,Liquor,Closed,-,,,Sun 2:20 AM
+P021747590,3H,Hotel Visit,Liquor,Closed,-,,,Sun 2:20 AM
+P021747862,3H,Hotel Visit,Liquor,Closed,SOPHIA ST,TIMARU,TIMARU,Sun 2:20 AM
+P021747753,1U,Traffic Offending,Road Policing,Closed,-,,,Sun 2:20 AM
+P021747400,1J,Juvenile Complaint,Public safety,Closed,RUAHINE ST,HATAITAI,WELLINGTON,Sun 2:14 AM
+P021747371,1D,Domestic Dispute,Family violence,Closed,NALANDA CR,BROADMEADOWS,WELLINGTON,Sun 2:13 AM
+P021747360,1D,Domestic Dispute,Family violence,Closed,-,MOUNT ROSKILL,AUCKLAND,Sun 2:11 AM
+P021747756,1C,Car/Person Acting Suspiciously,Public safety,Closed,ZITA MARIA DR,MASSEY,AUCKLAND,Sun 2:10 AM
+P021747792,1D,Domestic Dispute,Family violence,Closed,SUMNERVALE DR,SUMNER,CHRISTCHURCH,Sun 2:10 AM
+P021747769,1D,Domestic Dispute,Family violence,Closed,PEVEREL ST,RICCARTON,CHRISTCHURCH,Sun 2:10 AM
+P021747776,3530,Disorder,Disorder,Closed,WINTERS RD,MAIREHAU,CHRISTCHURCH,Sun 2:10 AM
+P021747762,3530,Disorder,Disorder,Closed,SUNSET RD,MANGAKAKAHI,ROTORUA,Sun 2:10 AM
+P021747455,3530,Disorder,Disorder,Closed,PONSONBY RD,GREY LYNN,AUCKLAND,Sun 2:10 AM
+P021747503,1U,Traffic Offending,Road Policing,Closed,-,CHARTWELL,HAMILTON,Sun 2:10 AM
+P021747685,1510,Serious Assaults,Violence,Closed,ASCOT AV,REMUERA,AUCKLAND,Sun 2:00 AM
+P021747717,1C,Car/Person Acting Suspiciously,Public safety,Closed,SUMMERLAND DR,HENDERSON,AUCKLAND,Sun 2:00 AM
+P021747669,3530,Disorder,Disorder,Closed,CAMERON ST,PAPAKURA,AUCKLAND,Sun 2:00 AM
+P021747713,3530,Disorder,Disorder,Cancelled,KILKERRAN PL,PORIRUA   CENTRE,PORIRUA,Sun 2:00 AM
+P021747701,3530,Disorder,Disorder,Closed,WELCOME BAY RD,WELCOME BAY,TAURANGA,Sun 2:00 AM
+P021747677,3H,Hotel Visit,Liquor,Closed,-,,,Sun 2:00 AM
+P021747665,3H,Hotel Visit,Liquor,Closed,-,,,Sun 2:00 AM
+P021747714,3H,Hotel Visit,Liquor,Closed,-,,,Sun 2:00 AM
+P021747591,6I,Unauthorised Street And Drag Racing,Disorder,Closed,LUNNS RD,MIDDLETON,CHRISTCHURCH,Sun 2:00 AM
