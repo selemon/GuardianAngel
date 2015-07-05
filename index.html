@@ -58,7 +58,7 @@
         Find out the crime rate where you are.
     </p>
     <p>
-        <button id="button" onclick="GetMap()">Show Crime Rate</button>
+        <button id="button">Show Crime Rate</button>
     </p>
 
 </div>
@@ -741,13 +741,11 @@ preserveViewport: true
             alert("Please select a search area");
         }
         else {
-            $("#cssmenu").hide();
             $("#mapDiv").show();
             $("#pac-input").show();
             $("#frontPage").hide();
+            GetMap();
         }
-        $("#pac-input").hide();
-        $("#mapDiv").hide()
     });
 
     $(document).on("mobileinit", function(){
