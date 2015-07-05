@@ -322,7 +322,7 @@ preserveViewport: true
 //                    title: place.name,
 //                    position: place.geometry.location
 //                });
-                mouseListener(searchBox);
+                mouseListener(place);
                 alert(place.name);
                 var circle = new google.maps.Circle({
                     center: place.geometry.location,
@@ -386,7 +386,7 @@ preserveViewport: true
     function mouseListener(autocomplete){
         alert("im in mouse listener");
         // Get the place details from the autocomplete object.
-        var place = autocomplete.getPlace();
+        var place = autocomplete;
 
 
 
