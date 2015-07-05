@@ -147,7 +147,7 @@
             alert("Total of "+count+" crimes in "+name+":\n\n Disorder: "+
             Disorder+"%\n Liquor: "+
             Liquor+"%\n Traffic Offending: "+
-            TrafficOffending+"%\n AMB2POL: "+
+            TrafficOffending+"%\n DomesticDispute: "+
             DomesticDispute+"%\n Robbery: "+
             Robbery+"%\n Drugs: "+
             Drugs+"%\n Burglary: "+
@@ -322,7 +322,7 @@ preserveViewport: true
 //                    title: place.name,
 //                    position: place.geometry.location
 //                });
-                mouseListener(place);
+
                 alert(place.name);
                 var circle = new google.maps.Circle({
                     center: place.geometry.location,
@@ -335,11 +335,11 @@ preserveViewport: true
                     strokeOpacity: 1.0,
                     clickable: true
                 });
-
+                mouseListener(place, circle);
                 markers.push(circle);
 
                 bounds.extend(place.geometry.location);
-                listener(circle);
+//                listener(circle);
 
             }
 
@@ -383,7 +383,7 @@ preserveViewport: true
 
 //    google.maps.event.addDomListener(window, 'load', initialize);
 
-    function mouseListener(autocomplete){
+    function mouseListener(autocomplete, circle){
         alert("im in mouse listener");
         // Get the place details from the autocomplete object.
         var place = autocomplete;
@@ -400,6 +400,7 @@ preserveViewport: true
 //                document.getElementById(addressType).value = val;
             }
         }
+        listener(circle);
     }
 
 
@@ -433,7 +434,7 @@ preserveViewport: true
             alert("Total of "+count+" crimes in "+name+":\n\n Disorder: "+
             Disorder+"%\n Liquor: "+
             Liquor+"%\n Traffic Offending: "+
-            TrafficOffending+"%\n AMB2POL: "+
+            TrafficOffending+"%\n DomesticDispute: "+
             DomesticDispute+"%\n Robbery: "+
             Robbery+"%\n Drugs: "+
             Drugs+"%\n Burglary: "+
