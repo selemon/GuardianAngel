@@ -428,9 +428,9 @@ preserveViewport: true
         }
 
         if(selected==='suburb'){
-            getData(info.locality);
+            getData(info.sublocality);
         }else if(selected==='city'){
-            getDataBySuburb(info.sublocality);
+            getDataBySuburb(info.locality);
         }else if(selected==='street'){
             getDataByLocation(info.route);
         }
