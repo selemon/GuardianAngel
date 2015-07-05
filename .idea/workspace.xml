@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c739601-3db3-4f6f-8c5a-8beea3c43cd8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/populateTable.js" afterPath="$PROJECT_DIR$/populateTable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="GuardianAngel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,11 +28,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5447394">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-1.4117647" vertical-offset="10998" max-vertical-offset="11640">
-                  <caret line="738" column="28" selection-start-line="738" selection-start-column="28" selection-end-line="738" selection-end-column="28" />
+                <state vertical-scroll-proportion="1.0914634" vertical-offset="10713" max-vertical-offset="11655">
+                  <caret line="750" column="17" selection-start-line="750" selection-start-column="17" selection-end-line="750" selection-end-column="17" />
                   <folding>
                     <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
@@ -92,10 +92,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="populateTable.js" pinned="false" current-in-tab="true">
+          <file leaf-file-name="populateTable.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/populateTable.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.9447514" vertical-offset="34917" max-vertical-offset="35760">
+                <state vertical-scroll-proportion="0.0" vertical-offset="34917" max-vertical-offset="35760">
                   <caret line="2362" column="0" selection-start-line="2362" selection-start-column="0" selection-end-line="2362" selection-end-column="0" />
                   <folding />
                 </state>
@@ -172,8 +172,8 @@
         <option value="$PROJECT_DIR$/CrimeDataNzCurrent.csv" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/server.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/populateTable.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -727,21 +727,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/populateTable.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.4117647" vertical-offset="10998" max-vertical-offset="11640">
-          <caret line="738" column="28" selection-start-line="738" selection-start-column="28" selection-end-line="738" selection-end-column="28" />
-          <folding>
-            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="34917" max-vertical-offset="35760">
+          <caret line="2362" column="0" selection-start-line="2362" selection-start-column="0" selection-end-line="2362" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/populateTable.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9447514" vertical-offset="34917" max-vertical-offset="35760">
-          <caret line="2362" column="0" selection-start-line="2362" selection-start-column="0" selection-end-line="2362" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="1.0914634" vertical-offset="10713" max-vertical-offset="11655">
+          <caret line="750" column="17" selection-start-line="750" selection-start-column="17" selection-end-line="750" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
