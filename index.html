@@ -726,14 +726,29 @@ preserveViewport: true
     var selected = undefined;
     $("#street").on("click", function () {
         selected = "street";
+        $("#cssmenu").hide();
+        $("#mapDiv").show();
+        $("#pac-input").show();
+        $("#frontPage").hide();
+        GetMap();
     });
 
     $("#suburb").on("click", function () {
         selected = "suburb";
+        $("#cssmenu").hide();
+        $("#mapDiv").show();
+        $("#pac-input").show();
+        $("#frontPage").hide();
+        GetMap();
     });
 
     $("#city").on("click", function () {
         selected = "city";
+        $("#cssmenu").hide();
+        $("#mapDiv").show();
+        $("#pac-input").show();
+        $("#frontPage").hide();
+        GetMap();
     });
 
     $("#button").on("click", function () {
