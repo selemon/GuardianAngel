@@ -65,10 +65,12 @@
         <button id="street">Crime Rate by Street</button>
         <button id="suburb">Crime Rate by Suburb</button>
         <button id="city">Crime Rate by City</button>
-        <button id="back">Back</button>
 
 </div>
 
+<div id="b">
+    <button id="back">Back</button>
+</div>
 <input id="pac-input" class="controls" type="text" placeholder="Search Box">
 <div id="mapDiv" style="position: absolute; width: 100%; height: 100%;">
 
@@ -743,6 +745,7 @@ preserveViewport: true
     $("#city").on("click", function () {
         selected = "city";
         $("#cssmenu").hide();
+        $("#b").hide();
         $("#mapDiv").show();
         $("#pac-input").show();
         $("#frontPage").hide();
@@ -755,6 +758,7 @@ preserveViewport: true
 
     $(document).on("mobileinit", function(){
         $("#pac-input").hide();
+        $("#b").hide();
         $("#mapDiv").hide();
 
 
