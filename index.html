@@ -755,13 +755,14 @@ preserveViewport: true
 
     $("#backButton").on("click", function () {
         $("#frontPage").show();
-        $("#pac-input").hide();
-        $("#mapDiv").hide();
+        $("#pac-input").show();
+        $("#mapDiv").show();
     });
 
     $(document).on("mobileinit", function(){
         $("#pac-input").hide();
         $("#mapDiv").hide();
+        $("#backButton").hide();
 
 
     });
