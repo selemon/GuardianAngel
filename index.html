@@ -723,7 +723,7 @@ preserveViewport: true
 //        });
 //    }
 
-    var selected = "city";
+    var selected = undefined;
     $("#street").on("click", function () {
         selected = "street";
     });
@@ -737,9 +737,15 @@ preserveViewport: true
     });
 
     $("#button").on("click", function () {
-        $("#mapDiv").show();
-        $("#pac-input").show();
-        $("#frontPage").hide();
+        if(selected===undefined){
+            alert("Please select a search area");
+        }
+        else {
+            $("#cssmenu").hide();
+            $("#mapDiv").show();
+            $("#pac-input").show();
+            $("#frontPage").hide();
+        }
     });
 
     $(document).on("mobileinit", function(){
