@@ -322,7 +322,7 @@ preserveViewport: true
 //                    title: place.name,
 //                    position: place.geometry.location
 //                });
-                mouseListener();
+                mouseListener(searchBox);
                 alert(place.name);
                 var circle = new google.maps.Circle({
                     center: place.geometry.location,
@@ -361,69 +361,47 @@ preserveViewport: true
 
     }
 
+    var componentForm = {
+        street_number: 'short_name',
+        route: 'long_name',
+        locality: 'long_name',
+        administrative_area_level_1: 'short_name',
+        country: 'long_name',
+        postal_code: 'short_name',
+        sublocality: 'long_name'
+    };
+
+    var info = {
+        street_number: '',
+        route: '',
+        locality: '',
+        administrative_area_level_1: '',
+        country: '',
+        postal_code: '',
+        sublocality: ''
+    };
+
 //    google.maps.event.addDomListener(window, 'load', initialize);
 
-    function mouseListener(){
+    function mouseListener(autocomplete){
         alert("im in mouse listener");
-        var address = document.getElementById("pac-input").value;
-        //reverse geocoder to get the physical name of the locations
-        geocoder.geocode({'latLng': address}, function(results, status) {
-            if (status == google.maps.GeocoderStatus.OK) {
-                //we'll do cool crap here
-                //Check result 0
-                alert("im calling loc");
-                var lat = results[0].geometry.location.lat();
-                var lng = results[0].geometry.location.lng();
-                getLoc(lat, lng);
-//                getData();
-//                getDataBySuburb();
-//                getDataByLocation();
+        // Get the place details from the autocomplete object.
+        var place = autocomplete.getPlace();
+
+
+
+        // Get each component of the address from the place details
+        // and fill the corresponding field on the form.
+        for (var i = 0; i < place.address_components.length; i++) {
+            var addressType = place.address_components[i].types[0];
+            if (componentForm[addressType]) {
+                var val = place.address_components[i][componentForm[addressType]];
+                info[addressType] = val;
+//                document.getElementById(addressType).value = val;
             }
-        });
+        }
     }
 
-    // Successful geolocation
-    function getLoc(lat, lng) {
-
-//        carLatLng = {
-//            latitude: loc.coords.latitude,
-//            longitude: loc.coords.longitude,
-//            accuracy: loc.coords.accuracy
-//        };
-
-        // Set the user's location
-        userLocation = new google.maps.LatLng(lat, lng);
-
-
-        //reverse geocoder to get the physical name of the locations
-        geocoder.geocode({'latLng': userLocation}, function(results, status) {
-            if (status == google.maps.GeocoderStatus.OK) {
-                //we'll do cool crap here
-                //Check result 0
-                var result = results[0];
-                //look for locality tag and administrative_area_level_1
-
-
-                var street = "";
-                for(var i=0, len=result.address_components.length; i<len; i++) {
-                    var ac = result.address_components[i];
-                    if(ac.types.indexOf("locality") >= 0) city = ac.long_name;
-                    if(ac.types.indexOf("sublocality") >= 0) state = ac.long_name;
-                    if(ac.types.indexOf("street_number") >= 0) street = ac.long_name;
-                    if(ac.types.indexOf("route") >= 0) street +=" "+ ac.long_name;
-                    if(ac.types.indexOf("route") >= 0) stAddr = ac.long_name;
-                    if(ac.types.indexOf("locality") >= 0) street +=" "+ ac.long_name;
-                }
-                //only report if we got Good Stuff
-                if(city != '' && state != '') {
-                    alert("Hello to you out there in "+city+", "+state+"!"+", "+street);
-                }
-                getData();
-//                getDataBySuburb();
-//                getDataByLocation();
-            }
-        });
-    }
 
     function listener(circle){
 
