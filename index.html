@@ -174,7 +174,7 @@
             Assaults+"%");
             //displayInfo(circle);
         });
-//        initialize();
+        initialize();
 
 //        getData();
 //        read();
@@ -724,14 +724,13 @@ preserveViewport: true
 //    }
 
     var selected = undefined;
-    GetMap();
     $("#street").on("click", function () {
         selected = "street";
         $("#mapDiv").show();
         $("#pac-input").show();
         $("#frontPage").hide();
-//        GetMap();
-        initialize();
+        GetMap();
+//        initialize();
     });
 
     $("#suburb").on("click", function () {
@@ -739,8 +738,8 @@ preserveViewport: true
         $("#mapDiv").show();
         $("#pac-input").show();
         $("#frontPage").hide();
-//        GetMap();
-        initialize();
+        GetMap();
+//        initialize();
     });
 
     $("#city").on("click", function () {
@@ -748,8 +747,8 @@ preserveViewport: true
         $("#mapDiv").show();
         $("#pac-input").show();
         $("#frontPage").hide();
-//        GetMap();
-        initialize();
+        GetMap();
+//        initialize();
     });
 
     $("#button").on("click", function () {
