@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6c739601-3db3-4f6f-8c5a-8beea3c43cd8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GuardianAngel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,8 +32,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.20731707" vertical-offset="10878" max-vertical-offset="11685">
-                  <caret line="732" column="18" selection-start-line="732" selection-start-column="18" selection-end-line="732" selection-end-column="18" />
+                <state vertical-scroll-proportion="-10.158537" vertical-offset="11193" max-vertical-offset="11685">
+                  <caret line="413" column="10" selection-start-line="413" selection-start-column="10" selection-end-line="413" selection-end-column="10" />
                   <folding>
                     <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
@@ -737,8 +738,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20731707" vertical-offset="10878" max-vertical-offset="11685">
-          <caret line="732" column="18" selection-start-line="732" selection-start-column="18" selection-end-line="732" selection-end-column="18" />
+        <state vertical-scroll-proportion="-10.158537" vertical-offset="11193" max-vertical-offset="11685">
+          <caret line="413" column="10" selection-start-line="413" selection-start-column="10" selection-end-line="413" selection-end-column="10" />
           <folding>
             <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
