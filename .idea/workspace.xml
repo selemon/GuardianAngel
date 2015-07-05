@@ -31,10 +31,10 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.45731708" vertical-offset="780" max-vertical-offset="11130">
-                  <caret line="67" column="57" selection-start-line="67" selection-start-column="57" selection-end-line="67" selection-end-column="57" />
+                <state vertical-scroll-proportion="0.4512195" vertical-offset="6288" max-vertical-offset="11400">
+                  <caret line="434" column="8" selection-start-line="434" selection-start-column="8" selection-end-line="434" selection-end-column="8" />
                   <folding>
-                    <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -139,7 +139,7 @@
           <file leaf-file-name="bubble.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/../SWEN303/netballD3/bubble.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.3468208" vertical-offset="975" max-vertical-offset="4830">
+                <state vertical-scroll-proportion="0.115606934" vertical-offset="735" max-vertical-offset="4830">
                   <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
                   <folding />
                 </state>
@@ -345,7 +345,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="3846" max-vertical-offset="4365">
           <caret line="92" column="0" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -435,7 +435,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="3723" max-vertical-offset="4365">
           <caret line="275" column="21" selection-start-line="275" selection-start-column="21" selection-end-line="275" selection-end-column="21" />
           <folding>
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -525,7 +525,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3450">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -566,7 +566,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="3090">
           <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
           <folding>
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -718,7 +718,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../SWEN303/netballD3/bubble.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.3468208" vertical-offset="975" max-vertical-offset="4830">
+        <state vertical-scroll-proportion="0.115606934" vertical-offset="735" max-vertical-offset="4830">
           <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
           <folding />
         </state>
@@ -726,10 +726,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45731708" vertical-offset="780" max-vertical-offset="11130">
-          <caret line="67" column="57" selection-start-line="67" selection-start-column="57" selection-end-line="67" selection-end-column="57" />
+        <state vertical-scroll-proportion="0.4512195" vertical-offset="6288" max-vertical-offset="11400">
+          <caret line="434" column="8" selection-start-line="434" selection-start-column="8" selection-end-line="434" selection-end-column="8" />
           <folding>
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
