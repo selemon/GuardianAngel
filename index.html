@@ -57,9 +57,6 @@
     <p>
         Find out the crime rate where you are.
     </p>
-    <p>
-        <button id="button">Show Crime Rate</button>
-    </p>
 
 </div>
 
@@ -68,6 +65,7 @@
         <button id="street">Crime Rate by Street</button>
         <button id="suburb">Crime Rate by Suburb</button>
         <button id="city">Crime Rate by City</button>
+        <button id="back">Back</button>
 
 </div>
 
@@ -751,19 +749,9 @@ preserveViewport: true
         GetMap();
     });
 
-    $("#button").on("click", function () {
-        if(selected===undefined){
-            alert("Please select a search area");
-        }
-        else {
-            $("#cssmenu").hide();
-            $("#mapDiv").show();
-            $("#pac-input").show();
-            $("#frontPage").hide();
-            GetMap();
-        }
+    $('#back').click(function() {
+        location.reload();
     });
-
 
     $(document).on("mobileinit", function(){
         $("#pac-input").hide();
