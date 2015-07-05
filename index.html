@@ -72,7 +72,7 @@
 </div>
 <div id="back">
     <p>
-        <button id="backButton">Show Crime Rate</button>
+        <button id="backButton"><a href='index.html'>Show Crime Rate</a></button>
     </p>
 </div>
 <input id="pac-input" class="controls" type="text" placeholder="Search Box">
@@ -753,16 +753,10 @@ preserveViewport: true
         }
     });
 
-    $("#backButton").on("click", function () {
-        $("#frontPage").show();
-        $("#pac-input").show();
-        $("#mapDiv").show();
-    });
 
     $(document).on("mobileinit", function(){
         $("#pac-input").hide();
         $("#mapDiv").hide();
-        $("#back").hide();
 
 
     });
