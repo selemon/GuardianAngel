@@ -724,12 +724,13 @@ preserveViewport: true
 //    }
 
     var selected = undefined;
+    GetMap();
     $("#street").on("click", function () {
         selected = "street";
         $("#mapDiv").show();
         $("#pac-input").show();
         $("#frontPage").hide();
-        GetMap();
+//        GetMap();
         initialize();
     });
 
@@ -738,7 +739,7 @@ preserveViewport: true
         $("#mapDiv").show();
         $("#pac-input").show();
         $("#frontPage").hide();
-        GetMap();
+//        GetMap();
         initialize();
     });
 
@@ -747,7 +748,7 @@ preserveViewport: true
         $("#mapDiv").show();
         $("#pac-input").show();
         $("#frontPage").hide();
-        GetMap();
+//        GetMap();
         initialize();
     });
 
