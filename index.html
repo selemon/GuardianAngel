@@ -400,6 +400,7 @@ preserveViewport: true
 //                document.getElementById(addressType).value = val;
             }
         }
+        getDataBySuburb(info.locality);
         listener(circle);
     }
 
@@ -409,7 +410,7 @@ preserveViewport: true
         //add an event listener to circle
         google.maps.event.addListener(circle, 'click', function()
         {
-            getDataBySuburb(info.locality);
+
             if(Disorder===undefined){
                 Disorder = 0;
             }
